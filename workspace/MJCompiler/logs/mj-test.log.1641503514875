@@ -1,0 +1,215 @@
+INFO  22:11:28,770 - Compiling source file: C:\Users\ji180550d\Desktop\PP1\PROJECT\Labs\lab1_code\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  22:11:28,799 - #2 program
+INFO  22:11:28,799 - #44 Keske
+INFO  22:11:28,799 - #5 const
+INFO  22:11:28,800 - #44 int
+INFO  22:11:28,800 - #44 pi
+INFO  22:11:28,800 - #6 =
+INFO  22:11:28,800 - #45 3
+INFO  22:11:28,800 - #8 ;
+INFO  22:11:28,801 - #44 int
+INFO  22:11:28,802 - #44 x
+INFO  22:11:28,802 - #7 ,
+INFO  22:11:28,803 - #44 y
+INFO  22:11:28,803 - #9 [
+INFO  22:11:28,803 - #10 ]
+INFO  22:11:28,803 - #8 ;
+INFO  22:11:28,804 - #44 bool
+INFO  22:11:28,805 - #44 flag
+INFO  22:11:28,805 - #8 ;
+INFO  22:11:28,805 - #3 {
+INFO  22:11:28,805 - #14 void
+INFO  22:11:28,805 - #44 main
+INFO  22:11:28,810 - #12 (
+INFO  22:11:28,811 - #13 )
+INFO  22:11:28,811 - #44 int
+INFO  22:11:28,812 - #44 a
+INFO  22:11:28,812 - #7 ,
+INFO  22:11:28,812 - #44 b
+INFO  22:11:28,812 - #9 [
+INFO  22:11:28,812 - #10 ]
+INFO  22:11:28,812 - #8 ;
+INFO  22:11:28,812 - #3 {
+INFO  22:11:28,812 - #44 chr
+INFO  22:11:28,813 - #6 =
+INFO  22:11:28,813 - #47 w
+INFO  22:11:28,814 - #8 ;
+INFO  22:11:28,815 - #23 print
+INFO  22:11:28,815 - #12 (
+INFO  22:11:28,815 - #44 chr
+INFO  22:11:28,815 - #13 )
+INFO  22:11:28,816 - #8 ;
+INFO  22:11:28,816 - #4 }
+INFO  22:11:28,816 - #4 }
+INFO  22:11:28,820 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConVarRecDeclListVar(
+    ConVarRecDeclListVar(
+      ConVarRecDeclListCon(
+        ConVarRecDeclListEpsilon(
+        ) [ConVarRecDeclListEpsilon]
+        ConstDeclList(
+          Type(
+           int
+          ) [Type]
+          ConstDec(
+           pi
+            NumConst(
+             3
+            ) [NumConst]
+          ) [ConstDec]
+          MoreConstDeclEpsilon(
+          ) [MoreConstDeclEpsilon]
+        ) [ConstDeclList]
+      ) [ConVarRecDeclListCon]
+      VarDeclList(
+        Type(
+         int
+        ) [Type]
+        VarDec(
+          VarName(
+           x
+          ) [VarName]
+          Array_No(
+          ) [Array_No]
+        ) [VarDec]
+        MoreVarDeclaration(
+          VarDec(
+            VarName(
+             y
+            ) [VarName]
+            Array_Yes(
+            ) [Array_Yes]
+          ) [VarDec]
+          MoreVarDec_Epsilon(
+          ) [MoreVarDec_Epsilon]
+        ) [MoreVarDeclaration]
+      ) [VarDeclList]
+    ) [ConVarRecDeclListVar]
+    VarDeclList(
+      Type(
+       bool
+      ) [Type]
+      VarDec(
+        VarName(
+         flag
+        ) [VarName]
+        Array_No(
+        ) [Array_No]
+      ) [VarDec]
+      MoreVarDec_Epsilon(
+      ) [MoreVarDec_Epsilon]
+    ) [VarDeclList]
+  ) [ConVarRecDeclListVar]
+  MethodList_Yes(
+    MethodList_Epsilon(
+    ) [MethodList_Epsilon]
+    MethodDecl(
+      TypeOrVoidName_Void(
+      ) [TypeOrVoidName_Void]
+      MethName(
+       main
+      ) [MethName]
+      FormPars_No(
+      ) [FormPars_No]
+      VarDeclListRec_Yes(
+        VarDeclListRec_Epsilon(
+        ) [VarDeclListRec_Epsilon]
+        VarDeclList(
+          Type(
+           int
+          ) [Type]
+          VarDec(
+            VarName(
+             a
+            ) [VarName]
+            Array_No(
+            ) [Array_No]
+          ) [VarDec]
+          MoreVarDeclaration(
+            VarDec(
+              VarName(
+               b
+              ) [VarName]
+              Array_Yes(
+              ) [Array_Yes]
+            ) [VarDec]
+            MoreVarDec_Epsilon(
+            ) [MoreVarDec_Epsilon]
+          ) [MoreVarDeclaration]
+        ) [VarDeclList]
+      ) [VarDeclListRec_Yes]
+      StatementListRec_Yes(
+        StatementListRec_Yes(
+          StatementListRec_Epsilon(
+          ) [StatementListRec_Epsilon]
+          StatementSingle(
+            SingleStatement_Designator(
+              DesignatorStat_AssignExpr(
+                DesignatorName1(
+                 chr
+                ) [DesignatorName1]
+                AssignOp(
+                ) [AssignOp]
+                Expr(
+                  AddOpTermListRec_Firt(
+                    Term(
+                      FactorMulopListRec_First(
+                        Factor(
+                          MayMinus_No(
+                          ) [MayMinus_No]
+                          Factor_Char(
+                           w
+                          ) [Factor_Char]
+                        ) [Factor]
+                      ) [FactorMulopListRec_First]
+                    ) [Term]
+                  ) [AddOpTermListRec_Firt]
+                ) [Expr]
+              ) [DesignatorStat_AssignExpr]
+            ) [SingleStatement_Designator]
+          ) [StatementSingle]
+        ) [StatementListRec_Yes]
+        StatementSingle(
+          SingleStatement_Print(
+            Expr(
+              AddOpTermListRec_Firt(
+                Term(
+                  FactorMulopListRec_First(
+                    Factor(
+                      MayMinus_No(
+                      ) [MayMinus_No]
+                      Factor_DesignatorVar(
+                        DesignatorName1(
+                         chr
+                        ) [DesignatorName1]
+                      ) [Factor_DesignatorVar]
+                    ) [Factor]
+                  ) [FactorMulopListRec_First]
+                ) [Term]
+              ) [AddOpTermListRec_Firt]
+            ) [Expr]
+            MayNumConst_No(
+            ) [MayNumConst_No]
+          ) [SingleStatement_Print]
+        ) [StatementSingle]
+      ) [StatementListRec_Yes]
+    ) [MethodDecl]
+  ) [MethodList_Yes]
+) [Program]
+INFO  22:11:28,821 - ===================================
+INFO  22:11:28,823 - Deklarisana konstanta: pi na liniji 3
+INFO  22:11:28,823 - Deklarisana promenljiva: x na liniji 4
+INFO  22:11:28,823 - Deklarisan niz: y na liniji 4
+INFO  22:11:28,823 - Deklarisana promenljiva: flag na liniji 5
+INFO  22:11:28,823 - Deklarisana promenljiva: a na liniji 10
+INFO  22:11:28,823 - Deklarisan niz: b na liniji 10
+INFO  22:11:28,823 - Koriscenje simbola: chr na liniji 28
+ERROR 22:11:28,824 - GRESKA: Sa leve strane mora biti el niza ili promenljiva na liniji 28
+INFO  22:11:28,824 - Koriscenje simbola: chr na liniji 29
+ERROR 22:11:28,824 - GRESKA: Neadekvatno koriscenje metode chr na liniji 29
+ERROR 22:11:28,824 - GRESKA: Print prihvata samo bool, char i int na liniji 7
+INFO  22:11:28,824 - ===================================
+ERROR 22:11:28,824 - Parsiranje NIJE uspesno zavrseno!

@@ -1,0 +1,154 @@
+INFO  23:29:37,940 - Compiling source file: C:\Users\ji180550d\Desktop\PP1\PROJECT\Labs\lab1_code\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  23:29:37,974 - #2 program
+INFO  23:29:37,974 - #44 Keske
+INFO  23:29:37,974 - #5 const
+INFO  23:29:37,974 - #44 int
+INFO  23:29:37,974 - #44 pi
+INFO  23:29:37,975 - #6 =
+INFO  23:29:37,975 - #45 3
+INFO  23:29:37,975 - #8 ;
+INFO  23:29:37,977 - #44 int
+INFO  23:29:37,977 - #44 x
+INFO  23:29:37,977 - #7 ,
+INFO  23:29:37,979 - #44 y
+INFO  23:29:37,979 - #9 [
+INFO  23:29:37,979 - #10 ]
+INFO  23:29:37,979 - #8 ;
+INFO  23:29:37,980 - #3 {
+INFO  23:29:37,981 - #14 void
+INFO  23:29:37,981 - #44 main
+INFO  23:29:37,982 - #12 (
+INFO  23:29:37,982 - #13 )
+INFO  23:29:37,983 - #44 int
+INFO  23:29:37,988 - #44 a
+INFO  23:29:37,988 - #7 ,
+INFO  23:29:37,988 - #44 b
+INFO  23:29:37,988 - #8 ;
+INFO  23:29:37,988 - #3 {
+INFO  23:29:37,988 - #23 print
+INFO  23:29:37,989 - #12 (
+INFO  23:29:37,989 - #45 3
+INFO  23:29:37,990 - #13 )
+INFO  23:29:37,991 - #8 ;
+INFO  23:29:37,991 - #4 }
+INFO  23:29:37,991 - #4 }
+INFO  23:29:37,996 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConVarRecDeclListVar(
+    ConVarRecDeclListCon(
+      ConVarRecDeclListEpsilon(
+      ) [ConVarRecDeclListEpsilon]
+      ConstDeclList(
+        Type(
+         int
+        ) [Type]
+        ConstDec(
+         pi
+          NumConst(
+           3
+          ) [NumConst]
+        ) [ConstDec]
+        MoreConstDeclEpsilon(
+        ) [MoreConstDeclEpsilon]
+      ) [ConstDeclList]
+    ) [ConVarRecDeclListCon]
+    VarDeclList(
+      Type(
+       int
+      ) [Type]
+      VarDec(
+        VarName(
+         x
+        ) [VarName]
+        Array_No(
+        ) [Array_No]
+      ) [VarDec]
+      MoreVarDeclaration(
+        VarDec(
+          VarName(
+           y
+          ) [VarName]
+          Array_Yes(
+          ) [Array_Yes]
+        ) [VarDec]
+        MoreVarDec_Epsilon(
+        ) [MoreVarDec_Epsilon]
+      ) [MoreVarDeclaration]
+    ) [VarDeclList]
+  ) [ConVarRecDeclListVar]
+  MethodList_Yes(
+    MethodList_Epsilon(
+    ) [MethodList_Epsilon]
+    MethodDecl(
+      TypeOrVoidName_Void(
+      ) [TypeOrVoidName_Void]
+      MethName(
+       main
+      ) [MethName]
+      FormPars_No(
+      ) [FormPars_No]
+      VarDeclListRec_Yes(
+        VarDeclListRec_Epsilon(
+        ) [VarDeclListRec_Epsilon]
+        VarDeclList(
+          Type(
+           int
+          ) [Type]
+          VarDec(
+            VarName(
+             a
+            ) [VarName]
+            Array_No(
+            ) [Array_No]
+          ) [VarDec]
+          MoreVarDeclaration(
+            VarDec(
+              VarName(
+               b
+              ) [VarName]
+              Array_No(
+              ) [Array_No]
+            ) [VarDec]
+            MoreVarDec_Epsilon(
+            ) [MoreVarDec_Epsilon]
+          ) [MoreVarDeclaration]
+        ) [VarDeclList]
+      ) [VarDeclListRec_Yes]
+      StatementListRec_Yes(
+        StatementListRec_Epsilon(
+        ) [StatementListRec_Epsilon]
+        StatementSingle(
+          SingleStatement_Print(
+            Expr(
+              AddOpTermListRec_Firt(
+                Term(
+                  FactorMulopListRec_First(
+                    Factor(
+                      MayMinus_No(
+                      ) [MayMinus_No]
+                      Factor_Num(
+                       3
+                      ) [Factor_Num]
+                    ) [Factor]
+                  ) [FactorMulopListRec_First]
+                ) [Term]
+              ) [AddOpTermListRec_Firt]
+            ) [Expr]
+            MayNumConst_No(
+            ) [MayNumConst_No]
+          ) [SingleStatement_Print]
+        ) [StatementSingle]
+      ) [StatementListRec_Yes]
+    ) [MethodDecl]
+  ) [MethodList_Yes]
+) [Program]
+INFO  23:29:37,996 - ===================================
+INFO  23:29:37,998 - Deklarisana konstanta: pi na liniji 3
+INFO  23:29:37,998 - Deklarisana promenljiva: x na liniji 4
+INFO  23:29:37,998 - Deklarisan niz: y na liniji 4
+INFO  23:29:37,999 - Deklarisana promenljiva: a na liniji 8
+INFO  23:29:37,999 - Deklarisana promenljiva: b na liniji 8
+INFO  23:29:37,999 - ===================================
+INFO  23:29:38,001 - Parsiranje uspesno zavrseno!

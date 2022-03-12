@@ -1,0 +1,18 @@
+program Modif
+
+int arr[], x;
+
+{
+
+
+void main() {
+
+	arr = new int [2];
+	
+	x = #arr;
+	x = #x;
+	
+
+}
+
+}

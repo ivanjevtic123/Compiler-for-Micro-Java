@@ -1,0 +1,14 @@
+INFO  20:32:51,261 - Compiling source file: C:\Users\ji180550d\Desktop\PP1\PROJECT\Labs\lab1_code\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  20:32:51,290 - #2 program
+INFO  20:32:51,290 - #44 Keske
+INFO  20:32:51,291 - #3 {
+INFO  20:32:51,291 - #14 void
+INFO  20:32:51,292 - #44 main
+INFO  20:32:51,292 - #12 (
+INFO  20:32:51,293 - #13 )
+INFO  20:32:51,293 - #44 int
+INFO  20:32:51,294 - #44 a
+INFO  20:32:51,294 - #3 {
+ERROR 20:32:51,294 - 
+Sintaksna greska na liniji 9
+ERROR 20:32:51,294 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 9

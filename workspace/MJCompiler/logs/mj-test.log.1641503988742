@@ -1,0 +1,168 @@
+INFO  22:16:13,274 - Compiling source file: C:\Users\ji180550d\Desktop\PP1\PROJECT\Labs\lab1_code\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  22:16:13,304 - #2 program
+INFO  22:16:13,304 - #44 Keske
+INFO  22:16:13,304 - #5 const
+INFO  22:16:13,305 - #44 int
+INFO  22:16:13,305 - #44 pi
+INFO  22:16:13,305 - #6 =
+INFO  22:16:13,305 - #45 3
+INFO  22:16:13,305 - #8 ;
+INFO  22:16:13,306 - #44 int
+INFO  22:16:13,307 - #44 x
+INFO  22:16:13,307 - #7 ,
+INFO  22:16:13,308 - #44 y
+INFO  22:16:13,308 - #9 [
+INFO  22:16:13,309 - #10 ]
+INFO  22:16:13,309 - #8 ;
+INFO  22:16:13,309 - #44 bool
+INFO  22:16:13,310 - #44 flag
+INFO  22:16:13,310 - #8 ;
+INFO  22:16:13,311 - #44 char
+INFO  22:16:13,311 - #44 chr
+INFO  22:16:13,311 - #8 ;
+INFO  22:16:13,315 - #3 {
+INFO  22:16:13,315 - #14 void
+INFO  22:16:13,316 - #44 main
+INFO  22:16:13,316 - #12 (
+INFO  22:16:13,317 - #13 )
+INFO  22:16:13,317 - #44 int
+INFO  22:16:13,318 - #44 a
+INFO  22:16:13,318 - #7 ,
+INFO  22:16:13,318 - #44 b
+INFO  22:16:13,318 - #9 [
+INFO  22:16:13,318 - #10 ]
+INFO  22:16:13,318 - #8 ;
+INFO  22:16:13,318 - #3 {
+INFO  22:16:13,318 - #4 }
+INFO  22:16:13,318 - #4 }
+INFO  22:16:13,322 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConVarRecDeclListVar(
+    ConVarRecDeclListVar(
+      ConVarRecDeclListVar(
+        ConVarRecDeclListCon(
+          ConVarRecDeclListEpsilon(
+          ) [ConVarRecDeclListEpsilon]
+          ConstDeclList(
+            Type(
+             int
+            ) [Type]
+            ConstDec(
+             pi
+              NumConst(
+               3
+              ) [NumConst]
+            ) [ConstDec]
+            MoreConstDeclEpsilon(
+            ) [MoreConstDeclEpsilon]
+          ) [ConstDeclList]
+        ) [ConVarRecDeclListCon]
+        VarDeclList(
+          Type(
+           int
+          ) [Type]
+          VarDec(
+            VarName(
+             x
+            ) [VarName]
+            Array_No(
+            ) [Array_No]
+          ) [VarDec]
+          MoreVarDeclaration(
+            VarDec(
+              VarName(
+               y
+              ) [VarName]
+              Array_Yes(
+              ) [Array_Yes]
+            ) [VarDec]
+            MoreVarDec_Epsilon(
+            ) [MoreVarDec_Epsilon]
+          ) [MoreVarDeclaration]
+        ) [VarDeclList]
+      ) [ConVarRecDeclListVar]
+      VarDeclList(
+        Type(
+         bool
+        ) [Type]
+        VarDec(
+          VarName(
+           flag
+          ) [VarName]
+          Array_No(
+          ) [Array_No]
+        ) [VarDec]
+        MoreVarDec_Epsilon(
+        ) [MoreVarDec_Epsilon]
+      ) [VarDeclList]
+    ) [ConVarRecDeclListVar]
+    VarDeclList(
+      Type(
+       char
+      ) [Type]
+      VarDec(
+        VarName(
+         chr
+        ) [VarName]
+        Array_No(
+        ) [Array_No]
+      ) [VarDec]
+      MoreVarDec_Epsilon(
+      ) [MoreVarDec_Epsilon]
+    ) [VarDeclList]
+  ) [ConVarRecDeclListVar]
+  MethodList_Yes(
+    MethodList_Epsilon(
+    ) [MethodList_Epsilon]
+    MethodDecl(
+      TypeOrVoidName_Void(
+      ) [TypeOrVoidName_Void]
+      MethName(
+       main
+      ) [MethName]
+      FormPars_No(
+      ) [FormPars_No]
+      VarDeclListRec_Yes(
+        VarDeclListRec_Epsilon(
+        ) [VarDeclListRec_Epsilon]
+        VarDeclList(
+          Type(
+           int
+          ) [Type]
+          VarDec(
+            VarName(
+             a
+            ) [VarName]
+            Array_No(
+            ) [Array_No]
+          ) [VarDec]
+          MoreVarDeclaration(
+            VarDec(
+              VarName(
+               b
+              ) [VarName]
+              Array_Yes(
+              ) [Array_Yes]
+            ) [VarDec]
+            MoreVarDec_Epsilon(
+            ) [MoreVarDec_Epsilon]
+          ) [MoreVarDeclaration]
+        ) [VarDeclList]
+      ) [VarDeclListRec_Yes]
+      StatementListRec_Epsilon(
+      ) [StatementListRec_Epsilon]
+    ) [MethodDecl]
+  ) [MethodList_Yes]
+) [Program]
+INFO  22:16:13,323 - ===================================
+INFO  22:16:13,325 - Deklarisana konstanta: pi na liniji 3
+INFO  22:16:13,325 - Deklarisana promenljiva: x na liniji 4
+INFO  22:16:13,325 - Deklarisan niz: y na liniji 4
+INFO  22:16:13,325 - Deklarisana promenljiva: flag na liniji 5
+INFO  22:16:13,325 - Deklarisana promenljiva: chr na liniji 7
+INFO  22:16:13,325 - Deklarisana promenljiva: a na liniji 11
+INFO  22:16:13,325 - Deklarisan niz: b na liniji 11
+INFO  22:16:13,326 - ===================================
+INFO  22:16:13,328 - Parsiranje uspesno zavrseno!

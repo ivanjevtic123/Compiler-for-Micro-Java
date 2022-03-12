@@ -1,0 +1,14 @@
+INFO  23:46:45,792 - Compiling source file: C:\Users\ji180550d\Desktop\PP1\PROJECT\Labs\lab1_code\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  23:46:45,820 - #2 program
+INFO  23:46:45,820 - #44 TestKeske
+INFO  23:46:45,820 - #44 int
+INFO  23:46:45,821 - #44 x
+INFO  23:46:45,821 - #7 ,
+INFO  23:46:45,823 - #44 y
+INFO  23:46:45,823 - #8 ;
+INFO  23:46:45,823 - #44 int
+INFO  23:46:45,824 - #44 flag
+INFO  23:46:45,824 - #6 =
+ERROR 23:46:45,824 - 
+Sintaksna greska na liniji 3
+ERROR 23:46:45,824 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 3

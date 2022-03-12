@@ -1,0 +1,161 @@
+INFO  16:44:47,238 - Compiling source file: C:\Users\ji180550d\Desktop\PP1\PROJECT\Labs\lab1_code\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  16:44:47,266 - #2 program
+INFO  16:44:47,267 - #44 Keske
+INFO  16:44:47,267 - #5 const
+INFO  16:44:47,267 - #44 int
+INFO  16:44:47,268 - #44 pi
+INFO  16:44:47,268 - #6 =
+INFO  16:44:47,268 - #45 3
+INFO  16:44:47,268 - #8 ;
+INFO  16:44:47,269 - #44 int
+INFO  16:44:47,270 - #44 xx
+INFO  16:44:47,270 - #7 ,
+INFO  16:44:47,271 - #44 y
+INFO  16:44:47,271 - #7 ,
+INFO  16:44:47,271 - #44 z
+INFO  16:44:47,271 - #8 ;
+INFO  16:44:47,272 - #5 const
+INFO  16:44:47,272 - #44 char
+INFO  16:44:47,272 - #44 a
+INFO  16:44:47,272 - #6 =
+INFO  16:44:47,273 - #47 a
+INFO  16:44:47,273 - #8 ;
+INFO  16:44:47,273 - #5 const
+INFO  16:44:47,273 - #44 bool
+INFO  16:44:47,273 - #44 netacno
+INFO  16:44:47,273 - #6 =
+INFO  16:44:47,274 - #46 0
+INFO  16:44:47,274 - #8 ;
+INFO  16:44:47,274 - #3 {
+INFO  16:44:47,274 - #14 void
+INFO  16:44:47,275 - #44 main
+INFO  16:44:47,275 - #12 (
+INFO  16:44:47,276 - #13 )
+INFO  16:44:47,276 - #44 int
+INFO  16:44:47,277 - #44 z
+INFO  16:44:47,277 - #8 ;
+INFO  16:44:47,277 - #3 {
+INFO  16:44:47,277 - #4 }
+INFO  16:44:47,277 - #4 }
+INFO  16:44:47,282 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConVarRecDeclListCon(
+    ConVarRecDeclListCon(
+      ConVarRecDeclListVar(
+        ConVarRecDeclListCon(
+          ConVarRecDeclListEpsilon(
+          ) [ConVarRecDeclListEpsilon]
+          ConstDeclList(
+            Type(
+             int
+            ) [Type]
+            ConstDec(
+             pi
+              NumConst(
+               3
+              ) [NumConst]
+            ) [ConstDec]
+            MoreConstDeclEpsilon(
+            ) [MoreConstDeclEpsilon]
+          ) [ConstDeclList]
+        ) [ConVarRecDeclListCon]
+        VarDeclList(
+          Type(
+           int
+          ) [Type]
+          VarDec(
+            VarName(
+             xx
+            ) [VarName]
+            Array_No(
+            ) [Array_No]
+          ) [VarDec]
+          MoreVarDeclaration(
+            VarDec(
+              VarName(
+               y
+              ) [VarName]
+              Array_No(
+              ) [Array_No]
+            ) [VarDec]
+            MoreVarDeclaration(
+              VarDec(
+                VarName(
+                 z
+                ) [VarName]
+                Array_No(
+                ) [Array_No]
+              ) [VarDec]
+              MoreVarDec_Epsilon(
+              ) [MoreVarDec_Epsilon]
+            ) [MoreVarDeclaration]
+          ) [MoreVarDeclaration]
+        ) [VarDeclList]
+      ) [ConVarRecDeclListVar]
+      ConstDeclList(
+        Type(
+         char
+        ) [Type]
+        ConstDec(
+         a
+          CharConst(
+           a
+          ) [CharConst]
+        ) [ConstDec]
+        MoreConstDeclEpsilon(
+        ) [MoreConstDeclEpsilon]
+      ) [ConstDeclList]
+    ) [ConVarRecDeclListCon]
+    ConstDeclList(
+      Type(
+       bool
+      ) [Type]
+      ConstDec(
+       netacno
+        BoolConst(
+         0
+        ) [BoolConst]
+      ) [ConstDec]
+      MoreConstDeclEpsilon(
+      ) [MoreConstDeclEpsilon]
+    ) [ConstDeclList]
+  ) [ConVarRecDeclListCon]
+  MethodList_Yes(
+    MethodList_Epsilon(
+    ) [MethodList_Epsilon]
+    MethodDecl(
+      TypeOrVoidName_Void(
+      ) [TypeOrVoidName_Void]
+      MethName(
+       main
+      ) [MethName]
+      FormPars_No(
+      ) [FormPars_No]
+      VarDeclListRec_Yes(
+        VarDeclListRec_Epsilon(
+        ) [VarDeclListRec_Epsilon]
+        VarDeclList(
+          Type(
+           int
+          ) [Type]
+          VarDec(
+            VarName(
+             z
+            ) [VarName]
+            Array_No(
+            ) [Array_No]
+          ) [VarDec]
+          MoreVarDec_Epsilon(
+          ) [MoreVarDec_Epsilon]
+        ) [VarDeclList]
+      ) [VarDeclListRec_Yes]
+      StatementListRec_Epsilon(
+      ) [StatementListRec_Epsilon]
+    ) [MethodDecl]
+  ) [MethodList_Yes]
+) [Program]
+INFO  16:44:47,282 - ===================================
+INFO  16:44:47,284 - ===================================
+INFO  16:44:47,284 - Parsiranje uspesno zavrseno!

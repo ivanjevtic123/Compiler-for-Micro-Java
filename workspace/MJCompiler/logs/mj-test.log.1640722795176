@@ -1,0 +1,121 @@
+INFO  21:19:44,200 - Compiling source file: C:\Users\ji180550d\Desktop\PP1\PROJECT\Labs\lab1_code\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  21:19:44,229 - #2 program
+INFO  21:19:44,229 - #44 Keske
+INFO  21:19:44,229 - #5 const
+INFO  21:19:44,230 - #44 int
+INFO  21:19:44,230 - #44 pi
+INFO  21:19:44,231 - #6 =
+INFO  21:19:44,231 - #45 3
+INFO  21:19:44,231 - #8 ;
+INFO  21:19:44,232 - #44 int
+INFO  21:19:44,232 - #44 x
+INFO  21:19:44,232 - #7 ,
+INFO  21:19:44,234 - #44 y
+INFO  21:19:44,234 - #7 ,
+INFO  21:19:44,234 - #44 z
+INFO  21:19:44,234 - #8 ;
+INFO  21:19:44,235 - #5 const
+INFO  21:19:44,235 - #44 char
+INFO  21:19:44,235 - #44 a
+INFO  21:19:44,235 - #6 =
+INFO  21:19:44,236 - #47 a
+INFO  21:19:44,236 - #8 ;
+INFO  21:19:44,236 - #5 const
+INFO  21:19:44,236 - #44 bool
+INFO  21:19:44,236 - #44 netacno
+INFO  21:19:44,236 - #6 =
+INFO  21:19:44,236 - #46 0
+INFO  21:19:44,236 - #8 ;
+INFO  21:19:44,236 - #3 {
+INFO  21:19:44,236 - #4 }
+INFO  21:19:44,241 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConVarRecDeclListCon(
+    ConVarRecDeclListCon(
+      ConVarRecDeclListVar(
+        ConVarRecDeclListCon(
+          ConVarRecDeclListEpsilon(
+          ) [ConVarRecDeclListEpsilon]
+          ConstDeclList(
+            Type(
+             int
+            ) [Type]
+            ConstDec(
+             pi
+              NumConst(
+               3
+              ) [NumConst]
+            ) [ConstDec]
+            MoreConstDeclEpsilon(
+            ) [MoreConstDeclEpsilon]
+          ) [ConstDeclList]
+        ) [ConVarRecDeclListCon]
+        VarDeclList(
+          Type(
+           int
+          ) [Type]
+          VarDec(
+            VarName(
+             x
+            ) [VarName]
+            Array_No(
+            ) [Array_No]
+          ) [VarDec]
+          MoreVarDeclaration(
+            VarDec(
+              VarName(
+               y
+              ) [VarName]
+              Array_No(
+              ) [Array_No]
+            ) [VarDec]
+            MoreVarDeclaration(
+              VarDec(
+                VarName(
+                 z
+                ) [VarName]
+                Array_No(
+                ) [Array_No]
+              ) [VarDec]
+              MoreVarDec_Epsilon(
+              ) [MoreVarDec_Epsilon]
+            ) [MoreVarDeclaration]
+          ) [MoreVarDeclaration]
+        ) [VarDeclList]
+      ) [ConVarRecDeclListVar]
+      ConstDeclList(
+        Type(
+         char
+        ) [Type]
+        ConstDec(
+         a
+          CharConst(
+           a
+          ) [CharConst]
+        ) [ConstDec]
+        MoreConstDeclEpsilon(
+        ) [MoreConstDeclEpsilon]
+      ) [ConstDeclList]
+    ) [ConVarRecDeclListCon]
+    ConstDeclList(
+      Type(
+       bool
+      ) [Type]
+      ConstDec(
+       netacno
+        BoolConst(
+         0
+        ) [BoolConst]
+      ) [ConstDec]
+      MoreConstDeclEpsilon(
+      ) [MoreConstDeclEpsilon]
+    ) [ConstDeclList]
+  ) [ConVarRecDeclListCon]
+  MethodList_Epsilon(
+  ) [MethodList_Epsilon]
+) [Program]
+INFO  21:19:44,241 - ===================================
+INFO  21:19:44,243 - ===================================
+INFO  21:19:44,243 - Parsiranje uspesno zavrseno!

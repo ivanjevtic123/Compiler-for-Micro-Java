@@ -1,0 +1,229 @@
+INFO  21:35:40,352 - Compiling source file: C:\Users\ji180550d\Desktop\PP1\PROJECT\Labs\lab1_code\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  21:35:40,385 - #2 program
+INFO  21:35:40,385 - #44 Keske
+INFO  21:35:40,385 - #5 const
+INFO  21:35:40,386 - #44 int
+INFO  21:35:40,387 - #44 pi
+INFO  21:35:40,387 - #6 =
+INFO  21:35:40,387 - #45 3
+INFO  21:35:40,388 - #8 ;
+INFO  21:35:40,389 - #44 int
+INFO  21:35:40,390 - #44 x
+INFO  21:35:40,390 - #7 ,
+INFO  21:35:40,392 - #44 y
+INFO  21:35:40,393 - #7 ,
+INFO  21:35:40,393 - #44 z
+INFO  21:35:40,393 - #8 ;
+INFO  21:35:40,394 - #5 const
+INFO  21:35:40,394 - #44 char
+INFO  21:35:40,395 - #44 a
+INFO  21:35:40,395 - #6 =
+INFO  21:35:40,395 - #47 a
+INFO  21:35:40,395 - #8 ;
+INFO  21:35:40,400 - #5 const
+INFO  21:35:40,400 - #44 bool
+INFO  21:35:40,400 - #44 netacno
+INFO  21:35:40,400 - #6 =
+INFO  21:35:40,400 - #46 0
+INFO  21:35:40,400 - #8 ;
+INFO  21:35:40,400 - #3 {
+INFO  21:35:40,400 - #14 void
+INFO  21:35:40,401 - #44 main
+INFO  21:35:40,401 - #12 (
+INFO  21:35:40,402 - #13 )
+INFO  21:35:40,402 - #44 int
+INFO  21:35:40,403 - #44 z
+INFO  21:35:40,403 - #8 ;
+INFO  21:35:40,403 - #3 {
+INFO  21:35:40,404 - #4 }
+INFO  21:35:40,404 - #44 int
+INFO  21:35:40,405 - #44 f
+INFO  21:35:40,405 - #12 (
+INFO  21:35:40,405 - #13 )
+INFO  21:35:40,405 - #44 int
+INFO  21:35:40,405 - #44 x
+INFO  21:35:40,406 - #8 ;
+INFO  21:35:40,406 - #3 {
+INFO  21:35:40,406 - #21 return
+INFO  21:35:40,406 - #45 1
+INFO  21:35:40,407 - #8 ;
+INFO  21:35:40,408 - #4 }
+INFO  21:35:40,408 - #4 }
+INFO  21:35:40,415 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConVarRecDeclListCon(
+    ConVarRecDeclListCon(
+      ConVarRecDeclListVar(
+        ConVarRecDeclListCon(
+          ConVarRecDeclListEpsilon(
+          ) [ConVarRecDeclListEpsilon]
+          ConstDeclList(
+            Type(
+             int
+            ) [Type]
+            ConstDec(
+             pi
+              NumConst(
+               3
+              ) [NumConst]
+            ) [ConstDec]
+            MoreConstDeclEpsilon(
+            ) [MoreConstDeclEpsilon]
+          ) [ConstDeclList]
+        ) [ConVarRecDeclListCon]
+        VarDeclList(
+          Type(
+           int
+          ) [Type]
+          VarDec(
+            VarName(
+             x
+            ) [VarName]
+            Array_No(
+            ) [Array_No]
+          ) [VarDec]
+          MoreVarDeclaration(
+            VarDec(
+              VarName(
+               y
+              ) [VarName]
+              Array_No(
+              ) [Array_No]
+            ) [VarDec]
+            MoreVarDeclaration(
+              VarDec(
+                VarName(
+                 z
+                ) [VarName]
+                Array_No(
+                ) [Array_No]
+              ) [VarDec]
+              MoreVarDec_Epsilon(
+              ) [MoreVarDec_Epsilon]
+            ) [MoreVarDeclaration]
+          ) [MoreVarDeclaration]
+        ) [VarDeclList]
+      ) [ConVarRecDeclListVar]
+      ConstDeclList(
+        Type(
+         char
+        ) [Type]
+        ConstDec(
+         a
+          CharConst(
+           a
+          ) [CharConst]
+        ) [ConstDec]
+        MoreConstDeclEpsilon(
+        ) [MoreConstDeclEpsilon]
+      ) [ConstDeclList]
+    ) [ConVarRecDeclListCon]
+    ConstDeclList(
+      Type(
+       bool
+      ) [Type]
+      ConstDec(
+       netacno
+        BoolConst(
+         0
+        ) [BoolConst]
+      ) [ConstDec]
+      MoreConstDeclEpsilon(
+      ) [MoreConstDeclEpsilon]
+    ) [ConstDeclList]
+  ) [ConVarRecDeclListCon]
+  MethodList_Yes(
+    MethodList_Yes(
+      MethodList_Epsilon(
+      ) [MethodList_Epsilon]
+      MethodDecl(
+        TypeOrVoidName_Void(
+        ) [TypeOrVoidName_Void]
+        MethName(
+         main
+        ) [MethName]
+        FormPars_No(
+        ) [FormPars_No]
+        VarDeclListRec_Yes(
+          VarDeclListRec_Epsilon(
+          ) [VarDeclListRec_Epsilon]
+          VarDeclList(
+            Type(
+             int
+            ) [Type]
+            VarDec(
+              VarName(
+               z
+              ) [VarName]
+              Array_No(
+              ) [Array_No]
+            ) [VarDec]
+            MoreVarDec_Epsilon(
+            ) [MoreVarDec_Epsilon]
+          ) [VarDeclList]
+        ) [VarDeclListRec_Yes]
+        StatementListRec_Epsilon(
+        ) [StatementListRec_Epsilon]
+      ) [MethodDecl]
+    ) [MethodList_Yes]
+    MethodDecl(
+      TypeOrVoidName_Type(
+        Type(
+         int
+        ) [Type]
+      ) [TypeOrVoidName_Type]
+      MethName(
+       f
+      ) [MethName]
+      FormPars_No(
+      ) [FormPars_No]
+      VarDeclListRec_Yes(
+        VarDeclListRec_Epsilon(
+        ) [VarDeclListRec_Epsilon]
+        VarDeclList(
+          Type(
+           int
+          ) [Type]
+          VarDec(
+            VarName(
+             x
+            ) [VarName]
+            Array_No(
+            ) [Array_No]
+          ) [VarDec]
+          MoreVarDec_Epsilon(
+          ) [MoreVarDec_Epsilon]
+        ) [VarDeclList]
+      ) [VarDeclListRec_Yes]
+      StatementListRec_Yes(
+        StatementListRec_Epsilon(
+        ) [StatementListRec_Epsilon]
+        StatementSingle(
+          SingleStatement_ReturnExpr(
+            Expr(
+              AddOpTermListRec_Firt(
+                Term(
+                  FactorMulopListRec_First(
+                    Factor(
+                      MayMinus_No(
+                      ) [MayMinus_No]
+                      Factor_Num(
+                       1
+                      ) [Factor_Num]
+                    ) [Factor]
+                  ) [FactorMulopListRec_First]
+                ) [Term]
+              ) [AddOpTermListRec_Firt]
+            ) [Expr]
+          ) [SingleStatement_ReturnExpr]
+        ) [StatementSingle]
+      ) [StatementListRec_Yes]
+    ) [MethodDecl]
+  ) [MethodList_Yes]
+) [Program]
+INFO  21:35:40,416 - ===================================
+ERROR 21:35:40,418 - Povratni tip metode i tip iz return nisu uskladjeni na liniji 17
+INFO  21:35:40,418 - ===================================
+ERROR 21:35:40,419 - Parsiranje NIJE uspesno zavrseno!

@@ -1,0 +1,190 @@
+INFO  19:43:33,568 - Compiling source file: C:\Users\ji180550d\Desktop\PP1\PROJECT\Labs\lab1_code\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  19:43:33,624 - #2 program
+INFO  19:43:33,624 - #44 TestKeske
+INFO  19:43:33,624 - #44 int
+INFO  19:43:33,626 - #44 x
+INFO  19:43:33,626 - #7 ,
+INFO  19:43:33,628 - #44 y
+INFO  19:43:33,629 - #8 ;
+INFO  19:43:33,629 - #11 record
+INFO  19:43:33,630 - #44 rec
+INFO  19:43:33,630 - #3 {
+INFO  19:43:33,631 - #44 int
+INFO  19:43:33,632 - #44 a
+INFO  19:43:33,632 - #7 ,
+INFO  19:43:33,632 - #44 b
+INFO  19:43:33,632 - #9 [
+INFO  19:43:33,632 - #10 ]
+INFO  19:43:33,632 - #8 ;
+INFO  19:43:33,633 - #44 char
+INFO  19:43:33,633 - #44 carr
+INFO  19:43:33,633 - #9 [
+INFO  19:43:33,633 - #10 ]
+INFO  19:43:33,633 - #8 ;
+INFO  19:43:33,633 - #4 }
+INFO  19:43:33,633 - #5 const
+INFO  19:43:33,634 - #44 int
+INFO  19:43:33,634 - #44 pi
+INFO  19:43:33,634 - #6 =
+INFO  19:43:33,634 - #47 a
+INFO  19:43:33,634 - #8 ;
+INFO  19:43:33,636 - #3 {
+INFO  19:43:33,637 - #14 void
+INFO  19:43:33,638 - #44 main
+INFO  19:43:33,638 - #12 (
+INFO  19:43:33,638 - #13 )
+INFO  19:43:33,638 - #44 int
+INFO  19:43:33,639 - #44 t
+INFO  19:43:33,639 - #8 ;
+INFO  19:43:33,639 - #3 {
+INFO  19:43:33,639 - #44 t
+INFO  19:43:33,640 - #6 =
+INFO  19:43:33,640 - #45 0
+INFO  19:43:33,642 - #8 ;
+INFO  19:43:33,644 - #4 }
+INFO  19:43:33,644 - #4 }
+INFO  19:43:33,650 - Program(
+  ProgramName(
+   TestKeske
+  ) [ProgramName]
+  ConVarRecDeclListCon(
+    ConVarRecDeclListRec(
+      ConVarRecDeclListVar(
+        ConVarRecDeclListEpsilon(
+        ) [ConVarRecDeclListEpsilon]
+        VarDeclList(
+          Type(
+           int
+          ) [Type]
+          VarDec(
+           x
+            Array_No(
+            ) [Array_No]
+          ) [VarDec]
+          MoreVarDeclaration(
+            VarDec(
+             y
+              Array_No(
+              ) [Array_No]
+            ) [VarDec]
+            MoreVarDec_Epsilon(
+            ) [MoreVarDec_Epsilon]
+          ) [MoreVarDeclaration]
+        ) [VarDeclList]
+      ) [ConVarRecDeclListVar]
+      RecDecl(
+        RecDeclName(
+         rec
+        ) [RecDeclName]
+        VarDeclListRec_Yes(
+          VarDeclListRec_Yes(
+            VarDeclListRec_Epsilon(
+            ) [VarDeclListRec_Epsilon]
+            VarDeclList(
+              Type(
+               int
+              ) [Type]
+              VarDec(
+               a
+                Array_No(
+                ) [Array_No]
+              ) [VarDec]
+              MoreVarDeclaration(
+                VarDec(
+                 b
+                  Array_Yes(
+                  ) [Array_Yes]
+                ) [VarDec]
+                MoreVarDec_Epsilon(
+                ) [MoreVarDec_Epsilon]
+              ) [MoreVarDeclaration]
+            ) [VarDeclList]
+          ) [VarDeclListRec_Yes]
+          VarDeclList(
+            Type(
+             char
+            ) [Type]
+            VarDec(
+             carr
+              Array_Yes(
+              ) [Array_Yes]
+            ) [VarDec]
+            MoreVarDec_Epsilon(
+            ) [MoreVarDec_Epsilon]
+          ) [VarDeclList]
+        ) [VarDeclListRec_Yes]
+      ) [RecDecl]
+    ) [ConVarRecDeclListRec]
+    ConstDeclList(
+      Type(
+       int
+      ) [Type]
+      ConstDec(
+       pi
+        CharConst(
+         a
+        ) [CharConst]
+      ) [ConstDec]
+      MoreConstDeclEpsilon(
+      ) [MoreConstDeclEpsilon]
+    ) [ConstDeclList]
+  ) [ConVarRecDeclListCon]
+  MethodList_Yes(
+    MethodList_Epsilon(
+    ) [MethodList_Epsilon]
+    MethodDecl(
+      TypeOrVoidName_Void(
+       main
+      ) [TypeOrVoidName_Void]
+      FormPars_No(
+      ) [FormPars_No]
+      VarDeclListRec_Yes(
+        VarDeclListRec_Epsilon(
+        ) [VarDeclListRec_Epsilon]
+        VarDeclList(
+          Type(
+           int
+          ) [Type]
+          VarDec(
+           t
+            Array_No(
+            ) [Array_No]
+          ) [VarDec]
+          MoreVarDec_Epsilon(
+          ) [MoreVarDec_Epsilon]
+        ) [VarDeclList]
+      ) [VarDeclListRec_Yes]
+      StatementListRec_Yes(
+        StatementListRec_Epsilon(
+        ) [StatementListRec_Epsilon]
+        StatementSingle(
+          SingleStatement_Designator(
+            DesignatorStat_AssignExpr(
+              Designator_Var(
+               t
+              ) [Designator_Var]
+              AssignOp(
+              ) [AssignOp]
+              Expr(
+                AddOpTermListRec_Firt(
+                  Term(
+                    FactorMulopListRec_First(
+                      Factor(
+                        MayMinus_No(
+                        ) [MayMinus_No]
+                        Factor_Num(
+                         0
+                        ) [Factor_Num]
+                      ) [Factor]
+                    ) [FactorMulopListRec_First]
+                  ) [Term]
+                ) [AddOpTermListRec_Firt]
+              ) [Expr]
+            ) [DesignatorStat_AssignExpr]
+          ) [SingleStatement_Designator]
+        ) [StatementSingle]
+      ) [StatementListRec_Yes]
+    ) [MethodDecl]
+  ) [MethodList_Yes]
+) [Program]
+INFO  19:43:33,650 - ===================================

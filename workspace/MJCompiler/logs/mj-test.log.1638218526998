@@ -1,0 +1,23 @@
+INFO  21:39:51,789 - Compiling source file: C:\Users\ji180550d\Desktop\PP1\PROJECT\Labs\lab1_code\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  21:39:51,793 - #1 program
+INFO  21:39:51,793 - #19 MJProgram
+INFO  21:39:51,793 - #19 int
+INFO  21:39:51,793 - #19 x
+INFO  21:39:51,793 - #40 ,
+INFO  21:39:51,793 - #19 y
+INFO  21:39:51,793 - #39 ;
+INFO  21:39:51,793 - #46 {
+INFO  21:39:51,793 - #15 void
+INFO  21:39:51,793 - #19 main
+INFO  21:39:51,793 - #42 (
+INFO  21:39:51,793 - #43 )
+INFO  21:39:51,794 - #19 int
+INFO  21:39:51,794 - #19 t
+INFO  21:39:51,794 - #39 ;
+INFO  21:39:51,794 - #46 {
+INFO  21:39:51,794 - #19 t
+INFO  21:39:51,794 - #36 =
+INFO  21:39:51,794 - #20 3
+INFO  21:39:51,794 - #39 ;
+INFO  21:39:51,798 - #47 }
+INFO  21:39:51,799 - #47 }

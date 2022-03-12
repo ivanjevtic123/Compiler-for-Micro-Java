@@ -1,0 +1,181 @@
+INFO  22:11:22,098 - Compiling source file: C:\Users\ji180550d\Desktop\PP1\PROJECT\Labs\lab1_code\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  22:11:22,127 - #2 program
+INFO  22:11:22,128 - #44 Keske
+INFO  22:11:22,128 - #5 const
+INFO  22:11:22,128 - #44 int
+INFO  22:11:22,129 - #44 pi
+INFO  22:11:22,129 - #6 =
+INFO  22:11:22,129 - #45 3
+INFO  22:11:22,129 - #8 ;
+INFO  22:11:22,130 - #44 int
+INFO  22:11:22,131 - #44 x
+INFO  22:11:22,131 - #7 ,
+INFO  22:11:22,132 - #44 y
+INFO  22:11:22,132 - #9 [
+INFO  22:11:22,132 - #10 ]
+INFO  22:11:22,132 - #8 ;
+INFO  22:11:22,133 - #44 bool
+INFO  22:11:22,134 - #44 flag
+INFO  22:11:22,134 - #8 ;
+INFO  22:11:22,134 - #3 {
+INFO  22:11:22,134 - #14 void
+INFO  22:11:22,134 - #44 main
+INFO  22:11:22,135 - #12 (
+INFO  22:11:22,135 - #13 )
+INFO  22:11:22,136 - #44 int
+INFO  22:11:22,136 - #44 a
+INFO  22:11:22,136 - #7 ,
+INFO  22:11:22,136 - #44 b
+INFO  22:11:22,136 - #9 [
+INFO  22:11:22,136 - #10 ]
+INFO  22:11:22,136 - #8 ;
+INFO  22:11:22,137 - #3 {
+INFO  22:11:22,137 - #23 print
+INFO  22:11:22,137 - #12 (
+INFO  22:11:22,137 - #44 chr
+INFO  22:11:22,138 - #13 )
+INFO  22:11:22,139 - #8 ;
+INFO  22:11:22,140 - #4 }
+INFO  22:11:22,140 - #4 }
+INFO  22:11:22,144 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConVarRecDeclListVar(
+    ConVarRecDeclListVar(
+      ConVarRecDeclListCon(
+        ConVarRecDeclListEpsilon(
+        ) [ConVarRecDeclListEpsilon]
+        ConstDeclList(
+          Type(
+           int
+          ) [Type]
+          ConstDec(
+           pi
+            NumConst(
+             3
+            ) [NumConst]
+          ) [ConstDec]
+          MoreConstDeclEpsilon(
+          ) [MoreConstDeclEpsilon]
+        ) [ConstDeclList]
+      ) [ConVarRecDeclListCon]
+      VarDeclList(
+        Type(
+         int
+        ) [Type]
+        VarDec(
+          VarName(
+           x
+          ) [VarName]
+          Array_No(
+          ) [Array_No]
+        ) [VarDec]
+        MoreVarDeclaration(
+          VarDec(
+            VarName(
+             y
+            ) [VarName]
+            Array_Yes(
+            ) [Array_Yes]
+          ) [VarDec]
+          MoreVarDec_Epsilon(
+          ) [MoreVarDec_Epsilon]
+        ) [MoreVarDeclaration]
+      ) [VarDeclList]
+    ) [ConVarRecDeclListVar]
+    VarDeclList(
+      Type(
+       bool
+      ) [Type]
+      VarDec(
+        VarName(
+         flag
+        ) [VarName]
+        Array_No(
+        ) [Array_No]
+      ) [VarDec]
+      MoreVarDec_Epsilon(
+      ) [MoreVarDec_Epsilon]
+    ) [VarDeclList]
+  ) [ConVarRecDeclListVar]
+  MethodList_Yes(
+    MethodList_Epsilon(
+    ) [MethodList_Epsilon]
+    MethodDecl(
+      TypeOrVoidName_Void(
+      ) [TypeOrVoidName_Void]
+      MethName(
+       main
+      ) [MethName]
+      FormPars_No(
+      ) [FormPars_No]
+      VarDeclListRec_Yes(
+        VarDeclListRec_Epsilon(
+        ) [VarDeclListRec_Epsilon]
+        VarDeclList(
+          Type(
+           int
+          ) [Type]
+          VarDec(
+            VarName(
+             a
+            ) [VarName]
+            Array_No(
+            ) [Array_No]
+          ) [VarDec]
+          MoreVarDeclaration(
+            VarDec(
+              VarName(
+               b
+              ) [VarName]
+              Array_Yes(
+              ) [Array_Yes]
+            ) [VarDec]
+            MoreVarDec_Epsilon(
+            ) [MoreVarDec_Epsilon]
+          ) [MoreVarDeclaration]
+        ) [VarDeclList]
+      ) [VarDeclListRec_Yes]
+      StatementListRec_Yes(
+        StatementListRec_Epsilon(
+        ) [StatementListRec_Epsilon]
+        StatementSingle(
+          SingleStatement_Print(
+            Expr(
+              AddOpTermListRec_Firt(
+                Term(
+                  FactorMulopListRec_First(
+                    Factor(
+                      MayMinus_No(
+                      ) [MayMinus_No]
+                      Factor_DesignatorVar(
+                        DesignatorName1(
+                         chr
+                        ) [DesignatorName1]
+                      ) [Factor_DesignatorVar]
+                    ) [Factor]
+                  ) [FactorMulopListRec_First]
+                ) [Term]
+              ) [AddOpTermListRec_Firt]
+            ) [Expr]
+            MayNumConst_No(
+            ) [MayNumConst_No]
+          ) [SingleStatement_Print]
+        ) [StatementSingle]
+      ) [StatementListRec_Yes]
+    ) [MethodDecl]
+  ) [MethodList_Yes]
+) [Program]
+INFO  22:11:22,144 - ===================================
+INFO  22:11:22,146 - Deklarisana konstanta: pi na liniji 3
+INFO  22:11:22,147 - Deklarisana promenljiva: x na liniji 4
+INFO  22:11:22,147 - Deklarisan niz: y na liniji 4
+INFO  22:11:22,147 - Deklarisana promenljiva: flag na liniji 5
+INFO  22:11:22,147 - Deklarisana promenljiva: a na liniji 10
+INFO  22:11:22,147 - Deklarisan niz: b na liniji 10
+INFO  22:11:22,147 - Koriscenje simbola: chr na liniji 29
+ERROR 22:11:22,147 - GRESKA: Neadekvatno koriscenje metode chr na liniji 29
+ERROR 22:11:22,147 - GRESKA: Print prihvata samo bool, char i int na liniji 7
+INFO  22:11:22,148 - ===================================
+ERROR 22:11:22,148 - Parsiranje NIJE uspesno zavrseno!

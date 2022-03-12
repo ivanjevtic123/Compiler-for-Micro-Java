@@ -1,0 +1,77 @@
+INFO  21:18:16,307 - Compiling source file: C:\Users\ji180550d\Desktop\PP1\PROJECT\Labs\lab1_code\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  21:18:16,341 - #2 program
+INFO  21:18:16,341 - #44 Keske
+INFO  21:18:16,341 - #44 int
+INFO  21:18:16,342 - #44 x
+INFO  21:18:16,342 - #7 ,
+INFO  21:18:16,344 - #44 y
+INFO  21:18:16,344 - #7 ,
+INFO  21:18:16,344 - #44 z
+INFO  21:18:16,344 - #8 ;
+INFO  21:18:16,345 - #5 const
+INFO  21:18:16,345 - #44 char
+INFO  21:18:16,345 - #44 a
+INFO  21:18:16,345 - #6 =
+INFO  21:18:16,346 - #47 a
+INFO  21:18:16,346 - #8 ;
+INFO  21:18:16,347 - #3 {
+INFO  21:18:16,347 - #4 }
+INFO  21:18:16,352 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConVarRecDeclListCon(
+    ConVarRecDeclListVar(
+      ConVarRecDeclListEpsilon(
+      ) [ConVarRecDeclListEpsilon]
+      VarDeclList(
+        Type(
+         int
+        ) [Type]
+        VarDec(
+          VarName(
+           x
+          ) [VarName]
+          Array_No(
+          ) [Array_No]
+        ) [VarDec]
+        MoreVarDeclaration(
+          VarDec(
+            VarName(
+             y
+            ) [VarName]
+            Array_No(
+            ) [Array_No]
+          ) [VarDec]
+          MoreVarDeclaration(
+            VarDec(
+              VarName(
+               z
+              ) [VarName]
+              Array_No(
+              ) [Array_No]
+            ) [VarDec]
+            MoreVarDec_Epsilon(
+            ) [MoreVarDec_Epsilon]
+          ) [MoreVarDeclaration]
+        ) [MoreVarDeclaration]
+      ) [VarDeclList]
+    ) [ConVarRecDeclListVar]
+    ConstDeclList(
+      Type(
+       char
+      ) [Type]
+      ConstDec(
+       a
+        CharConst(
+         a
+        ) [CharConst]
+      ) [ConstDec]
+      MoreConstDeclEpsilon(
+      ) [MoreConstDeclEpsilon]
+    ) [ConstDeclList]
+  ) [ConVarRecDeclListCon]
+  MethodList_Epsilon(
+  ) [MethodList_Epsilon]
+) [Program]
+INFO  21:18:16,357 - ===================================

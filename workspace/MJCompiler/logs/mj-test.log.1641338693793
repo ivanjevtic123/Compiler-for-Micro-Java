@@ -1,0 +1,262 @@
+INFO  00:24:04,771 - Compiling source file: C:\Users\ji180550d\Desktop\PP1\PROJECT\Labs\lab1_code\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  00:24:04,801 - #2 program
+INFO  00:24:04,801 - #44 Keske
+INFO  00:24:04,801 - #5 const
+INFO  00:24:04,802 - #44 int
+INFO  00:24:04,802 - #44 pi
+INFO  00:24:04,802 - #6 =
+INFO  00:24:04,802 - #45 3
+INFO  00:24:04,802 - #7 ,
+INFO  00:24:04,803 - #44 g
+INFO  00:24:04,803 - #6 =
+INFO  00:24:04,803 - #45 11
+INFO  00:24:04,803 - #8 ;
+INFO  00:24:04,803 - #44 int
+INFO  00:24:04,804 - #44 x
+INFO  00:24:04,804 - #7 ,
+INFO  00:24:04,806 - #44 y
+INFO  00:24:04,806 - #9 [
+INFO  00:24:04,806 - #10 ]
+INFO  00:24:04,806 - #7 ,
+INFO  00:24:04,806 - #44 z
+INFO  00:24:04,806 - #8 ;
+INFO  00:24:04,807 - #5 const
+INFO  00:24:04,807 - #44 char
+INFO  00:24:04,808 - #44 c
+INFO  00:24:04,808 - #6 =
+INFO  00:24:04,808 - #47 a
+INFO  00:24:04,808 - #8 ;
+INFO  00:24:04,808 - #44 bool
+INFO  00:24:04,808 - #44 b
+INFO  00:24:04,808 - #8 ;
+INFO  00:24:04,808 - #3 {
+INFO  00:24:04,808 - #14 void
+INFO  00:24:04,809 - #44 main
+INFO  00:24:04,809 - #12 (
+INFO  00:24:04,809 - #13 )
+INFO  00:24:04,810 - #44 int
+INFO  00:24:04,810 - #44 x
+INFO  00:24:04,810 - #7 ,
+INFO  00:24:04,811 - #44 y
+INFO  00:24:04,811 - #9 [
+INFO  00:24:04,811 - #10 ]
+INFO  00:24:04,811 - #7 ,
+INFO  00:24:04,811 - #44 z
+INFO  00:24:04,811 - #8 ;
+INFO  00:24:04,811 - #3 {
+INFO  00:24:04,811 - #44 l1
+INFO  00:24:04,811 - #42 :
+INFO  00:24:04,812 - #44 x
+INFO  00:24:04,812 - #25 ++
+INFO  00:24:04,812 - #8 ;
+INFO  00:24:04,812 - #24 goto
+INFO  00:24:04,812 - #44 l1
+INFO  00:24:04,812 - #8 ;
+INFO  00:24:04,812 - #24 goto
+INFO  00:24:04,812 - #44 l1
+INFO  00:24:04,813 - #8 ;
+INFO  00:24:04,813 - #44 l1
+INFO  00:24:04,813 - #42 :
+INFO  00:24:04,813 - #44 x
+INFO  00:24:04,813 - #26 --
+INFO  00:24:04,813 - #8 ;
+INFO  00:24:04,813 - #4 }
+INFO  00:24:04,813 - #4 }
+INFO  00:24:04,817 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConVarRecDeclListVar(
+    ConVarRecDeclListCon(
+      ConVarRecDeclListVar(
+        ConVarRecDeclListCon(
+          ConVarRecDeclListEpsilon(
+          ) [ConVarRecDeclListEpsilon]
+          ConstDeclList(
+            Type(
+             int
+            ) [Type]
+            ConstDec(
+             pi
+              NumConst(
+               3
+              ) [NumConst]
+            ) [ConstDec]
+            MoreConstDeclaration(
+              ConstDec(
+               g
+                NumConst(
+                 11
+                ) [NumConst]
+              ) [ConstDec]
+              MoreConstDeclEpsilon(
+              ) [MoreConstDeclEpsilon]
+            ) [MoreConstDeclaration]
+          ) [ConstDeclList]
+        ) [ConVarRecDeclListCon]
+        VarDeclList(
+          Type(
+           int
+          ) [Type]
+          VarDec(
+            VarName(
+             x
+            ) [VarName]
+            Array_No(
+            ) [Array_No]
+          ) [VarDec]
+          MoreVarDeclaration(
+            VarDec(
+              VarName(
+               y
+              ) [VarName]
+              Array_Yes(
+              ) [Array_Yes]
+            ) [VarDec]
+            MoreVarDeclaration(
+              VarDec(
+                VarName(
+                 z
+                ) [VarName]
+                Array_No(
+                ) [Array_No]
+              ) [VarDec]
+              MoreVarDec_Epsilon(
+              ) [MoreVarDec_Epsilon]
+            ) [MoreVarDeclaration]
+          ) [MoreVarDeclaration]
+        ) [VarDeclList]
+      ) [ConVarRecDeclListVar]
+      ConstDeclList(
+        Type(
+         char
+        ) [Type]
+        ConstDec(
+         c
+          CharConst(
+           a
+          ) [CharConst]
+        ) [ConstDec]
+        MoreConstDeclEpsilon(
+        ) [MoreConstDeclEpsilon]
+      ) [ConstDeclList]
+    ) [ConVarRecDeclListCon]
+    VarDeclList(
+      Type(
+       bool
+      ) [Type]
+      VarDec(
+        VarName(
+         b
+        ) [VarName]
+        Array_No(
+        ) [Array_No]
+      ) [VarDec]
+      MoreVarDec_Epsilon(
+      ) [MoreVarDec_Epsilon]
+    ) [VarDeclList]
+  ) [ConVarRecDeclListVar]
+  MethodList_Yes(
+    MethodList_Epsilon(
+    ) [MethodList_Epsilon]
+    MethodDecl(
+      TypeOrVoidName_Void(
+      ) [TypeOrVoidName_Void]
+      MethName(
+       main
+      ) [MethName]
+      FormPars_No(
+      ) [FormPars_No]
+      VarDeclListRec_Yes(
+        VarDeclListRec_Epsilon(
+        ) [VarDeclListRec_Epsilon]
+        VarDeclList(
+          Type(
+           int
+          ) [Type]
+          VarDec(
+            VarName(
+             x
+            ) [VarName]
+            Array_No(
+            ) [Array_No]
+          ) [VarDec]
+          MoreVarDeclaration(
+            VarDec(
+              VarName(
+               y
+              ) [VarName]
+              Array_Yes(
+              ) [Array_Yes]
+            ) [VarDec]
+            MoreVarDeclaration(
+              VarDec(
+                VarName(
+                 z
+                ) [VarName]
+                Array_No(
+                ) [Array_No]
+              ) [VarDec]
+              MoreVarDec_Epsilon(
+              ) [MoreVarDec_Epsilon]
+            ) [MoreVarDeclaration]
+          ) [MoreVarDeclaration]
+        ) [VarDeclList]
+      ) [VarDeclListRec_Yes]
+      StatementListRec_Yes(
+        StatementListRec_Yes(
+          StatementListRec_Yes(
+            StatementListRec_Yes(
+              StatementListRec_Epsilon(
+              ) [StatementListRec_Epsilon]
+              StatementSingleLabel(
+                Label(
+                 l1
+                ) [Label]
+                SingleStatement_Designator(
+                  DesignatorStat_Inc(
+                    DesignatorName1(
+                     x
+                    ) [DesignatorName1]
+                  ) [DesignatorStat_Inc]
+                ) [SingleStatement_Designator]
+              ) [StatementSingleLabel]
+            ) [StatementListRec_Yes]
+            StatementSingle(
+              SingleStatement_GoTo(
+                Label(
+                 l1
+                ) [Label]
+              ) [SingleStatement_GoTo]
+            ) [StatementSingle]
+          ) [StatementListRec_Yes]
+          StatementSingle(
+            SingleStatement_GoTo(
+              Label(
+               l1
+              ) [Label]
+            ) [SingleStatement_GoTo]
+          ) [StatementSingle]
+        ) [StatementListRec_Yes]
+        StatementSingleLabel(
+          Label(
+           l1
+          ) [Label]
+          SingleStatement_Designator(
+            DesignatorStat_Dec(
+              DesignatorName1(
+               x
+              ) [DesignatorName1]
+            ) [DesignatorStat_Dec]
+          ) [SingleStatement_Designator]
+        ) [StatementSingleLabel]
+      ) [StatementListRec_Yes]
+    ) [MethodDecl]
+  ) [MethodList_Yes]
+) [Program]
+INFO  00:24:04,818 - ===================================
+INFO  00:24:04,820 - Adekvatno inkrementiranje na liniji 12
+INFO  00:24:04,820 - Adekvatno dekrementiranje na liniji 17
+ERROR 00:24:04,820 - U metodi Label vec postoji l1 na liniji 17
+INFO  00:24:04,820 - ===================================
+ERROR 00:24:04,821 - Parsiranje NIJE uspesno zavrseno!

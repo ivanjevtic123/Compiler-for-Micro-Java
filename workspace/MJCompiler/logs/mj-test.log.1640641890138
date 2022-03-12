@@ -1,0 +1,539 @@
+INFO  22:48:46,113 - Compiling source file: C:\Users\ji180550d\Desktop\PP1\PROJECT\Labs\lab1_code\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  22:48:46,142 - #2 program
+INFO  22:48:46,142 - #44 test301
+INFO  22:48:46,142 - #5 const
+INFO  22:48:46,143 - #44 bool
+INFO  22:48:46,143 - #44 fleg1
+INFO  22:48:46,144 - #6 =
+INFO  22:48:46,144 - #46 1
+INFO  22:48:46,144 - #8 ;
+INFO  22:48:46,145 - #5 const
+INFO  22:48:46,145 - #44 bool
+INFO  22:48:46,145 - #44 fleg2
+INFO  22:48:46,146 - #6 =
+INFO  22:48:46,146 - #46 0
+INFO  22:48:46,146 - #8 ;
+INFO  22:48:46,146 - #5 const
+INFO  22:48:46,146 - #44 bool
+INFO  22:48:46,146 - #44 fleg3
+INFO  22:48:46,146 - #6 =
+INFO  22:48:46,146 - #45 0
+INFO  22:48:46,146 - #8 ;
+INFO  22:48:46,151 - #5 const
+INFO  22:48:46,151 - #44 bool
+INFO  22:48:46,151 - #44 fleg4
+INFO  22:48:46,151 - #6 =
+INFO  22:48:46,152 - #45 1
+INFO  22:48:46,152 - #8 ;
+INFO  22:48:46,152 - #5 const
+INFO  22:48:46,152 - #44 bool
+INFO  22:48:46,152 - #44 fleg5
+INFO  22:48:46,152 - #6 =
+INFO  22:48:46,152 - #45 2
+INFO  22:48:46,152 - #8 ;
+INFO  22:48:46,152 - #5 const
+INFO  22:48:46,152 - #44 bool
+INFO  22:48:46,152 - #44 fleg6
+INFO  22:48:46,152 - #6 =
+INFO  22:48:46,152 - #47 a
+INFO  22:48:46,152 - #8 ;
+INFO  22:48:46,152 - #5 const
+INFO  22:48:46,152 - #44 int
+INFO  22:48:46,153 - #44 broj1
+INFO  22:48:46,153 - #6 =
+INFO  22:48:46,153 - #46 1
+INFO  22:48:46,153 - #8 ;
+INFO  22:48:46,153 - #5 const
+INFO  22:48:46,153 - #44 int
+INFO  22:48:46,153 - #44 broj2
+INFO  22:48:46,153 - #6 =
+INFO  22:48:46,153 - #46 0
+INFO  22:48:46,153 - #8 ;
+INFO  22:48:46,153 - #5 const
+INFO  22:48:46,153 - #44 int
+INFO  22:48:46,153 - #44 broj3
+INFO  22:48:46,153 - #6 =
+INFO  22:48:46,153 - #45 0
+INFO  22:48:46,154 - #8 ;
+INFO  22:48:46,154 - #5 const
+INFO  22:48:46,154 - #44 int
+INFO  22:48:46,154 - #44 broj4
+INFO  22:48:46,154 - #6 =
+INFO  22:48:46,154 - #45 1
+INFO  22:48:46,154 - #8 ;
+INFO  22:48:46,154 - #5 const
+INFO  22:48:46,154 - #44 int
+INFO  22:48:46,154 - #44 broj5
+INFO  22:48:46,154 - #6 =
+INFO  22:48:46,154 - #45 2
+INFO  22:48:46,154 - #8 ;
+INFO  22:48:46,155 - #5 const
+INFO  22:48:46,155 - #44 int
+INFO  22:48:46,155 - #44 broj7
+INFO  22:48:46,155 - #6 =
+INFO  22:48:46,155 - #47 a
+INFO  22:48:46,155 - #8 ;
+INFO  22:48:46,155 - #5 const
+INFO  22:48:46,155 - #44 int
+INFO  22:48:46,155 - #44 broj4
+INFO  22:48:46,155 - #6 =
+INFO  22:48:46,155 - #45 4
+INFO  22:48:46,155 - #8 ;
+INFO  22:48:46,155 - #5 const
+INFO  22:48:46,155 - #44 int
+INFO  22:48:46,155 - #44 fleg2
+INFO  22:48:46,155 - #6 =
+INFO  22:48:46,155 - #45 1
+INFO  22:48:46,155 - #8 ;
+INFO  22:48:46,155 - #5 const
+INFO  22:48:46,155 - #44 char
+INFO  22:48:46,156 - #44 char1
+INFO  22:48:46,156 - #6 =
+INFO  22:48:46,156 - #46 1
+INFO  22:48:46,156 - #8 ;
+INFO  22:48:46,156 - #5 const
+INFO  22:48:46,156 - #44 char
+INFO  22:48:46,156 - #44 char2
+INFO  22:48:46,156 - #6 =
+INFO  22:48:46,156 - #46 0
+INFO  22:48:46,156 - #8 ;
+INFO  22:48:46,156 - #5 const
+INFO  22:48:46,156 - #44 char
+INFO  22:48:46,156 - #44 char3
+INFO  22:48:46,156 - #6 =
+INFO  22:48:46,156 - #45 0
+INFO  22:48:46,156 - #8 ;
+INFO  22:48:46,156 - #5 const
+INFO  22:48:46,156 - #44 char
+INFO  22:48:46,156 - #44 char4
+INFO  22:48:46,156 - #6 =
+INFO  22:48:46,157 - #45 1
+INFO  22:48:46,157 - #8 ;
+INFO  22:48:46,157 - #5 const
+INFO  22:48:46,157 - #44 char
+INFO  22:48:46,157 - #44 char5
+INFO  22:48:46,157 - #6 =
+INFO  22:48:46,157 - #45 2
+INFO  22:48:46,157 - #8 ;
+INFO  22:48:46,157 - #5 const
+INFO  22:48:46,157 - #44 char
+INFO  22:48:46,157 - #44 char7
+INFO  22:48:46,157 - #6 =
+INFO  22:48:46,157 - #47 a
+INFO  22:48:46,157 - #8 ;
+INFO  22:48:46,157 - #5 const
+INFO  22:48:46,157 - #44 char
+INFO  22:48:46,157 - #44 char8
+INFO  22:48:46,157 - #6 =
+INFO  22:48:46,157 - #45 4
+INFO  22:48:46,157 - #8 ;
+INFO  22:48:46,157 - #5 const
+INFO  22:48:46,157 - #44 char
+INFO  22:48:46,158 - #44 broj4
+INFO  22:48:46,158 - #6 =
+INFO  22:48:46,158 - #45 4
+INFO  22:48:46,158 - #8 ;
+INFO  22:48:46,158 - #5 const
+INFO  22:48:46,158 - #44 char
+INFO  22:48:46,158 - #44 fleg1
+INFO  22:48:46,158 - #6 =
+INFO  22:48:46,158 - #45 1
+INFO  22:48:46,158 - #8 ;
+INFO  22:48:46,158 - #3 {
+INFO  22:48:46,158 - #14 void
+INFO  22:48:46,159 - #44 main
+INFO  22:48:46,159 - #12 (
+INFO  22:48:46,159 - #13 )
+INFO  22:48:46,160 - #3 {
+INFO  22:48:46,160 - #4 }
+INFO  22:48:46,161 - #4 }
+INFO  22:48:46,166 - Program(
+  ProgramName(
+   test301
+  ) [ProgramName]
+  ConVarRecDeclListCon(
+    ConVarRecDeclListCon(
+      ConVarRecDeclListCon(
+        ConVarRecDeclListCon(
+          ConVarRecDeclListCon(
+            ConVarRecDeclListCon(
+              ConVarRecDeclListCon(
+                ConVarRecDeclListCon(
+                  ConVarRecDeclListCon(
+                    ConVarRecDeclListCon(
+                      ConVarRecDeclListCon(
+                        ConVarRecDeclListCon(
+                          ConVarRecDeclListCon(
+                            ConVarRecDeclListCon(
+                              ConVarRecDeclListCon(
+                                ConVarRecDeclListCon(
+                                  ConVarRecDeclListCon(
+                                    ConVarRecDeclListCon(
+                                      ConVarRecDeclListCon(
+                                        ConVarRecDeclListCon(
+                                          ConVarRecDeclListCon(
+                                            ConVarRecDeclListCon(
+                                              ConVarRecDeclListCon(
+                                                ConVarRecDeclListEpsilon(
+                                                ) [ConVarRecDeclListEpsilon]
+                                                ConstDeclList(
+                                                  Type(
+                                                   bool
+                                                  ) [Type]
+                                                  ConstDec(
+                                                   fleg1
+                                                    BoolConst(
+                                                     1
+                                                    ) [BoolConst]
+                                                  ) [ConstDec]
+                                                  MoreConstDeclEpsilon(
+                                                  ) [MoreConstDeclEpsilon]
+                                                ) [ConstDeclList]
+                                              ) [ConVarRecDeclListCon]
+                                              ConstDeclList(
+                                                Type(
+                                                 bool
+                                                ) [Type]
+                                                ConstDec(
+                                                 fleg2
+                                                  BoolConst(
+                                                   0
+                                                  ) [BoolConst]
+                                                ) [ConstDec]
+                                                MoreConstDeclEpsilon(
+                                                ) [MoreConstDeclEpsilon]
+                                              ) [ConstDeclList]
+                                            ) [ConVarRecDeclListCon]
+                                            ConstDeclList(
+                                              Type(
+                                               bool
+                                              ) [Type]
+                                              ConstDec(
+                                               fleg3
+                                                NumConst(
+                                                 0
+                                                ) [NumConst]
+                                              ) [ConstDec]
+                                              MoreConstDeclEpsilon(
+                                              ) [MoreConstDeclEpsilon]
+                                            ) [ConstDeclList]
+                                          ) [ConVarRecDeclListCon]
+                                          ConstDeclList(
+                                            Type(
+                                             bool
+                                            ) [Type]
+                                            ConstDec(
+                                             fleg4
+                                              NumConst(
+                                               1
+                                              ) [NumConst]
+                                            ) [ConstDec]
+                                            MoreConstDeclEpsilon(
+                                            ) [MoreConstDeclEpsilon]
+                                          ) [ConstDeclList]
+                                        ) [ConVarRecDeclListCon]
+                                        ConstDeclList(
+                                          Type(
+                                           bool
+                                          ) [Type]
+                                          ConstDec(
+                                           fleg5
+                                            NumConst(
+                                             2
+                                            ) [NumConst]
+                                          ) [ConstDec]
+                                          MoreConstDeclEpsilon(
+                                          ) [MoreConstDeclEpsilon]
+                                        ) [ConstDeclList]
+                                      ) [ConVarRecDeclListCon]
+                                      ConstDeclList(
+                                        Type(
+                                         bool
+                                        ) [Type]
+                                        ConstDec(
+                                         fleg6
+                                          CharConst(
+                                           a
+                                          ) [CharConst]
+                                        ) [ConstDec]
+                                        MoreConstDeclEpsilon(
+                                        ) [MoreConstDeclEpsilon]
+                                      ) [ConstDeclList]
+                                    ) [ConVarRecDeclListCon]
+                                    ConstDeclList(
+                                      Type(
+                                       int
+                                      ) [Type]
+                                      ConstDec(
+                                       broj1
+                                        BoolConst(
+                                         1
+                                        ) [BoolConst]
+                                      ) [ConstDec]
+                                      MoreConstDeclEpsilon(
+                                      ) [MoreConstDeclEpsilon]
+                                    ) [ConstDeclList]
+                                  ) [ConVarRecDeclListCon]
+                                  ConstDeclList(
+                                    Type(
+                                     int
+                                    ) [Type]
+                                    ConstDec(
+                                     broj2
+                                      BoolConst(
+                                       0
+                                      ) [BoolConst]
+                                    ) [ConstDec]
+                                    MoreConstDeclEpsilon(
+                                    ) [MoreConstDeclEpsilon]
+                                  ) [ConstDeclList]
+                                ) [ConVarRecDeclListCon]
+                                ConstDeclList(
+                                  Type(
+                                   int
+                                  ) [Type]
+                                  ConstDec(
+                                   broj3
+                                    NumConst(
+                                     0
+                                    ) [NumConst]
+                                  ) [ConstDec]
+                                  MoreConstDeclEpsilon(
+                                  ) [MoreConstDeclEpsilon]
+                                ) [ConstDeclList]
+                              ) [ConVarRecDeclListCon]
+                              ConstDeclList(
+                                Type(
+                                 int
+                                ) [Type]
+                                ConstDec(
+                                 broj4
+                                  NumConst(
+                                   1
+                                  ) [NumConst]
+                                ) [ConstDec]
+                                MoreConstDeclEpsilon(
+                                ) [MoreConstDeclEpsilon]
+                              ) [ConstDeclList]
+                            ) [ConVarRecDeclListCon]
+                            ConstDeclList(
+                              Type(
+                               int
+                              ) [Type]
+                              ConstDec(
+                               broj5
+                                NumConst(
+                                 2
+                                ) [NumConst]
+                              ) [ConstDec]
+                              MoreConstDeclEpsilon(
+                              ) [MoreConstDeclEpsilon]
+                            ) [ConstDeclList]
+                          ) [ConVarRecDeclListCon]
+                          ConstDeclList(
+                            Type(
+                             int
+                            ) [Type]
+                            ConstDec(
+                             broj7
+                              CharConst(
+                               a
+                              ) [CharConst]
+                            ) [ConstDec]
+                            MoreConstDeclEpsilon(
+                            ) [MoreConstDeclEpsilon]
+                          ) [ConstDeclList]
+                        ) [ConVarRecDeclListCon]
+                        ConstDeclList(
+                          Type(
+                           int
+                          ) [Type]
+                          ConstDec(
+                           broj4
+                            NumConst(
+                             4
+                            ) [NumConst]
+                          ) [ConstDec]
+                          MoreConstDeclEpsilon(
+                          ) [MoreConstDeclEpsilon]
+                        ) [ConstDeclList]
+                      ) [ConVarRecDeclListCon]
+                      ConstDeclList(
+                        Type(
+                         int
+                        ) [Type]
+                        ConstDec(
+                         fleg2
+                          NumConst(
+                           1
+                          ) [NumConst]
+                        ) [ConstDec]
+                        MoreConstDeclEpsilon(
+                        ) [MoreConstDeclEpsilon]
+                      ) [ConstDeclList]
+                    ) [ConVarRecDeclListCon]
+                    ConstDeclList(
+                      Type(
+                       char
+                      ) [Type]
+                      ConstDec(
+                       char1
+                        BoolConst(
+                         1
+                        ) [BoolConst]
+                      ) [ConstDec]
+                      MoreConstDeclEpsilon(
+                      ) [MoreConstDeclEpsilon]
+                    ) [ConstDeclList]
+                  ) [ConVarRecDeclListCon]
+                  ConstDeclList(
+                    Type(
+                     char
+                    ) [Type]
+                    ConstDec(
+                     char2
+                      BoolConst(
+                       0
+                      ) [BoolConst]
+                    ) [ConstDec]
+                    MoreConstDeclEpsilon(
+                    ) [MoreConstDeclEpsilon]
+                  ) [ConstDeclList]
+                ) [ConVarRecDeclListCon]
+                ConstDeclList(
+                  Type(
+                   char
+                  ) [Type]
+                  ConstDec(
+                   char3
+                    NumConst(
+                     0
+                    ) [NumConst]
+                  ) [ConstDec]
+                  MoreConstDeclEpsilon(
+                  ) [MoreConstDeclEpsilon]
+                ) [ConstDeclList]
+              ) [ConVarRecDeclListCon]
+              ConstDeclList(
+                Type(
+                 char
+                ) [Type]
+                ConstDec(
+                 char4
+                  NumConst(
+                   1
+                  ) [NumConst]
+                ) [ConstDec]
+                MoreConstDeclEpsilon(
+                ) [MoreConstDeclEpsilon]
+              ) [ConstDeclList]
+            ) [ConVarRecDeclListCon]
+            ConstDeclList(
+              Type(
+               char
+              ) [Type]
+              ConstDec(
+               char5
+                NumConst(
+                 2
+                ) [NumConst]
+              ) [ConstDec]
+              MoreConstDeclEpsilon(
+              ) [MoreConstDeclEpsilon]
+            ) [ConstDeclList]
+          ) [ConVarRecDeclListCon]
+          ConstDeclList(
+            Type(
+             char
+            ) [Type]
+            ConstDec(
+             char7
+              CharConst(
+               a
+              ) [CharConst]
+            ) [ConstDec]
+            MoreConstDeclEpsilon(
+            ) [MoreConstDeclEpsilon]
+          ) [ConstDeclList]
+        ) [ConVarRecDeclListCon]
+        ConstDeclList(
+          Type(
+           char
+          ) [Type]
+          ConstDec(
+           char8
+            NumConst(
+             4
+            ) [NumConst]
+          ) [ConstDec]
+          MoreConstDeclEpsilon(
+          ) [MoreConstDeclEpsilon]
+        ) [ConstDeclList]
+      ) [ConVarRecDeclListCon]
+      ConstDeclList(
+        Type(
+         char
+        ) [Type]
+        ConstDec(
+         broj4
+          NumConst(
+           4
+          ) [NumConst]
+        ) [ConstDec]
+        MoreConstDeclEpsilon(
+        ) [MoreConstDeclEpsilon]
+      ) [ConstDeclList]
+    ) [ConVarRecDeclListCon]
+    ConstDeclList(
+      Type(
+       char
+      ) [Type]
+      ConstDec(
+       fleg1
+        NumConst(
+         1
+        ) [NumConst]
+      ) [ConstDec]
+      MoreConstDeclEpsilon(
+      ) [MoreConstDeclEpsilon]
+    ) [ConstDeclList]
+  ) [ConVarRecDeclListCon]
+  MethodList_Yes(
+    MethodList_Epsilon(
+    ) [MethodList_Epsilon]
+    MethodDecl(
+      TypeOrVoidName_Void(
+      ) [TypeOrVoidName_Void]
+      MethName(
+       main
+      ) [MethName]
+      FormPars_No(
+      ) [FormPars_No]
+      VarDeclListRec_Epsilon(
+      ) [VarDeclListRec_Epsilon]
+      StatementListRec_Epsilon(
+      ) [StatementListRec_Epsilon]
+    ) [MethodDecl]
+  ) [MethodList_Yes]
+) [Program]
+INFO  22:48:46,166 - ===================================
+ERROR 22:48:46,168 - Los tip na liniji 11
+ERROR 22:48:46,168 - Los tip na liniji 12
+ERROR 22:48:46,168 - Los tip na liniji 13
+ERROR 22:48:46,168 - Los tip na liniji 14
+ERROR 22:48:46,169 - Los tip na liniji 16
+ERROR 22:48:46,169 - Los tip na liniji 17
+ERROR 22:48:46,169 - Los tip na liniji 22
+ERROR 22:48:46,169 - Konstanta vec postoji na liniji 23
+ERROR 22:48:46,169 - Konstanta vec postoji na liniji 25
+ERROR 22:48:46,169 - Los tip na liniji 27
+ERROR 22:48:46,169 - Los tip na liniji 28
+ERROR 22:48:46,169 - Los tip na liniji 29
+ERROR 22:48:46,169 - Los tip na liniji 30
+ERROR 22:48:46,169 - Los tip na liniji 31
+ERROR 22:48:46,171 - Los tip na liniji 33
+ERROR 22:48:46,171 - Los tip na liniji 34
+ERROR 22:48:46,171 - Los tip na liniji 35
+ERROR 22:48:46,171 - Los tip na liniji 36
+INFO  22:48:46,171 - ===================================
+ERROR 22:48:46,171 - Parsiranje NIJE uspesno zavrseno!

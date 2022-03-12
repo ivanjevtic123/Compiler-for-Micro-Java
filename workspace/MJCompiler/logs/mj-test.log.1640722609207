@@ -1,0 +1,78 @@
+INFO  21:15:29,597 - Compiling source file: C:\Users\ji180550d\Desktop\PP1\PROJECT\Labs\lab1_code\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  21:15:29,631 - #2 program
+INFO  21:15:29,631 - #44 Keske
+INFO  21:15:29,632 - #5 const
+INFO  21:15:29,633 - #44 int
+INFO  21:15:29,633 - #44 pi
+INFO  21:15:29,633 - #6 =
+INFO  21:15:29,633 - #45 3
+INFO  21:15:29,633 - #8 ;
+INFO  21:15:29,634 - #44 int
+INFO  21:15:29,635 - #44 x
+INFO  21:15:29,635 - #8 ;
+INFO  21:15:29,637 - #5 const
+INFO  21:15:29,638 - #44 char
+INFO  21:15:29,638 - #44 a
+INFO  21:15:29,638 - #6 =
+INFO  21:15:29,638 - #47 a
+INFO  21:15:29,638 - #8 ;
+INFO  21:15:29,638 - #3 {
+INFO  21:15:29,638 - #4 }
+INFO  21:15:29,643 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConVarRecDeclListCon(
+    ConVarRecDeclListVar(
+      ConVarRecDeclListCon(
+        ConVarRecDeclListEpsilon(
+        ) [ConVarRecDeclListEpsilon]
+        ConstDeclList(
+          Type(
+           int
+          ) [Type]
+          ConstDec(
+           pi
+            NumConst(
+             3
+            ) [NumConst]
+          ) [ConstDec]
+          MoreConstDeclEpsilon(
+          ) [MoreConstDeclEpsilon]
+        ) [ConstDeclList]
+      ) [ConVarRecDeclListCon]
+      VarDeclList(
+        Type(
+         int
+        ) [Type]
+        VarDec(
+          VarName(
+           x
+          ) [VarName]
+          Array_No(
+          ) [Array_No]
+        ) [VarDec]
+        MoreVarDec_Epsilon(
+        ) [MoreVarDec_Epsilon]
+      ) [VarDeclList]
+    ) [ConVarRecDeclListVar]
+    ConstDeclList(
+      Type(
+       char
+      ) [Type]
+      ConstDec(
+       a
+        CharConst(
+         a
+        ) [CharConst]
+      ) [ConstDec]
+      MoreConstDeclEpsilon(
+      ) [MoreConstDeclEpsilon]
+    ) [ConstDeclList]
+  ) [ConVarRecDeclListCon]
+  MethodList_Epsilon(
+  ) [MethodList_Epsilon]
+) [Program]
+INFO  21:15:29,648 - ===================================
+INFO  21:15:29,650 - ===================================
+INFO  21:15:29,650 - Parsiranje uspesno zavrseno!

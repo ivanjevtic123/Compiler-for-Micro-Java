@@ -1,0 +1,251 @@
+INFO  20:23:11,787 - Compiling source file: C:\Users\ji180550d\Desktop\PP1\PROJECT\Labs\lab1_code\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  20:23:11,816 - #2 program
+INFO  20:23:11,816 - #44 Keske
+INFO  20:23:11,816 - #5 const
+INFO  20:23:11,817 - #44 int
+INFO  20:23:11,817 - #44 pi
+INFO  20:23:11,817 - #6 =
+INFO  20:23:11,817 - #45 3
+INFO  20:23:11,817 - #8 ;
+INFO  20:23:11,818 - #44 int
+INFO  20:23:11,819 - #44 x
+INFO  20:23:11,819 - #7 ,
+INFO  20:23:11,820 - #44 y
+INFO  20:23:11,820 - #9 [
+INFO  20:23:11,820 - #10 ]
+INFO  20:23:11,821 - #8 ;
+INFO  20:23:11,821 - #44 bool
+INFO  20:23:11,822 - #44 flag
+INFO  20:23:11,822 - #8 ;
+INFO  20:23:11,822 - #3 {
+INFO  20:23:11,822 - #14 void
+INFO  20:23:11,823 - #44 main
+INFO  20:23:11,827 - #12 (
+INFO  20:23:11,828 - #13 )
+INFO  20:23:11,828 - #44 int
+INFO  20:23:11,829 - #44 a
+INFO  20:23:11,829 - #7 ,
+INFO  20:23:11,829 - #44 b
+INFO  20:23:11,829 - #9 [
+INFO  20:23:11,829 - #10 ]
+INFO  20:23:11,829 - #8 ;
+INFO  20:23:11,829 - #3 {
+INFO  20:23:11,829 - #44 a
+INFO  20:23:11,830 - #6 =
+INFO  20:23:11,830 - #45 8
+INFO  20:23:11,831 - #8 ;
+INFO  20:23:11,832 - #44 a
+INFO  20:23:11,832 - #6 =
+INFO  20:23:11,832 - #28 -
+INFO  20:23:11,832 - #44 a
+INFO  20:23:11,833 - #8 ;
+INFO  20:23:11,833 - #23 print
+INFO  20:23:11,833 - #12 (
+INFO  20:23:11,833 - #44 a
+INFO  20:23:11,833 - #13 )
+INFO  20:23:11,833 - #8 ;
+INFO  20:23:11,834 - #4 }
+INFO  20:23:11,834 - #4 }
+INFO  20:23:11,838 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConVarRecDeclListVar(
+    ConVarRecDeclListVar(
+      ConVarRecDeclListCon(
+        ConVarRecDeclListEpsilon(
+        ) [ConVarRecDeclListEpsilon]
+        ConstDeclList(
+          Type(
+           int
+          ) [Type]
+          ConstDec(
+           pi
+            NumConst(
+             3
+            ) [NumConst]
+          ) [ConstDec]
+          MoreConstDeclEpsilon(
+          ) [MoreConstDeclEpsilon]
+        ) [ConstDeclList]
+      ) [ConVarRecDeclListCon]
+      VarDeclList(
+        Type(
+         int
+        ) [Type]
+        VarDec(
+          VarName(
+           x
+          ) [VarName]
+          Array_No(
+          ) [Array_No]
+        ) [VarDec]
+        MoreVarDeclaration(
+          VarDec(
+            VarName(
+             y
+            ) [VarName]
+            Array_Yes(
+            ) [Array_Yes]
+          ) [VarDec]
+          MoreVarDec_Epsilon(
+          ) [MoreVarDec_Epsilon]
+        ) [MoreVarDeclaration]
+      ) [VarDeclList]
+    ) [ConVarRecDeclListVar]
+    VarDeclList(
+      Type(
+       bool
+      ) [Type]
+      VarDec(
+        VarName(
+         flag
+        ) [VarName]
+        Array_No(
+        ) [Array_No]
+      ) [VarDec]
+      MoreVarDec_Epsilon(
+      ) [MoreVarDec_Epsilon]
+    ) [VarDeclList]
+  ) [ConVarRecDeclListVar]
+  MethodList_Yes(
+    MethodList_Epsilon(
+    ) [MethodList_Epsilon]
+    MethodDecl(
+      TypeOrVoidName_Void(
+      ) [TypeOrVoidName_Void]
+      MethName(
+       main
+      ) [MethName]
+      FormPars_No(
+      ) [FormPars_No]
+      VarDeclListRec_Yes(
+        VarDeclListRec_Epsilon(
+        ) [VarDeclListRec_Epsilon]
+        VarDeclList(
+          Type(
+           int
+          ) [Type]
+          VarDec(
+            VarName(
+             a
+            ) [VarName]
+            Array_No(
+            ) [Array_No]
+          ) [VarDec]
+          MoreVarDeclaration(
+            VarDec(
+              VarName(
+               b
+              ) [VarName]
+              Array_Yes(
+              ) [Array_Yes]
+            ) [VarDec]
+            MoreVarDec_Epsilon(
+            ) [MoreVarDec_Epsilon]
+          ) [MoreVarDeclaration]
+        ) [VarDeclList]
+      ) [VarDeclListRec_Yes]
+      StatementListRec_Yes(
+        StatementListRec_Yes(
+          StatementListRec_Yes(
+            StatementListRec_Epsilon(
+            ) [StatementListRec_Epsilon]
+            StatementSingle(
+              SingleStatement_Designator(
+                DesignatorStat_AssignExpr(
+                  DesignatorName1(
+                   a
+                  ) [DesignatorName1]
+                  AssignOp(
+                  ) [AssignOp]
+                  Expr(
+                    AddOpTermListRec_Firt(
+                      Term(
+                        FactorMulopListRec_First(
+                          Factor(
+                            MayMinus_No(
+                            ) [MayMinus_No]
+                            Factor_Num(
+                             8
+                            ) [Factor_Num]
+                          ) [Factor]
+                        ) [FactorMulopListRec_First]
+                      ) [Term]
+                    ) [AddOpTermListRec_Firt]
+                  ) [Expr]
+                ) [DesignatorStat_AssignExpr]
+              ) [SingleStatement_Designator]
+            ) [StatementSingle]
+          ) [StatementListRec_Yes]
+          StatementSingle(
+            SingleStatement_Designator(
+              DesignatorStat_AssignExpr(
+                DesignatorName1(
+                 a
+                ) [DesignatorName1]
+                AssignOp(
+                ) [AssignOp]
+                Expr(
+                  AddOpTermListRec_Firt(
+                    Term(
+                      FactorMulopListRec_First(
+                        Factor(
+                          MayMinus_Yes(
+                          ) [MayMinus_Yes]
+                          Factor_DesignatorVar(
+                            DesignatorName1(
+                             a
+                            ) [DesignatorName1]
+                          ) [Factor_DesignatorVar]
+                        ) [Factor]
+                      ) [FactorMulopListRec_First]
+                    ) [Term]
+                  ) [AddOpTermListRec_Firt]
+                ) [Expr]
+              ) [DesignatorStat_AssignExpr]
+            ) [SingleStatement_Designator]
+          ) [StatementSingle]
+        ) [StatementListRec_Yes]
+        StatementSingle(
+          SingleStatement_Print(
+            Expr(
+              AddOpTermListRec_Firt(
+                Term(
+                  FactorMulopListRec_First(
+                    Factor(
+                      MayMinus_No(
+                      ) [MayMinus_No]
+                      Factor_DesignatorVar(
+                        DesignatorName1(
+                         a
+                        ) [DesignatorName1]
+                      ) [Factor_DesignatorVar]
+                    ) [Factor]
+                  ) [FactorMulopListRec_First]
+                ) [Term]
+              ) [AddOpTermListRec_Firt]
+            ) [Expr]
+            MayNumConst_No(
+            ) [MayNumConst_No]
+          ) [SingleStatement_Print]
+        ) [StatementSingle]
+      ) [StatementListRec_Yes]
+    ) [MethodDecl]
+  ) [MethodList_Yes]
+) [Program]
+INFO  20:23:11,839 - ===================================
+INFO  20:23:11,841 - Deklarisana konstanta: pi na liniji 3
+INFO  20:23:11,841 - Deklarisana promenljiva: x na liniji 4
+INFO  20:23:11,841 - Deklarisan niz: y na liniji 4
+INFO  20:23:11,841 - Deklarisana promenljiva: flag na liniji 5
+INFO  20:23:11,841 - Deklarisana promenljiva: a na liniji 9
+INFO  20:23:11,841 - Deklarisan niz: b na liniji 9
+INFO  20:23:11,841 - Koriscenje simbola: a na liniji 15
+INFO  20:23:11,841 - Adekvatna dodela na liniji 15
+INFO  20:23:11,841 - Koriscenje simbola: a na liniji 23
+INFO  20:23:11,841 - Koriscenje simbola: a na liniji 23
+INFO  20:23:11,841 - Adekvatna dodela na liniji 23
+INFO  20:23:11,841 - Koriscenje simbola: a na liniji 24
+INFO  20:23:11,842 - ===================================
+INFO  20:23:11,844 - Parsiranje uspesno zavrseno!

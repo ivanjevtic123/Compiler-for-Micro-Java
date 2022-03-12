@@ -1,0 +1,15 @@
+INFO  14:23:14,806 - Compiling source file: C:\Users\ji180550d\Desktop\PP1\PROJECT\Labs\lab1_code\pp1domaci\workspace\MJCompiler\test\test303.mj
+INFO  14:23:14,838 - #2 program
+INFO  14:23:14,838 - #44 test_303
+INFO  14:23:14,838 - #5 const
+INFO  14:23:14,839 - #44 int
+INFO  14:23:14,839 - #44 delilac
+INFO  14:23:14,839 - #6 =
+INFO  14:23:14,840 - #45 3
+INFO  14:23:14,840 - #8 ;
+INFO  14:23:14,841 - #44 class
+INFO  14:23:14,841 - #44 Predmet
+INFO  14:23:14,841 - #3 {
+ERROR 14:23:14,841 - 
+Sintaksna greska na liniji 8
+ERROR 14:23:14,841 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 8

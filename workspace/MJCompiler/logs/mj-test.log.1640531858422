@@ -1,0 +1,1692 @@
+INFO  14:25:09,092 - Compiling source file: C:\Users\ji180550d\Desktop\PP1\PROJECT\Labs\lab1_code\pp1domaci\workspace\MJCompiler\test\test301.mj
+INFO  14:25:09,124 - #2 program
+INFO  14:25:09,124 - #44 test301
+INFO  14:25:09,124 - #5 const
+INFO  14:25:09,125 - #44 int
+INFO  14:25:09,125 - #44 nula
+INFO  14:25:09,125 - #6 =
+INFO  14:25:09,126 - #45 0
+INFO  14:25:09,126 - #8 ;
+INFO  14:25:09,126 - #5 const
+INFO  14:25:09,127 - #44 int
+INFO  14:25:09,127 - #44 jedan
+INFO  14:25:09,127 - #6 =
+INFO  14:25:09,127 - #45 1
+INFO  14:25:09,127 - #8 ;
+INFO  14:25:09,127 - #5 const
+INFO  14:25:09,127 - #44 int
+INFO  14:25:09,127 - #44 pet
+INFO  14:25:09,128 - #6 =
+INFO  14:25:09,128 - #45 5
+INFO  14:25:09,128 - #8 ;
+INFO  14:25:09,132 - #44 int
+INFO  14:25:09,132 - #44 niz
+INFO  14:25:09,133 - #9 [
+INFO  14:25:09,133 - #10 ]
+INFO  14:25:09,133 - #8 ;
+INFO  14:25:09,134 - #44 char
+INFO  14:25:09,135 - #44 nizch
+INFO  14:25:09,135 - #9 [
+INFO  14:25:09,135 - #10 ]
+INFO  14:25:09,135 - #8 ;
+INFO  14:25:09,135 - #3 {
+INFO  14:25:09,135 - #14 void
+INFO  14:25:09,136 - #44 main
+INFO  14:25:09,136 - #12 (
+INFO  14:25:09,136 - #13 )
+INFO  14:25:09,136 - #44 int
+INFO  14:25:09,137 - #44 bodovi
+INFO  14:25:09,137 - #8 ;
+INFO  14:25:09,137 - #44 bool
+INFO  14:25:09,137 - #44 bt
+INFO  14:25:09,137 - #8 ;
+INFO  14:25:09,137 - #3 {
+INFO  14:25:09,137 - #44 bodovi
+INFO  14:25:09,138 - #6 =
+INFO  14:25:09,138 - #45 0
+INFO  14:25:09,139 - #8 ;
+INFO  14:25:09,140 - #44 bodovi
+INFO  14:25:09,140 - #25 ++
+INFO  14:25:09,140 - #8 ;
+INFO  14:25:09,141 - #44 bodovi
+INFO  14:25:09,141 - #6 =
+INFO  14:25:09,141 - #44 bodovi
+INFO  14:25:09,141 - #27 +
+INFO  14:25:09,141 - #44 jedan
+INFO  14:25:09,141 - #8 ;
+INFO  14:25:09,142 - #44 bodovi
+INFO  14:25:09,142 - #6 =
+INFO  14:25:09,142 - #44 bodovi
+INFO  14:25:09,142 - #29 *
+INFO  14:25:09,142 - #44 pet
+INFO  14:25:09,142 - #8 ;
+INFO  14:25:09,143 - #44 bodovi
+INFO  14:25:09,143 - #26 --
+INFO  14:25:09,143 - #8 ;
+INFO  14:25:09,143 - #23 print
+INFO  14:25:09,143 - #12 (
+INFO  14:25:09,143 - #44 bodovi
+INFO  14:25:09,143 - #13 )
+INFO  14:25:09,143 - #8 ;
+INFO  14:25:09,143 - #44 niz
+INFO  14:25:09,143 - #6 =
+INFO  14:25:09,144 - #39 new
+INFO  14:25:09,144 - #44 int
+INFO  14:25:09,144 - #9 [
+INFO  14:25:09,144 - #45 3
+INFO  14:25:09,144 - #10 ]
+INFO  14:25:09,144 - #8 ;
+INFO  14:25:09,144 - #44 niz
+INFO  14:25:09,144 - #9 [
+INFO  14:25:09,144 - #44 nula
+INFO  14:25:09,144 - #10 ]
+INFO  14:25:09,144 - #6 =
+INFO  14:25:09,144 - #44 jedan
+INFO  14:25:09,144 - #8 ;
+INFO  14:25:09,144 - #44 niz
+INFO  14:25:09,144 - #9 [
+INFO  14:25:09,144 - #45 1
+INFO  14:25:09,144 - #10 ]
+INFO  14:25:09,144 - #6 =
+INFO  14:25:09,144 - #45 2
+INFO  14:25:09,145 - #8 ;
+INFO  14:25:09,145 - #44 niz
+INFO  14:25:09,145 - #9 [
+INFO  14:25:09,145 - #44 niz
+INFO  14:25:09,145 - #9 [
+INFO  14:25:09,145 - #44 jedan
+INFO  14:25:09,145 - #10 ]
+INFO  14:25:09,145 - #10 ]
+INFO  14:25:09,145 - #6 =
+INFO  14:25:09,145 - #44 niz
+INFO  14:25:09,145 - #9 [
+INFO  14:25:09,145 - #44 niz
+INFO  14:25:09,145 - #9 [
+INFO  14:25:09,145 - #45 0
+INFO  14:25:09,145 - #10 ]
+INFO  14:25:09,145 - #10 ]
+INFO  14:25:09,145 - #29 *
+INFO  14:25:09,145 - #45 3
+INFO  14:25:09,145 - #8 ;
+INFO  14:25:09,145 - #44 bodovi
+INFO  14:25:09,146 - #6 =
+INFO  14:25:09,146 - #44 niz
+INFO  14:25:09,146 - #9 [
+INFO  14:25:09,146 - #45 2
+INFO  14:25:09,146 - #10 ]
+INFO  14:25:09,146 - #30 /
+INFO  14:25:09,146 - #44 niz
+INFO  14:25:09,146 - #9 [
+INFO  14:25:09,147 - #45 0
+INFO  14:25:09,147 - #10 ]
+INFO  14:25:09,147 - #8 ;
+INFO  14:25:09,147 - #23 print
+INFO  14:25:09,147 - #12 (
+INFO  14:25:09,147 - #44 bodovi
+INFO  14:25:09,147 - #13 )
+INFO  14:25:09,147 - #8 ;
+INFO  14:25:09,147 - #23 print
+INFO  14:25:09,147 - #12 (
+INFO  14:25:09,147 - #44 niz
+INFO  14:25:09,147 - #9 [
+INFO  14:25:09,147 - #45 2
+INFO  14:25:09,147 - #10 ]
+INFO  14:25:09,147 - #13 )
+INFO  14:25:09,148 - #8 ;
+INFO  14:25:09,148 - #44 nizch
+INFO  14:25:09,148 - #6 =
+INFO  14:25:09,148 - #39 new
+INFO  14:25:09,148 - #44 char
+INFO  14:25:09,148 - #9 [
+INFO  14:25:09,148 - #45 3
+INFO  14:25:09,148 - #10 ]
+INFO  14:25:09,148 - #8 ;
+INFO  14:25:09,148 - #44 nizch
+INFO  14:25:09,148 - #9 [
+INFO  14:25:09,148 - #45 0
+INFO  14:25:09,148 - #10 ]
+INFO  14:25:09,148 - #6 =
+INFO  14:25:09,149 - #47 a
+INFO  14:25:09,149 - #8 ;
+INFO  14:25:09,149 - #44 nizch
+INFO  14:25:09,149 - #9 [
+INFO  14:25:09,149 - #44 jedan
+INFO  14:25:09,149 - #10 ]
+INFO  14:25:09,149 - #6 =
+INFO  14:25:09,149 - #47 b
+INFO  14:25:09,149 - #8 ;
+INFO  14:25:09,149 - #44 nizch
+INFO  14:25:09,149 - #9 [
+INFO  14:25:09,149 - #44 pet
+INFO  14:25:09,150 - #28 -
+INFO  14:25:09,150 - #45 3
+INFO  14:25:09,150 - #10 ]
+INFO  14:25:09,150 - #6 =
+INFO  14:25:09,150 - #47 c
+INFO  14:25:09,152 - #8 ;
+INFO  14:25:09,152 - #23 print
+INFO  14:25:09,152 - #12 (
+INFO  14:25:09,152 - #44 nizch
+INFO  14:25:09,152 - #9 [
+INFO  14:25:09,152 - #45 1
+INFO  14:25:09,152 - #10 ]
+INFO  14:25:09,152 - #13 )
+INFO  14:25:09,152 - #8 ;
+INFO  14:25:09,152 - #23 print
+INFO  14:25:09,152 - #12 (
+INFO  14:25:09,152 - #44 nizch
+INFO  14:25:09,152 - #9 [
+INFO  14:25:09,152 - #44 jedan
+INFO  14:25:09,152 - #29 *
+INFO  14:25:09,152 - #45 2
+INFO  14:25:09,153 - #10 ]
+INFO  14:25:09,153 - #13 )
+INFO  14:25:09,153 - #8 ;
+INFO  14:25:09,153 - #44 bodovi
+INFO  14:25:09,153 - #6 =
+INFO  14:25:09,153 - #44 bodovi
+INFO  14:25:09,153 - #27 +
+INFO  14:25:09,153 - #12 (
+INFO  14:25:09,153 - #44 pet
+INFO  14:25:09,153 - #29 *
+INFO  14:25:09,153 - #44 jedan
+INFO  14:25:09,153 - #28 -
+INFO  14:25:09,153 - #45 1
+INFO  14:25:09,153 - #13 )
+INFO  14:25:09,153 - #29 *
+INFO  14:25:09,153 - #44 bodovi
+INFO  14:25:09,153 - #28 -
+INFO  14:25:09,153 - #12 (
+INFO  14:25:09,153 - #45 3
+INFO  14:25:09,153 - #31 %
+INFO  14:25:09,153 - #45 2
+INFO  14:25:09,154 - #27 +
+INFO  14:25:09,154 - #45 3
+INFO  14:25:09,154 - #29 *
+INFO  14:25:09,154 - #45 2
+INFO  14:25:09,154 - #28 -
+INFO  14:25:09,154 - #45 3
+INFO  14:25:09,154 - #13 )
+INFO  14:25:09,154 - #8 ;
+INFO  14:25:09,154 - #23 print
+INFO  14:25:09,154 - #12 (
+INFO  14:25:09,154 - #44 bodovi
+INFO  14:25:09,154 - #13 )
+INFO  14:25:09,154 - #8 ;
+INFO  14:25:09,154 - #22 read
+INFO  14:25:09,154 - #12 (
+INFO  14:25:09,154 - #44 bodovi
+INFO  14:25:09,154 - #13 )
+INFO  14:25:09,154 - #8 ;
+INFO  14:25:09,155 - #44 bt
+INFO  14:25:09,155 - #6 =
+INFO  14:25:09,155 - #46 1
+INFO  14:25:09,155 - #8 ;
+INFO  14:25:09,155 - #15 if
+INFO  14:25:09,155 - #12 (
+INFO  14:25:09,155 - #44 bt
+INFO  14:25:09,155 - #13 )
+INFO  14:25:09,156 - #3 {
+INFO  14:25:09,156 - #23 print
+INFO  14:25:09,156 - #12 (
+INFO  14:25:09,156 - #44 bodovi
+INFO  14:25:09,156 - #13 )
+INFO  14:25:09,156 - #8 ;
+INFO  14:25:09,156 - #4 }
+INFO  14:25:09,156 - #16 else
+INFO  14:25:09,157 - #3 {
+INFO  14:25:09,157 - #23 print
+INFO  14:25:09,157 - #12 (
+INFO  14:25:09,157 - #44 bodovi
+INFO  14:25:09,157 - #27 +
+INFO  14:25:09,157 - #45 10
+INFO  14:25:09,157 - #13 )
+INFO  14:25:09,157 - #8 ;
+INFO  14:25:09,157 - #4 }
+INFO  14:25:09,157 - #15 if
+INFO  14:25:09,157 - #12 (
+INFO  14:25:09,157 - #44 bodovi
+INFO  14:25:09,157 - #34 >
+INFO  14:25:09,157 - #45 10
+INFO  14:25:09,158 - #13 )
+INFO  14:25:09,158 - #3 {
+INFO  14:25:09,158 - #23 print
+INFO  14:25:09,158 - #12 (
+INFO  14:25:09,158 - #47 +
+INFO  14:25:09,158 - #13 )
+INFO  14:25:09,158 - #8 ;
+INFO  14:25:09,158 - #4 }
+INFO  14:25:09,158 - #16 else
+INFO  14:25:09,158 - #3 {
+INFO  14:25:09,158 - #23 print
+INFO  14:25:09,158 - #12 (
+INFO  14:25:09,158 - #47 -
+INFO  14:25:09,158 - #13 )
+INFO  14:25:09,158 - #8 ;
+INFO  14:25:09,158 - #4 }
+INFO  14:25:09,159 - #4 }
+INFO  14:25:09,159 - #4 }
+INFO  14:25:09,166 - Program(
+  ProgramName(
+   test301
+  ) [ProgramName]
+  ConVarRecDeclListVar(
+    ConVarRecDeclListVar(
+      ConVarRecDeclListCon(
+        ConVarRecDeclListCon(
+          ConVarRecDeclListCon(
+            ConVarRecDeclListEpsilon(
+            ) [ConVarRecDeclListEpsilon]
+            ConstDeclList(
+              Type(
+               int
+              ) [Type]
+              ConstDec(
+               nula
+                NumConst(
+                 0
+                ) [NumConst]
+              ) [ConstDec]
+              MoreConstDeclEpsilon(
+              ) [MoreConstDeclEpsilon]
+            ) [ConstDeclList]
+          ) [ConVarRecDeclListCon]
+          ConstDeclList(
+            Type(
+             int
+            ) [Type]
+            ConstDec(
+             jedan
+              NumConst(
+               1
+              ) [NumConst]
+            ) [ConstDec]
+            MoreConstDeclEpsilon(
+            ) [MoreConstDeclEpsilon]
+          ) [ConstDeclList]
+        ) [ConVarRecDeclListCon]
+        ConstDeclList(
+          Type(
+           int
+          ) [Type]
+          ConstDec(
+           pet
+            NumConst(
+             5
+            ) [NumConst]
+          ) [ConstDec]
+          MoreConstDeclEpsilon(
+          ) [MoreConstDeclEpsilon]
+        ) [ConstDeclList]
+      ) [ConVarRecDeclListCon]
+      VarDeclList(
+        Type(
+         int
+        ) [Type]
+        VarDec(
+         niz
+          Array_Yes(
+          ) [Array_Yes]
+        ) [VarDec]
+        MoreVarDec_Epsilon(
+        ) [MoreVarDec_Epsilon]
+      ) [VarDeclList]
+    ) [ConVarRecDeclListVar]
+    VarDeclList(
+      Type(
+       char
+      ) [Type]
+      VarDec(
+       nizch
+        Array_Yes(
+        ) [Array_Yes]
+      ) [VarDec]
+      MoreVarDec_Epsilon(
+      ) [MoreVarDec_Epsilon]
+    ) [VarDeclList]
+  ) [ConVarRecDeclListVar]
+  MethodList_Yes(
+    MethodList_Epsilon(
+    ) [MethodList_Epsilon]
+    MethodDecl(
+      TypeOrVoidName_Void(
+       main
+      ) [TypeOrVoidName_Void]
+      FormPars_No(
+      ) [FormPars_No]
+      VarDeclListRec_Yes(
+        VarDeclListRec_Yes(
+          VarDeclListRec_Epsilon(
+          ) [VarDeclListRec_Epsilon]
+          VarDeclList(
+            Type(
+             int
+            ) [Type]
+            VarDec(
+             bodovi
+              Array_No(
+              ) [Array_No]
+            ) [VarDec]
+            MoreVarDec_Epsilon(
+            ) [MoreVarDec_Epsilon]
+          ) [VarDeclList]
+        ) [VarDeclListRec_Yes]
+        VarDeclList(
+          Type(
+           bool
+          ) [Type]
+          VarDec(
+           bt
+            Array_No(
+            ) [Array_No]
+          ) [VarDec]
+          MoreVarDec_Epsilon(
+          ) [MoreVarDec_Epsilon]
+        ) [VarDeclList]
+      ) [VarDeclListRec_Yes]
+      StatementListRec_Yes(
+        StatementListRec_Yes(
+          StatementListRec_Yes(
+            StatementListRec_Yes(
+              StatementListRec_Yes(
+                StatementListRec_Yes(
+                  StatementListRec_Yes(
+                    StatementListRec_Yes(
+                      StatementListRec_Yes(
+                        StatementListRec_Yes(
+                          StatementListRec_Yes(
+                            StatementListRec_Yes(
+                              StatementListRec_Yes(
+                                StatementListRec_Yes(
+                                  StatementListRec_Yes(
+                                    StatementListRec_Yes(
+                                      StatementListRec_Yes(
+                                        StatementListRec_Yes(
+                                          StatementListRec_Yes(
+                                            StatementListRec_Yes(
+                                              StatementListRec_Yes(
+                                                StatementListRec_Yes(
+                                                  StatementListRec_Yes(
+                                                    StatementListRec_Yes(
+                                                      StatementListRec_Yes(
+                                                        StatementListRec_Epsilon(
+                                                        ) [StatementListRec_Epsilon]
+                                                        StatementSingle(
+                                                          SingleStatement_Designator(
+                                                            DesignatorStat_AssignExpr(
+                                                              Designator_Var(
+                                                               bodovi
+                                                              ) [Designator_Var]
+                                                              AssignOp(
+                                                              ) [AssignOp]
+                                                              Expr(
+                                                                AddOpTermListRec_Firt(
+                                                                  Term(
+                                                                    FactorMulopListRec_First(
+                                                                      Factor(
+                                                                        MayMinus_No(
+                                                                        ) [MayMinus_No]
+                                                                        Factor_Num(
+                                                                         0
+                                                                        ) [Factor_Num]
+                                                                      ) [Factor]
+                                                                    ) [FactorMulopListRec_First]
+                                                                  ) [Term]
+                                                                ) [AddOpTermListRec_Firt]
+                                                              ) [Expr]
+                                                            ) [DesignatorStat_AssignExpr]
+                                                          ) [SingleStatement_Designator]
+                                                        ) [StatementSingle]
+                                                      ) [StatementListRec_Yes]
+                                                      StatementSingle(
+                                                        SingleStatement_Designator(
+                                                          DesignatorStat_Inc(
+                                                            Designator_Var(
+                                                             bodovi
+                                                            ) [Designator_Var]
+                                                          ) [DesignatorStat_Inc]
+                                                        ) [SingleStatement_Designator]
+                                                      ) [StatementSingle]
+                                                    ) [StatementListRec_Yes]
+                                                    StatementSingle(
+                                                      SingleStatement_Designator(
+                                                        DesignatorStat_AssignExpr(
+                                                          Designator_Var(
+                                                           bodovi
+                                                          ) [Designator_Var]
+                                                          AssignOp(
+                                                          ) [AssignOp]
+                                                          Expr(
+                                                            AddOpTermListRec_Yes(
+                                                              AddOpTermListRec_Firt(
+                                                                Term(
+                                                                  FactorMulopListRec_First(
+                                                                    Factor(
+                                                                      MayMinus_No(
+                                                                      ) [MayMinus_No]
+                                                                      Factor_DesignatorVar(
+                                                                        Designator_Var(
+                                                                         bodovi
+                                                                        ) [Designator_Var]
+                                                                      ) [Factor_DesignatorVar]
+                                                                    ) [Factor]
+                                                                  ) [FactorMulopListRec_First]
+                                                                ) [Term]
+                                                              ) [AddOpTermListRec_Firt]
+                                                              AddOp_Plus(
+                                                              ) [AddOp_Plus]
+                                                              Term(
+                                                                FactorMulopListRec_First(
+                                                                  Factor(
+                                                                    MayMinus_No(
+                                                                    ) [MayMinus_No]
+                                                                    Factor_DesignatorVar(
+                                                                      Designator_Var(
+                                                                       jedan
+                                                                      ) [Designator_Var]
+                                                                    ) [Factor_DesignatorVar]
+                                                                  ) [Factor]
+                                                                ) [FactorMulopListRec_First]
+                                                              ) [Term]
+                                                            ) [AddOpTermListRec_Yes]
+                                                          ) [Expr]
+                                                        ) [DesignatorStat_AssignExpr]
+                                                      ) [SingleStatement_Designator]
+                                                    ) [StatementSingle]
+                                                  ) [StatementListRec_Yes]
+                                                  StatementSingle(
+                                                    SingleStatement_Designator(
+                                                      DesignatorStat_AssignExpr(
+                                                        Designator_Var(
+                                                         bodovi
+                                                        ) [Designator_Var]
+                                                        AssignOp(
+                                                        ) [AssignOp]
+                                                        Expr(
+                                                          AddOpTermListRec_Firt(
+                                                            Term(
+                                                              FactorMulopListRec_Yes(
+                                                                FactorMulopListRec_First(
+                                                                  Factor(
+                                                                    MayMinus_No(
+                                                                    ) [MayMinus_No]
+                                                                    Factor_DesignatorVar(
+                                                                      Designator_Var(
+                                                                       bodovi
+                                                                      ) [Designator_Var]
+                                                                    ) [Factor_DesignatorVar]
+                                                                  ) [Factor]
+                                                                ) [FactorMulopListRec_First]
+                                                                MullOp_Times(
+                                                                ) [MullOp_Times]
+                                                                Factor(
+                                                                  MayMinus_No(
+                                                                  ) [MayMinus_No]
+                                                                  Factor_DesignatorVar(
+                                                                    Designator_Var(
+                                                                     pet
+                                                                    ) [Designator_Var]
+                                                                  ) [Factor_DesignatorVar]
+                                                                ) [Factor]
+                                                              ) [FactorMulopListRec_Yes]
+                                                            ) [Term]
+                                                          ) [AddOpTermListRec_Firt]
+                                                        ) [Expr]
+                                                      ) [DesignatorStat_AssignExpr]
+                                                    ) [SingleStatement_Designator]
+                                                  ) [StatementSingle]
+                                                ) [StatementListRec_Yes]
+                                                StatementSingle(
+                                                  SingleStatement_Designator(
+                                                    DesignatorStat_Dec(
+                                                      Designator_Var(
+                                                       bodovi
+                                                      ) [Designator_Var]
+                                                    ) [DesignatorStat_Dec]
+                                                  ) [SingleStatement_Designator]
+                                                ) [StatementSingle]
+                                              ) [StatementListRec_Yes]
+                                              StatementSingle(
+                                                SingleStatement_Print(
+                                                  Expr(
+                                                    AddOpTermListRec_Firt(
+                                                      Term(
+                                                        FactorMulopListRec_First(
+                                                          Factor(
+                                                            MayMinus_No(
+                                                            ) [MayMinus_No]
+                                                            Factor_DesignatorVar(
+                                                              Designator_Var(
+                                                               bodovi
+                                                              ) [Designator_Var]
+                                                            ) [Factor_DesignatorVar]
+                                                          ) [Factor]
+                                                        ) [FactorMulopListRec_First]
+                                                      ) [Term]
+                                                    ) [AddOpTermListRec_Firt]
+                                                  ) [Expr]
+                                                  MayNumConst_No(
+                                                  ) [MayNumConst_No]
+                                                ) [SingleStatement_Print]
+                                              ) [StatementSingle]
+                                            ) [StatementListRec_Yes]
+                                            StatementSingle(
+                                              SingleStatement_Designator(
+                                                DesignatorStat_AssignExpr(
+                                                  Designator_Var(
+                                                   niz
+                                                  ) [Designator_Var]
+                                                  AssignOp(
+                                                  ) [AssignOp]
+                                                  Expr(
+                                                    AddOpTermListRec_Firt(
+                                                      Term(
+                                                        FactorMulopListRec_First(
+                                                          Factor(
+                                                            MayMinus_No(
+                                                            ) [MayMinus_No]
+                                                            Factor_NewArray(
+                                                              Type(
+                                                               int
+                                                              ) [Type]
+                                                              Expr(
+                                                                AddOpTermListRec_Firt(
+                                                                  Term(
+                                                                    FactorMulopListRec_First(
+                                                                      Factor(
+                                                                        MayMinus_No(
+                                                                        ) [MayMinus_No]
+                                                                        Factor_Num(
+                                                                         3
+                                                                        ) [Factor_Num]
+                                                                      ) [Factor]
+                                                                    ) [FactorMulopListRec_First]
+                                                                  ) [Term]
+                                                                ) [AddOpTermListRec_Firt]
+                                                              ) [Expr]
+                                                            ) [Factor_NewArray]
+                                                          ) [Factor]
+                                                        ) [FactorMulopListRec_First]
+                                                      ) [Term]
+                                                    ) [AddOpTermListRec_Firt]
+                                                  ) [Expr]
+                                                ) [DesignatorStat_AssignExpr]
+                                              ) [SingleStatement_Designator]
+                                            ) [StatementSingle]
+                                          ) [StatementListRec_Yes]
+                                          StatementSingle(
+                                            SingleStatement_Designator(
+                                              DesignatorStat_AssignExpr(
+                                                Designator_Elem(
+                                                 niz
+                                                  Expr(
+                                                    AddOpTermListRec_Firt(
+                                                      Term(
+                                                        FactorMulopListRec_First(
+                                                          Factor(
+                                                            MayMinus_No(
+                                                            ) [MayMinus_No]
+                                                            Factor_DesignatorVar(
+                                                              Designator_Var(
+                                                               nula
+                                                              ) [Designator_Var]
+                                                            ) [Factor_DesignatorVar]
+                                                          ) [Factor]
+                                                        ) [FactorMulopListRec_First]
+                                                      ) [Term]
+                                                    ) [AddOpTermListRec_Firt]
+                                                  ) [Expr]
+                                                ) [Designator_Elem]
+                                                AssignOp(
+                                                ) [AssignOp]
+                                                Expr(
+                                                  AddOpTermListRec_Firt(
+                                                    Term(
+                                                      FactorMulopListRec_First(
+                                                        Factor(
+                                                          MayMinus_No(
+                                                          ) [MayMinus_No]
+                                                          Factor_DesignatorVar(
+                                                            Designator_Var(
+                                                             jedan
+                                                            ) [Designator_Var]
+                                                          ) [Factor_DesignatorVar]
+                                                        ) [Factor]
+                                                      ) [FactorMulopListRec_First]
+                                                    ) [Term]
+                                                  ) [AddOpTermListRec_Firt]
+                                                ) [Expr]
+                                              ) [DesignatorStat_AssignExpr]
+                                            ) [SingleStatement_Designator]
+                                          ) [StatementSingle]
+                                        ) [StatementListRec_Yes]
+                                        StatementSingle(
+                                          SingleStatement_Designator(
+                                            DesignatorStat_AssignExpr(
+                                              Designator_Elem(
+                                               niz
+                                                Expr(
+                                                  AddOpTermListRec_Firt(
+                                                    Term(
+                                                      FactorMulopListRec_First(
+                                                        Factor(
+                                                          MayMinus_No(
+                                                          ) [MayMinus_No]
+                                                          Factor_Num(
+                                                           1
+                                                          ) [Factor_Num]
+                                                        ) [Factor]
+                                                      ) [FactorMulopListRec_First]
+                                                    ) [Term]
+                                                  ) [AddOpTermListRec_Firt]
+                                                ) [Expr]
+                                              ) [Designator_Elem]
+                                              AssignOp(
+                                              ) [AssignOp]
+                                              Expr(
+                                                AddOpTermListRec_Firt(
+                                                  Term(
+                                                    FactorMulopListRec_First(
+                                                      Factor(
+                                                        MayMinus_No(
+                                                        ) [MayMinus_No]
+                                                        Factor_Num(
+                                                         2
+                                                        ) [Factor_Num]
+                                                      ) [Factor]
+                                                    ) [FactorMulopListRec_First]
+                                                  ) [Term]
+                                                ) [AddOpTermListRec_Firt]
+                                              ) [Expr]
+                                            ) [DesignatorStat_AssignExpr]
+                                          ) [SingleStatement_Designator]
+                                        ) [StatementSingle]
+                                      ) [StatementListRec_Yes]
+                                      StatementSingle(
+                                        SingleStatement_Designator(
+                                          DesignatorStat_AssignExpr(
+                                            Designator_Elem(
+                                             niz
+                                              Expr(
+                                                AddOpTermListRec_Firt(
+                                                  Term(
+                                                    FactorMulopListRec_First(
+                                                      Factor(
+                                                        MayMinus_No(
+                                                        ) [MayMinus_No]
+                                                        Factor_DesignatorVar(
+                                                          Designator_Elem(
+                                                           niz
+                                                            Expr(
+                                                              AddOpTermListRec_Firt(
+                                                                Term(
+                                                                  FactorMulopListRec_First(
+                                                                    Factor(
+                                                                      MayMinus_No(
+                                                                      ) [MayMinus_No]
+                                                                      Factor_DesignatorVar(
+                                                                        Designator_Var(
+                                                                         jedan
+                                                                        ) [Designator_Var]
+                                                                      ) [Factor_DesignatorVar]
+                                                                    ) [Factor]
+                                                                  ) [FactorMulopListRec_First]
+                                                                ) [Term]
+                                                              ) [AddOpTermListRec_Firt]
+                                                            ) [Expr]
+                                                          ) [Designator_Elem]
+                                                        ) [Factor_DesignatorVar]
+                                                      ) [Factor]
+                                                    ) [FactorMulopListRec_First]
+                                                  ) [Term]
+                                                ) [AddOpTermListRec_Firt]
+                                              ) [Expr]
+                                            ) [Designator_Elem]
+                                            AssignOp(
+                                            ) [AssignOp]
+                                            Expr(
+                                              AddOpTermListRec_Firt(
+                                                Term(
+                                                  FactorMulopListRec_Yes(
+                                                    FactorMulopListRec_First(
+                                                      Factor(
+                                                        MayMinus_No(
+                                                        ) [MayMinus_No]
+                                                        Factor_DesignatorVar(
+                                                          Designator_Elem(
+                                                           niz
+                                                            Expr(
+                                                              AddOpTermListRec_Firt(
+                                                                Term(
+                                                                  FactorMulopListRec_First(
+                                                                    Factor(
+                                                                      MayMinus_No(
+                                                                      ) [MayMinus_No]
+                                                                      Factor_DesignatorVar(
+                                                                        Designator_Elem(
+                                                                         niz
+                                                                          Expr(
+                                                                            AddOpTermListRec_Firt(
+                                                                              Term(
+                                                                                FactorMulopListRec_First(
+                                                                                  Factor(
+                                                                                    MayMinus_No(
+                                                                                    ) [MayMinus_No]
+                                                                                    Factor_Num(
+                                                                                     0
+                                                                                    ) [Factor_Num]
+                                                                                  ) [Factor]
+                                                                                ) [FactorMulopListRec_First]
+                                                                              ) [Term]
+                                                                            ) [AddOpTermListRec_Firt]
+                                                                          ) [Expr]
+                                                                        ) [Designator_Elem]
+                                                                      ) [Factor_DesignatorVar]
+                                                                    ) [Factor]
+                                                                  ) [FactorMulopListRec_First]
+                                                                ) [Term]
+                                                              ) [AddOpTermListRec_Firt]
+                                                            ) [Expr]
+                                                          ) [Designator_Elem]
+                                                        ) [Factor_DesignatorVar]
+                                                      ) [Factor]
+                                                    ) [FactorMulopListRec_First]
+                                                    MullOp_Times(
+                                                    ) [MullOp_Times]
+                                                    Factor(
+                                                      MayMinus_No(
+                                                      ) [MayMinus_No]
+                                                      Factor_Num(
+                                                       3
+                                                      ) [Factor_Num]
+                                                    ) [Factor]
+                                                  ) [FactorMulopListRec_Yes]
+                                                ) [Term]
+                                              ) [AddOpTermListRec_Firt]
+                                            ) [Expr]
+                                          ) [DesignatorStat_AssignExpr]
+                                        ) [SingleStatement_Designator]
+                                      ) [StatementSingle]
+                                    ) [StatementListRec_Yes]
+                                    StatementSingle(
+                                      SingleStatement_Designator(
+                                        DesignatorStat_AssignExpr(
+                                          Designator_Var(
+                                           bodovi
+                                          ) [Designator_Var]
+                                          AssignOp(
+                                          ) [AssignOp]
+                                          Expr(
+                                            AddOpTermListRec_Firt(
+                                              Term(
+                                                FactorMulopListRec_Yes(
+                                                  FactorMulopListRec_First(
+                                                    Factor(
+                                                      MayMinus_No(
+                                                      ) [MayMinus_No]
+                                                      Factor_DesignatorVar(
+                                                        Designator_Elem(
+                                                         niz
+                                                          Expr(
+                                                            AddOpTermListRec_Firt(
+                                                              Term(
+                                                                FactorMulopListRec_First(
+                                                                  Factor(
+                                                                    MayMinus_No(
+                                                                    ) [MayMinus_No]
+                                                                    Factor_Num(
+                                                                     2
+                                                                    ) [Factor_Num]
+                                                                  ) [Factor]
+                                                                ) [FactorMulopListRec_First]
+                                                              ) [Term]
+                                                            ) [AddOpTermListRec_Firt]
+                                                          ) [Expr]
+                                                        ) [Designator_Elem]
+                                                      ) [Factor_DesignatorVar]
+                                                    ) [Factor]
+                                                  ) [FactorMulopListRec_First]
+                                                  MullOp_Divide(
+                                                  ) [MullOp_Divide]
+                                                  Factor(
+                                                    MayMinus_No(
+                                                    ) [MayMinus_No]
+                                                    Factor_DesignatorVar(
+                                                      Designator_Elem(
+                                                       niz
+                                                        Expr(
+                                                          AddOpTermListRec_Firt(
+                                                            Term(
+                                                              FactorMulopListRec_First(
+                                                                Factor(
+                                                                  MayMinus_No(
+                                                                  ) [MayMinus_No]
+                                                                  Factor_Num(
+                                                                   0
+                                                                  ) [Factor_Num]
+                                                                ) [Factor]
+                                                              ) [FactorMulopListRec_First]
+                                                            ) [Term]
+                                                          ) [AddOpTermListRec_Firt]
+                                                        ) [Expr]
+                                                      ) [Designator_Elem]
+                                                    ) [Factor_DesignatorVar]
+                                                  ) [Factor]
+                                                ) [FactorMulopListRec_Yes]
+                                              ) [Term]
+                                            ) [AddOpTermListRec_Firt]
+                                          ) [Expr]
+                                        ) [DesignatorStat_AssignExpr]
+                                      ) [SingleStatement_Designator]
+                                    ) [StatementSingle]
+                                  ) [StatementListRec_Yes]
+                                  StatementSingle(
+                                    SingleStatement_Print(
+                                      Expr(
+                                        AddOpTermListRec_Firt(
+                                          Term(
+                                            FactorMulopListRec_First(
+                                              Factor(
+                                                MayMinus_No(
+                                                ) [MayMinus_No]
+                                                Factor_DesignatorVar(
+                                                  Designator_Var(
+                                                   bodovi
+                                                  ) [Designator_Var]
+                                                ) [Factor_DesignatorVar]
+                                              ) [Factor]
+                                            ) [FactorMulopListRec_First]
+                                          ) [Term]
+                                        ) [AddOpTermListRec_Firt]
+                                      ) [Expr]
+                                      MayNumConst_No(
+                                      ) [MayNumConst_No]
+                                    ) [SingleStatement_Print]
+                                  ) [StatementSingle]
+                                ) [StatementListRec_Yes]
+                                StatementSingle(
+                                  SingleStatement_Print(
+                                    Expr(
+                                      AddOpTermListRec_Firt(
+                                        Term(
+                                          FactorMulopListRec_First(
+                                            Factor(
+                                              MayMinus_No(
+                                              ) [MayMinus_No]
+                                              Factor_DesignatorVar(
+                                                Designator_Elem(
+                                                 niz
+                                                  Expr(
+                                                    AddOpTermListRec_Firt(
+                                                      Term(
+                                                        FactorMulopListRec_First(
+                                                          Factor(
+                                                            MayMinus_No(
+                                                            ) [MayMinus_No]
+                                                            Factor_Num(
+                                                             2
+                                                            ) [Factor_Num]
+                                                          ) [Factor]
+                                                        ) [FactorMulopListRec_First]
+                                                      ) [Term]
+                                                    ) [AddOpTermListRec_Firt]
+                                                  ) [Expr]
+                                                ) [Designator_Elem]
+                                              ) [Factor_DesignatorVar]
+                                            ) [Factor]
+                                          ) [FactorMulopListRec_First]
+                                        ) [Term]
+                                      ) [AddOpTermListRec_Firt]
+                                    ) [Expr]
+                                    MayNumConst_No(
+                                    ) [MayNumConst_No]
+                                  ) [SingleStatement_Print]
+                                ) [StatementSingle]
+                              ) [StatementListRec_Yes]
+                              StatementSingle(
+                                SingleStatement_Designator(
+                                  DesignatorStat_AssignExpr(
+                                    Designator_Var(
+                                     nizch
+                                    ) [Designator_Var]
+                                    AssignOp(
+                                    ) [AssignOp]
+                                    Expr(
+                                      AddOpTermListRec_Firt(
+                                        Term(
+                                          FactorMulopListRec_First(
+                                            Factor(
+                                              MayMinus_No(
+                                              ) [MayMinus_No]
+                                              Factor_NewArray(
+                                                Type(
+                                                 char
+                                                ) [Type]
+                                                Expr(
+                                                  AddOpTermListRec_Firt(
+                                                    Term(
+                                                      FactorMulopListRec_First(
+                                                        Factor(
+                                                          MayMinus_No(
+                                                          ) [MayMinus_No]
+                                                          Factor_Num(
+                                                           3
+                                                          ) [Factor_Num]
+                                                        ) [Factor]
+                                                      ) [FactorMulopListRec_First]
+                                                    ) [Term]
+                                                  ) [AddOpTermListRec_Firt]
+                                                ) [Expr]
+                                              ) [Factor_NewArray]
+                                            ) [Factor]
+                                          ) [FactorMulopListRec_First]
+                                        ) [Term]
+                                      ) [AddOpTermListRec_Firt]
+                                    ) [Expr]
+                                  ) [DesignatorStat_AssignExpr]
+                                ) [SingleStatement_Designator]
+                              ) [StatementSingle]
+                            ) [StatementListRec_Yes]
+                            StatementSingle(
+                              SingleStatement_Designator(
+                                DesignatorStat_AssignExpr(
+                                  Designator_Elem(
+                                   nizch
+                                    Expr(
+                                      AddOpTermListRec_Firt(
+                                        Term(
+                                          FactorMulopListRec_First(
+                                            Factor(
+                                              MayMinus_No(
+                                              ) [MayMinus_No]
+                                              Factor_Num(
+                                               0
+                                              ) [Factor_Num]
+                                            ) [Factor]
+                                          ) [FactorMulopListRec_First]
+                                        ) [Term]
+                                      ) [AddOpTermListRec_Firt]
+                                    ) [Expr]
+                                  ) [Designator_Elem]
+                                  AssignOp(
+                                  ) [AssignOp]
+                                  Expr(
+                                    AddOpTermListRec_Firt(
+                                      Term(
+                                        FactorMulopListRec_First(
+                                          Factor(
+                                            MayMinus_No(
+                                            ) [MayMinus_No]
+                                            Factor_Char(
+                                             a
+                                            ) [Factor_Char]
+                                          ) [Factor]
+                                        ) [FactorMulopListRec_First]
+                                      ) [Term]
+                                    ) [AddOpTermListRec_Firt]
+                                  ) [Expr]
+                                ) [DesignatorStat_AssignExpr]
+                              ) [SingleStatement_Designator]
+                            ) [StatementSingle]
+                          ) [StatementListRec_Yes]
+                          StatementSingle(
+                            SingleStatement_Designator(
+                              DesignatorStat_AssignExpr(
+                                Designator_Elem(
+                                 nizch
+                                  Expr(
+                                    AddOpTermListRec_Firt(
+                                      Term(
+                                        FactorMulopListRec_First(
+                                          Factor(
+                                            MayMinus_No(
+                                            ) [MayMinus_No]
+                                            Factor_DesignatorVar(
+                                              Designator_Var(
+                                               jedan
+                                              ) [Designator_Var]
+                                            ) [Factor_DesignatorVar]
+                                          ) [Factor]
+                                        ) [FactorMulopListRec_First]
+                                      ) [Term]
+                                    ) [AddOpTermListRec_Firt]
+                                  ) [Expr]
+                                ) [Designator_Elem]
+                                AssignOp(
+                                ) [AssignOp]
+                                Expr(
+                                  AddOpTermListRec_Firt(
+                                    Term(
+                                      FactorMulopListRec_First(
+                                        Factor(
+                                          MayMinus_No(
+                                          ) [MayMinus_No]
+                                          Factor_Char(
+                                           b
+                                          ) [Factor_Char]
+                                        ) [Factor]
+                                      ) [FactorMulopListRec_First]
+                                    ) [Term]
+                                  ) [AddOpTermListRec_Firt]
+                                ) [Expr]
+                              ) [DesignatorStat_AssignExpr]
+                            ) [SingleStatement_Designator]
+                          ) [StatementSingle]
+                        ) [StatementListRec_Yes]
+                        StatementSingle(
+                          SingleStatement_Designator(
+                            DesignatorStat_AssignExpr(
+                              Designator_Elem(
+                               nizch
+                                Expr(
+                                  AddOpTermListRec_Yes(
+                                    AddOpTermListRec_Firt(
+                                      Term(
+                                        FactorMulopListRec_First(
+                                          Factor(
+                                            MayMinus_No(
+                                            ) [MayMinus_No]
+                                            Factor_DesignatorVar(
+                                              Designator_Var(
+                                               pet
+                                              ) [Designator_Var]
+                                            ) [Factor_DesignatorVar]
+                                          ) [Factor]
+                                        ) [FactorMulopListRec_First]
+                                      ) [Term]
+                                    ) [AddOpTermListRec_Firt]
+                                    AddOp_Minus(
+                                    ) [AddOp_Minus]
+                                    Term(
+                                      FactorMulopListRec_First(
+                                        Factor(
+                                          MayMinus_No(
+                                          ) [MayMinus_No]
+                                          Factor_Num(
+                                           3
+                                          ) [Factor_Num]
+                                        ) [Factor]
+                                      ) [FactorMulopListRec_First]
+                                    ) [Term]
+                                  ) [AddOpTermListRec_Yes]
+                                ) [Expr]
+                              ) [Designator_Elem]
+                              AssignOp(
+                              ) [AssignOp]
+                              Expr(
+                                AddOpTermListRec_Firt(
+                                  Term(
+                                    FactorMulopListRec_First(
+                                      Factor(
+                                        MayMinus_No(
+                                        ) [MayMinus_No]
+                                        Factor_Char(
+                                         c
+                                        ) [Factor_Char]
+                                      ) [Factor]
+                                    ) [FactorMulopListRec_First]
+                                  ) [Term]
+                                ) [AddOpTermListRec_Firt]
+                              ) [Expr]
+                            ) [DesignatorStat_AssignExpr]
+                          ) [SingleStatement_Designator]
+                        ) [StatementSingle]
+                      ) [StatementListRec_Yes]
+                      StatementSingle(
+                        SingleStatement_Print(
+                          Expr(
+                            AddOpTermListRec_Firt(
+                              Term(
+                                FactorMulopListRec_First(
+                                  Factor(
+                                    MayMinus_No(
+                                    ) [MayMinus_No]
+                                    Factor_DesignatorVar(
+                                      Designator_Elem(
+                                       nizch
+                                        Expr(
+                                          AddOpTermListRec_Firt(
+                                            Term(
+                                              FactorMulopListRec_First(
+                                                Factor(
+                                                  MayMinus_No(
+                                                  ) [MayMinus_No]
+                                                  Factor_Num(
+                                                   1
+                                                  ) [Factor_Num]
+                                                ) [Factor]
+                                              ) [FactorMulopListRec_First]
+                                            ) [Term]
+                                          ) [AddOpTermListRec_Firt]
+                                        ) [Expr]
+                                      ) [Designator_Elem]
+                                    ) [Factor_DesignatorVar]
+                                  ) [Factor]
+                                ) [FactorMulopListRec_First]
+                              ) [Term]
+                            ) [AddOpTermListRec_Firt]
+                          ) [Expr]
+                          MayNumConst_No(
+                          ) [MayNumConst_No]
+                        ) [SingleStatement_Print]
+                      ) [StatementSingle]
+                    ) [StatementListRec_Yes]
+                    StatementSingle(
+                      SingleStatement_Print(
+                        Expr(
+                          AddOpTermListRec_Firt(
+                            Term(
+                              FactorMulopListRec_First(
+                                Factor(
+                                  MayMinus_No(
+                                  ) [MayMinus_No]
+                                  Factor_DesignatorVar(
+                                    Designator_Elem(
+                                     nizch
+                                      Expr(
+                                        AddOpTermListRec_Firt(
+                                          Term(
+                                            FactorMulopListRec_Yes(
+                                              FactorMulopListRec_First(
+                                                Factor(
+                                                  MayMinus_No(
+                                                  ) [MayMinus_No]
+                                                  Factor_DesignatorVar(
+                                                    Designator_Var(
+                                                     jedan
+                                                    ) [Designator_Var]
+                                                  ) [Factor_DesignatorVar]
+                                                ) [Factor]
+                                              ) [FactorMulopListRec_First]
+                                              MullOp_Times(
+                                              ) [MullOp_Times]
+                                              Factor(
+                                                MayMinus_No(
+                                                ) [MayMinus_No]
+                                                Factor_Num(
+                                                 2
+                                                ) [Factor_Num]
+                                              ) [Factor]
+                                            ) [FactorMulopListRec_Yes]
+                                          ) [Term]
+                                        ) [AddOpTermListRec_Firt]
+                                      ) [Expr]
+                                    ) [Designator_Elem]
+                                  ) [Factor_DesignatorVar]
+                                ) [Factor]
+                              ) [FactorMulopListRec_First]
+                            ) [Term]
+                          ) [AddOpTermListRec_Firt]
+                        ) [Expr]
+                        MayNumConst_No(
+                        ) [MayNumConst_No]
+                      ) [SingleStatement_Print]
+                    ) [StatementSingle]
+                  ) [StatementListRec_Yes]
+                  StatementSingle(
+                    SingleStatement_Designator(
+                      DesignatorStat_AssignExpr(
+                        Designator_Var(
+                         bodovi
+                        ) [Designator_Var]
+                        AssignOp(
+                        ) [AssignOp]
+                        Expr(
+                          AddOpTermListRec_Yes(
+                            AddOpTermListRec_Yes(
+                              AddOpTermListRec_Firt(
+                                Term(
+                                  FactorMulopListRec_First(
+                                    Factor(
+                                      MayMinus_No(
+                                      ) [MayMinus_No]
+                                      Factor_DesignatorVar(
+                                        Designator_Var(
+                                         bodovi
+                                        ) [Designator_Var]
+                                      ) [Factor_DesignatorVar]
+                                    ) [Factor]
+                                  ) [FactorMulopListRec_First]
+                                ) [Term]
+                              ) [AddOpTermListRec_Firt]
+                              AddOp_Plus(
+                              ) [AddOp_Plus]
+                              Term(
+                                FactorMulopListRec_Yes(
+                                  FactorMulopListRec_First(
+                                    Factor(
+                                      MayMinus_No(
+                                      ) [MayMinus_No]
+                                      Factor_Expr(
+                                        Expr(
+                                          AddOpTermListRec_Yes(
+                                            AddOpTermListRec_Firt(
+                                              Term(
+                                                FactorMulopListRec_Yes(
+                                                  FactorMulopListRec_First(
+                                                    Factor(
+                                                      MayMinus_No(
+                                                      ) [MayMinus_No]
+                                                      Factor_DesignatorVar(
+                                                        Designator_Var(
+                                                         pet
+                                                        ) [Designator_Var]
+                                                      ) [Factor_DesignatorVar]
+                                                    ) [Factor]
+                                                  ) [FactorMulopListRec_First]
+                                                  MullOp_Times(
+                                                  ) [MullOp_Times]
+                                                  Factor(
+                                                    MayMinus_No(
+                                                    ) [MayMinus_No]
+                                                    Factor_DesignatorVar(
+                                                      Designator_Var(
+                                                       jedan
+                                                      ) [Designator_Var]
+                                                    ) [Factor_DesignatorVar]
+                                                  ) [Factor]
+                                                ) [FactorMulopListRec_Yes]
+                                              ) [Term]
+                                            ) [AddOpTermListRec_Firt]
+                                            AddOp_Minus(
+                                            ) [AddOp_Minus]
+                                            Term(
+                                              FactorMulopListRec_First(
+                                                Factor(
+                                                  MayMinus_No(
+                                                  ) [MayMinus_No]
+                                                  Factor_Num(
+                                                   1
+                                                  ) [Factor_Num]
+                                                ) [Factor]
+                                              ) [FactorMulopListRec_First]
+                                            ) [Term]
+                                          ) [AddOpTermListRec_Yes]
+                                        ) [Expr]
+                                      ) [Factor_Expr]
+                                    ) [Factor]
+                                  ) [FactorMulopListRec_First]
+                                  MullOp_Times(
+                                  ) [MullOp_Times]
+                                  Factor(
+                                    MayMinus_No(
+                                    ) [MayMinus_No]
+                                    Factor_DesignatorVar(
+                                      Designator_Var(
+                                       bodovi
+                                      ) [Designator_Var]
+                                    ) [Factor_DesignatorVar]
+                                  ) [Factor]
+                                ) [FactorMulopListRec_Yes]
+                              ) [Term]
+                            ) [AddOpTermListRec_Yes]
+                            AddOp_Minus(
+                            ) [AddOp_Minus]
+                            Term(
+                              FactorMulopListRec_First(
+                                Factor(
+                                  MayMinus_No(
+                                  ) [MayMinus_No]
+                                  Factor_Expr(
+                                    Expr(
+                                      AddOpTermListRec_Yes(
+                                        AddOpTermListRec_Yes(
+                                          AddOpTermListRec_Firt(
+                                            Term(
+                                              FactorMulopListRec_Yes(
+                                                FactorMulopListRec_First(
+                                                  Factor(
+                                                    MayMinus_No(
+                                                    ) [MayMinus_No]
+                                                    Factor_Num(
+                                                     3
+                                                    ) [Factor_Num]
+                                                  ) [Factor]
+                                                ) [FactorMulopListRec_First]
+                                                MullOp_Percent(
+                                                ) [MullOp_Percent]
+                                                Factor(
+                                                  MayMinus_No(
+                                                  ) [MayMinus_No]
+                                                  Factor_Num(
+                                                   2
+                                                  ) [Factor_Num]
+                                                ) [Factor]
+                                              ) [FactorMulopListRec_Yes]
+                                            ) [Term]
+                                          ) [AddOpTermListRec_Firt]
+                                          AddOp_Plus(
+                                          ) [AddOp_Plus]
+                                          Term(
+                                            FactorMulopListRec_Yes(
+                                              FactorMulopListRec_First(
+                                                Factor(
+                                                  MayMinus_No(
+                                                  ) [MayMinus_No]
+                                                  Factor_Num(
+                                                   3
+                                                  ) [Factor_Num]
+                                                ) [Factor]
+                                              ) [FactorMulopListRec_First]
+                                              MullOp_Times(
+                                              ) [MullOp_Times]
+                                              Factor(
+                                                MayMinus_No(
+                                                ) [MayMinus_No]
+                                                Factor_Num(
+                                                 2
+                                                ) [Factor_Num]
+                                              ) [Factor]
+                                            ) [FactorMulopListRec_Yes]
+                                          ) [Term]
+                                        ) [AddOpTermListRec_Yes]
+                                        AddOp_Minus(
+                                        ) [AddOp_Minus]
+                                        Term(
+                                          FactorMulopListRec_First(
+                                            Factor(
+                                              MayMinus_No(
+                                              ) [MayMinus_No]
+                                              Factor_Num(
+                                               3
+                                              ) [Factor_Num]
+                                            ) [Factor]
+                                          ) [FactorMulopListRec_First]
+                                        ) [Term]
+                                      ) [AddOpTermListRec_Yes]
+                                    ) [Expr]
+                                  ) [Factor_Expr]
+                                ) [Factor]
+                              ) [FactorMulopListRec_First]
+                            ) [Term]
+                          ) [AddOpTermListRec_Yes]
+                        ) [Expr]
+                      ) [DesignatorStat_AssignExpr]
+                    ) [SingleStatement_Designator]
+                  ) [StatementSingle]
+                ) [StatementListRec_Yes]
+                StatementSingle(
+                  SingleStatement_Print(
+                    Expr(
+                      AddOpTermListRec_Firt(
+                        Term(
+                          FactorMulopListRec_First(
+                            Factor(
+                              MayMinus_No(
+                              ) [MayMinus_No]
+                              Factor_DesignatorVar(
+                                Designator_Var(
+                                 bodovi
+                                ) [Designator_Var]
+                              ) [Factor_DesignatorVar]
+                            ) [Factor]
+                          ) [FactorMulopListRec_First]
+                        ) [Term]
+                      ) [AddOpTermListRec_Firt]
+                    ) [Expr]
+                    MayNumConst_No(
+                    ) [MayNumConst_No]
+                  ) [SingleStatement_Print]
+                ) [StatementSingle]
+              ) [StatementListRec_Yes]
+              StatementSingle(
+                SingleStatement_Read(
+                  Designator_Var(
+                   bodovi
+                  ) [Designator_Var]
+                ) [SingleStatement_Read]
+              ) [StatementSingle]
+            ) [StatementListRec_Yes]
+            StatementSingle(
+              SingleStatement_Designator(
+                DesignatorStat_AssignExpr(
+                  Designator_Var(
+                   bt
+                  ) [Designator_Var]
+                  AssignOp(
+                  ) [AssignOp]
+                  Expr(
+                    AddOpTermListRec_Firt(
+                      Term(
+                        FactorMulopListRec_First(
+                          Factor(
+                            MayMinus_No(
+                            ) [MayMinus_No]
+                            Factor_Bool(
+                             1
+                            ) [Factor_Bool]
+                          ) [Factor]
+                        ) [FactorMulopListRec_First]
+                      ) [Term]
+                    ) [AddOpTermListRec_Firt]
+                  ) [Expr]
+                ) [DesignatorStat_AssignExpr]
+              ) [SingleStatement_Designator]
+            ) [StatementSingle]
+          ) [StatementListRec_Yes]
+          StatementSingle(
+            SingleStatement_IfElse(
+              Condition(
+                CondTermListRec_First(
+                  CondTerm(
+                    CondFactListRec_First(
+                      CondFactExpr(
+                        Expr(
+                          AddOpTermListRec_Firt(
+                            Term(
+                              FactorMulopListRec_First(
+                                Factor(
+                                  MayMinus_No(
+                                  ) [MayMinus_No]
+                                  Factor_DesignatorVar(
+                                    Designator_Var(
+                                     bt
+                                    ) [Designator_Var]
+                                  ) [Factor_DesignatorVar]
+                                ) [Factor]
+                              ) [FactorMulopListRec_First]
+                            ) [Term]
+                          ) [AddOpTermListRec_Firt]
+                        ) [Expr]
+                      ) [CondFactExpr]
+                    ) [CondFactListRec_First]
+                  ) [CondTerm]
+                ) [CondTermListRec_First]
+              ) [Condition]
+              StatementList(
+                Statements(
+                  StatementListRec_Yes(
+                    StatementListRec_Epsilon(
+                    ) [StatementListRec_Epsilon]
+                    StatementSingle(
+                      SingleStatement_Print(
+                        Expr(
+                          AddOpTermListRec_Firt(
+                            Term(
+                              FactorMulopListRec_First(
+                                Factor(
+                                  MayMinus_No(
+                                  ) [MayMinus_No]
+                                  Factor_DesignatorVar(
+                                    Designator_Var(
+                                     bodovi
+                                    ) [Designator_Var]
+                                  ) [Factor_DesignatorVar]
+                                ) [Factor]
+                              ) [FactorMulopListRec_First]
+                            ) [Term]
+                          ) [AddOpTermListRec_Firt]
+                        ) [Expr]
+                        MayNumConst_No(
+                        ) [MayNumConst_No]
+                      ) [SingleStatement_Print]
+                    ) [StatementSingle]
+                  ) [StatementListRec_Yes]
+                ) [Statements]
+              ) [StatementList]
+              MayElseStatement_Yes(
+                StatementList(
+                  Statements(
+                    StatementListRec_Yes(
+                      StatementListRec_Epsilon(
+                      ) [StatementListRec_Epsilon]
+                      StatementSingle(
+                        SingleStatement_Print(
+                          Expr(
+                            AddOpTermListRec_Yes(
+                              AddOpTermListRec_Firt(
+                                Term(
+                                  FactorMulopListRec_First(
+                                    Factor(
+                                      MayMinus_No(
+                                      ) [MayMinus_No]
+                                      Factor_DesignatorVar(
+                                        Designator_Var(
+                                         bodovi
+                                        ) [Designator_Var]
+                                      ) [Factor_DesignatorVar]
+                                    ) [Factor]
+                                  ) [FactorMulopListRec_First]
+                                ) [Term]
+                              ) [AddOpTermListRec_Firt]
+                              AddOp_Plus(
+                              ) [AddOp_Plus]
+                              Term(
+                                FactorMulopListRec_First(
+                                  Factor(
+                                    MayMinus_No(
+                                    ) [MayMinus_No]
+                                    Factor_Num(
+                                     10
+                                    ) [Factor_Num]
+                                  ) [Factor]
+                                ) [FactorMulopListRec_First]
+                              ) [Term]
+                            ) [AddOpTermListRec_Yes]
+                          ) [Expr]
+                          MayNumConst_No(
+                          ) [MayNumConst_No]
+                        ) [SingleStatement_Print]
+                      ) [StatementSingle]
+                    ) [StatementListRec_Yes]
+                  ) [Statements]
+                ) [StatementList]
+              ) [MayElseStatement_Yes]
+            ) [SingleStatement_IfElse]
+          ) [StatementSingle]
+        ) [StatementListRec_Yes]
+        StatementSingle(
+          SingleStatement_IfElse(
+            Condition(
+              CondTermListRec_First(
+                CondTerm(
+                  CondFactListRec_First(
+                    CondFactExprRelop(
+                      Expr(
+                        AddOpTermListRec_Firt(
+                          Term(
+                            FactorMulopListRec_First(
+                              Factor(
+                                MayMinus_No(
+                                ) [MayMinus_No]
+                                Factor_DesignatorVar(
+                                  Designator_Var(
+                                   bodovi
+                                  ) [Designator_Var]
+                                ) [Factor_DesignatorVar]
+                              ) [Factor]
+                            ) [FactorMulopListRec_First]
+                          ) [Term]
+                        ) [AddOpTermListRec_Firt]
+                      ) [Expr]
+                      RelOp_Gr(
+                      ) [RelOp_Gr]
+                      Expr(
+                        AddOpTermListRec_Firt(
+                          Term(
+                            FactorMulopListRec_First(
+                              Factor(
+                                MayMinus_No(
+                                ) [MayMinus_No]
+                                Factor_Num(
+                                 10
+                                ) [Factor_Num]
+                              ) [Factor]
+                            ) [FactorMulopListRec_First]
+                          ) [Term]
+                        ) [AddOpTermListRec_Firt]
+                      ) [Expr]
+                    ) [CondFactExprRelop]
+                  ) [CondFactListRec_First]
+                ) [CondTerm]
+              ) [CondTermListRec_First]
+            ) [Condition]
+            StatementList(
+              Statements(
+                StatementListRec_Yes(
+                  StatementListRec_Epsilon(
+                  ) [StatementListRec_Epsilon]
+                  StatementSingle(
+                    SingleStatement_Print(
+                      Expr(
+                        AddOpTermListRec_Firt(
+                          Term(
+                            FactorMulopListRec_First(
+                              Factor(
+                                MayMinus_No(
+                                ) [MayMinus_No]
+                                Factor_Char(
+                                 +
+                                ) [Factor_Char]
+                              ) [Factor]
+                            ) [FactorMulopListRec_First]
+                          ) [Term]
+                        ) [AddOpTermListRec_Firt]
+                      ) [Expr]
+                      MayNumConst_No(
+                      ) [MayNumConst_No]
+                    ) [SingleStatement_Print]
+                  ) [StatementSingle]
+                ) [StatementListRec_Yes]
+              ) [Statements]
+            ) [StatementList]
+            MayElseStatement_Yes(
+              StatementList(
+                Statements(
+                  StatementListRec_Yes(
+                    StatementListRec_Epsilon(
+                    ) [StatementListRec_Epsilon]
+                    StatementSingle(
+                      SingleStatement_Print(
+                        Expr(
+                          AddOpTermListRec_Firt(
+                            Term(
+                              FactorMulopListRec_First(
+                                Factor(
+                                  MayMinus_No(
+                                  ) [MayMinus_No]
+                                  Factor_Char(
+                                   -
+                                  ) [Factor_Char]
+                                ) [Factor]
+                              ) [FactorMulopListRec_First]
+                            ) [Term]
+                          ) [AddOpTermListRec_Firt]
+                        ) [Expr]
+                        MayNumConst_No(
+                        ) [MayNumConst_No]
+                      ) [SingleStatement_Print]
+                    ) [StatementSingle]
+                  ) [StatementListRec_Yes]
+                ) [Statements]
+              ) [StatementList]
+            ) [MayElseStatement_Yes]
+          ) [SingleStatement_IfElse]
+        ) [StatementSingle]
+      ) [StatementListRec_Yes]
+    ) [MethodDecl]
+  ) [MethodList_Yes]
+) [Program]
+INFO  14:25:09,169 - ===================================
+INFO  14:25:09,171 - ===================================
+INFO  14:25:09,171 - Parsiranje uspesno zavrseno!

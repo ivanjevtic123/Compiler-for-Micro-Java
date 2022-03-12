@@ -1,0 +1,124 @@
+INFO  23:02:18,616 - Compiling source file: C:\Users\ji180550d\Desktop\PP1\PROJECT\Labs\lab1_code\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  23:02:18,644 - #2 program
+INFO  23:02:18,644 - #44 Keske
+INFO  23:02:18,644 - #44 int
+INFO  23:02:18,645 - #44 x
+INFO  23:02:18,645 - #7 ,
+INFO  23:02:18,647 - #44 y
+INFO  23:02:18,647 - #9 [
+INFO  23:02:18,647 - #10 ]
+INFO  23:02:18,647 - #8 ;
+INFO  23:02:18,648 - #3 {
+INFO  23:02:18,648 - #14 void
+INFO  23:02:18,649 - #44 main
+INFO  23:02:18,649 - #12 (
+INFO  23:02:18,649 - #44 int
+INFO  23:02:18,650 - #44 x
+INFO  23:02:18,650 - #13 )
+INFO  23:02:18,651 - #44 int
+INFO  23:02:18,652 - #44 a
+INFO  23:02:18,652 - #7 ,
+INFO  23:02:18,652 - #44 b
+INFO  23:02:18,652 - #8 ;
+INFO  23:02:18,656 - #3 {
+INFO  23:02:18,657 - #4 }
+INFO  23:02:18,657 - #4 }
+INFO  23:02:18,661 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConVarRecDeclListVar(
+    ConVarRecDeclListEpsilon(
+    ) [ConVarRecDeclListEpsilon]
+    VarDeclList(
+      Type(
+       int
+      ) [Type]
+      VarDec(
+        VarName(
+         x
+        ) [VarName]
+        Array_No(
+        ) [Array_No]
+      ) [VarDec]
+      MoreVarDeclaration(
+        VarDec(
+          VarName(
+           y
+          ) [VarName]
+          Array_Yes(
+          ) [Array_Yes]
+        ) [VarDec]
+        MoreVarDec_Epsilon(
+        ) [MoreVarDec_Epsilon]
+      ) [MoreVarDeclaration]
+    ) [VarDeclList]
+  ) [ConVarRecDeclListVar]
+  MethodList_Yes(
+    MethodList_Epsilon(
+    ) [MethodList_Epsilon]
+    MethodDecl(
+      TypeOrVoidName_Void(
+      ) [TypeOrVoidName_Void]
+      MethName(
+       main
+      ) [MethName]
+      MayFormPars_Yes(
+        FormPars(
+          Type(
+           int
+          ) [Type]
+          FormPar(
+            VarDec(
+              VarName(
+               x
+              ) [VarName]
+              Array_No(
+              ) [Array_No]
+            ) [VarDec]
+          ) [FormPar]
+          MoreFormPars_Epsilon(
+          ) [MoreFormPars_Epsilon]
+        ) [FormPars]
+      ) [MayFormPars_Yes]
+      VarDeclListRec_Yes(
+        VarDeclListRec_Epsilon(
+        ) [VarDeclListRec_Epsilon]
+        VarDeclList(
+          Type(
+           int
+          ) [Type]
+          VarDec(
+            VarName(
+             a
+            ) [VarName]
+            Array_No(
+            ) [Array_No]
+          ) [VarDec]
+          MoreVarDeclaration(
+            VarDec(
+              VarName(
+               b
+              ) [VarName]
+              Array_No(
+              ) [Array_No]
+            ) [VarDec]
+            MoreVarDec_Epsilon(
+            ) [MoreVarDec_Epsilon]
+          ) [MoreVarDeclaration]
+        ) [VarDeclList]
+      ) [VarDeclListRec_Yes]
+      StatementListRec_Epsilon(
+      ) [StatementListRec_Epsilon]
+    ) [MethodDecl]
+  ) [MethodList_Yes]
+) [Program]
+INFO  23:02:18,661 - ===================================
+INFO  23:02:18,663 - Deklarisana promenljiva: x na liniji 3
+INFO  23:02:18,663 - Deklarisan niz: y na liniji 3
+INFO  23:02:18,664 - Deklarisana promenljiva: x na liniji 7
+ERROR 23:02:18,664 - GRESKA: Main ne sme imati parametre na liniji 7
+INFO  23:02:18,664 - Deklarisana promenljiva: a na liniji 7
+INFO  23:02:18,664 - Deklarisana promenljiva: b na liniji 7
+INFO  23:02:18,664 - ===================================
+ERROR 23:02:18,664 - Parsiranje NIJE uspesno zavrseno!

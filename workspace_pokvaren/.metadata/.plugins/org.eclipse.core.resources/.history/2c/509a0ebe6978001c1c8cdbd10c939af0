@@ -1,0 +1,308 @@
+package rs.ac.bg.etf.pp1;
+
+import java_cup.runtime.*;
+import org.apache.log4j.*;
+import rs.ac.bg.etf.pp1.ast.*;
+
+parser code {:
+
+	boolean errorDetected;
+	
+	Logger log = Logger.getLogger(getClass());
+   
+   
+    // slede redefinisani metodi za prijavu gresaka radi izmene teksta poruke
+     
+    public void report_fatal_error(String message, Object info) throws java.lang.Exception {
+      done_parsing();
+      report_error(message, info);
+    }
+  
+    public void syntax_error(Symbol cur_token) {
+        report_error("\nSintaksna greska", cur_token);
+    }
+  
+    public void unrecovered_syntax_error(Symbol cur_token) throws java.lang.Exception {
+        report_fatal_error("Fatalna greska, parsiranje se ne moze nastaviti", cur_token);
+    }
+
+    public void report_error(String message, Object info) {
+    	errorDetected = true;
+    	StringBuilder msg = new StringBuilder(message); 
+    	if (info instanceof Symbol)
+            msg.append (" na liniji ").append(((Symbol)info).left);
+        log.error(msg.toString());
+    }
+
+
+:}
+
+init with {:
+	errorDetected = false;
+:}
+
+scan with {:
+	Symbol s = this.getScanner().next_token();
+	if (s != null && s.value != null) 
+		log.info(s.toString() + " " + s.value.toString());
+	return s;
+:}
+
+terminal PROG, LCURL, RCURL, CONST, EQUAL, COMMA, SEMI, LBRACK, RBRACK, RECORD;
+terminal LPAREN, RPAREN, VOID;
+terminal IF, ELSE, DO, WHILE, BREAK, CONTINUE, RETURN, READ, PRINT, GOTO;
+terminal INC, DEC, PLUS, MINUS, TIMES, DIVIDE, PERCENT, EQ, NOT_EQ, GR, GR_EQ, LS, LS_EQ;
+terminal DOT, NEW;
+terminal AND, OR, COLON, QUEST;
+
+terminal String IDENT;
+terminal Integer NUM_CONST, BOOL_CONST;
+terminal Character CHAR_CONST;
+
+terminal HASH;
+
+
+nonterminal Program, ConVarRecDeclList, ConstDeclList, VarDeclList, MethodList, ConstDec, MoreConstDec;
+nonterminal rs.etf.pp1.symboltable.concepts.Struct Type, Const, Expr;
+nonterminal MayArray, RecDecl, VarDec, MoreVarDec, VarDeclListRec;
+nonterminal MethodDecl, FormPars, MayFormPars, MoreFormPars, StatementListRec;
+nonterminal Statement, Statements, Label, SingleStatement, DesignatorStatement;
+nonterminal MayElseStatement, MayNumConst;
+nonterminal ActPars, MayActPars, MayMinus;
+nonterminal rs.etf.pp1.symboltable.concepts.Obj RelOp, AssignOp, AddOp, MullOp, TypeOrVoidName, MethName;
+nonterminal rs.etf.pp1.symboltable.concepts.Struct FactorMulopListRec;
+nonterminal CondTerm, CondTermListRec, CondFact, CondFactListRec;
+nonterminal RecDeclName, ProgramName, FormPar, ActPar;
+nonterminal VarName;
+nonterminal rs.etf.pp1.symboltable.concepts.Obj DesignatorName, Designator, DesignatorListRec, DesignatorArrayName;
+nonterminal rs.etf.pp1.symboltable.concepts.Struct AddOpTermListRec, Term, Factor, FactorSub, Condition; 
+
+
+
+precedence left ELSE;
+
+Program ::= (Program) PROG ProgramName ConVarRecDeclList LCURL MethodList RCURL;
+
+ProgramName ::= (ProgramName) IDENT;
+
+ConVarRecDeclList ::= (ConVarRecDeclListCon) ConVarRecDeclList ConstDeclList
+					  |
+					  (ConVarRecDeclListVar) ConVarRecDeclList VarDeclList
+					  |
+					  (ConVarRecDeclListRec) ConVarRecDeclList RecDecl
+					  |
+					  (ConVarRecDeclListEpsilon) /* epsilon */
+					  ;
+					
+					
+ConstDeclList ::= (ConstDeclList) CONST Type ConstDec MoreConstDec SEMI;
+
+ConstDec ::= (ConstDec) IDENT EQUAL Const ;
+
+MoreConstDec ::= (MoreConstDeclaration) COMMA ConstDec MoreConstDec
+				 |
+				 (MoreConstDeclEpsilon)/*epsilon*/
+				 ;
+
+Const ::= 	(BoolConst) BOOL_CONST
+			|
+			(CharConst) CHAR_CONST
+			|
+			(NumConst) NUM_CONST
+			;
+
+Type ::= (Type) IDENT;
+
+VarDeclList ::= (VarDeclList) Type VarDec MoreVarDec SEMI ;
+
+VarDec ::= (VarDec) VarName MayArray;
+
+VarName ::= (VarName) IDENT;
+
+MoreVarDec ::= (MoreVarDeclaration) COMMA VarDec MoreVarDec
+			   |
+			   (MoreVarDec_Epsilon)/*epsilon*/
+			   ;
+
+MayArray ::= (Array_Yes) LBRACK RBRACK | (Array_No) /*epsilon*/;
+
+
+
+RecDecl ::= (RecDecl) RECORD RecDeclName LCURL VarDeclListRec RCURL;
+
+RecDeclName ::= (RecDeclName) IDENT;
+			
+VarDeclListRec ::= (VarDeclListRec_Yes) VarDeclListRec VarDeclList
+				   |
+				   (VarDeclListRec_Epsilon)/*epsilon*/
+				   ;
+
+MethodList ::= (MethodList_Yes) MethodList MethodDecl
+			   |
+			   (MethodList_Epsilon)/*epsilon*/
+			   ;
+
+MethodDecl ::= (MethodDecl) TypeOrVoidName MethName LPAREN MayFormPars RPAREN VarDeclListRec LCURL StatementListRec RCURL;
+
+TypeOrVoidName ::= (TypeOrVoidName_Type) Type | (TypeOrVoidName_Void) VOID;
+
+MethName ::= (MethName) IDENT;
+
+MayFormPars ::= (MayFormPars_Yes) FormPars | (FormPars_No) /*epsilon*/;
+
+FormPars ::= (FormPars) Type FormPar MoreFormPars ;
+
+MoreFormPars ::= (MoreFormPars_Yes) COMMA Type FormPar MoreFormPars
+				 |
+				 (MoreFormPars_Epsilon)/*epsilon*/
+				 ;
+				 
+FormPar ::= (FormPar) VarDec ;
+
+Statements ::= (Statements) LCURL StatementListRec RCURL;
+
+StatementListRec ::= (StatementListRec_Yes) StatementListRec Statement
+				     |
+				   	 (StatementListRec_Epsilon)/*epsilon*/
+				   	 ;
+
+Statement ::= (StatementSingleLabel) Label COLON SingleStatement
+			  |
+			  (StatementSingle) SingleStatement
+			  |
+			  (StatementList) Statements;
+			  
+SingleStatement ::= (SingleStatement_Designator) DesignatorStatement SEMI
+					|
+					(SingleStatement_IfElse) IF LPAREN Condition RPAREN Statement MayElseStatement
+					|
+					(SingleStatement_DoWhile) DO Statement WHILE LPAREN Condition RPAREN SEMI
+					|
+					(SingleStatement_Break) BREAK SEMI
+					|
+					(SingleStatement_Continue) CONTINUE SEMI
+					|
+					(SingleStatement_Return) RETURN SEMI
+					|
+					(SingleStatement_ReturnExpr) RETURN Expr SEMI
+					|
+					(SingleStatement_Read) READ LPAREN Designator RPAREN SEMI
+					|
+					(SingleStatement_Print) PRINT LPAREN Expr MayNumConst RPAREN SEMI
+					|
+					(SingleStatement_GoTo) GOTO Label SEMI
+					;
+					
+					
+Label ::= (Label) IDENT;
+					
+MayNumConst ::= (MayNumConst_Yes) COMMA NUM_CONST | (MayNumConst_No) /*epsilon*/;
+
+
+DesignatorStatement ::= (DesignatorStat_AssignExpr) Designator AssignOp Expr
+					   | 
+					   (DesignatorStat_ActPars) Designator LPAREN MayActPars RPAREN
+					   |
+					   (DesignatorStat_Inc) Designator INC
+					   |
+					   (DesignatorStat_Dec) Designator DEC
+					   ;
+
+MayActPars ::= (MayActPars_Yes) ActPars | (MayActPars_No) ;
+
+ActPars ::= (ActPars_Comma) ActPars COMMA ActPar 
+			| 
+			(ActPars_First) ActPar 
+			;
+			
+ActPar ::= (ActPar) Expr ;
+
+Condition ::= (Condition) CondTermListRec;
+
+CondTermListRec ::= (CondTermListRec_Yes) CondTermListRec OR CondTerm
+				    |
+				    (CondTermListRec_First) CondTerm
+				    ;
+			
+CondTerm ::= (CondTerm) CondFactListRec;
+
+CondFactListRec ::= (CondFactListRec_Yes) CondFactListRec AND CondFact
+				    |
+				    (CondFactListRec_First) CondFact
+				    ;
+
+CondFact ::= (CondFactExprRelop) Expr RelOp Expr
+		     | 
+		     (CondFactExpr) Expr;
+
+MayElseStatement ::= (MayElseStatement_Yes) ELSE Statement 
+					 | 
+					 (MayElseStatement_No) /*epsilon*/;
+
+Expr ::= (Expr) AddOpTermListRec;
+
+AddOpTermListRec ::= (AddOpTermListRec_Yes) AddOpTermListRec AddOp Term
+				     |
+				     (AddOpTermListRec_Firt) Term
+				     ;
+
+Term ::= (Term)  FactorMulopListRec;
+
+
+FactorMulopListRec ::= (FactorMulopListRec_Yes) FactorMulopListRec MullOp Factor
+				       |
+				       (FactorMulopListRec_First) Factor
+				       ;
+				       
+Factor ::= (Factor) MayMinus FactorSub ;
+
+MayMinus ::= (MayMinus_Yes) MINUS | (MayMinus_No) /*epsilon*/;
+
+FactorSub ::= (Factor_DesignatorVar) Designator
+		   |
+		   (Factor_DesignatorMeth) Designator LPAREN MayActPars RPAREN
+		   |
+		   (Factor_Num) NUM_CONST
+		   |
+		   (Factor_Char) CHAR_CONST
+		   |
+		   (Factor_Bool) BOOL_CONST
+		   |
+		   (Factor_NewArray) NEW Type LBRACK Expr RBRACK
+		   |
+		   (Factor_NewRecObj) NEW Type
+		   |
+		   (Factor_Expr) LPAREN Expr RPAREN
+		   ;
+
+
+Designator ::= (DesignatorName1) IDENT | (DesignatorName2) DesignatorArrayName LBRACK Expr RBRACK;
+
+DesignatorArrayName ::= (DesignatorArrayName) IDENT ;
+
+//DesignatorName ::= (DesignatorName1) IDENT | (DesignatorName2) IDENT LBRACK Expr RBRACK;
+
+DesignatorListRec ::= (DesignatorListRec_Dot) DesignatorListRec DOT DesignatorName
+				     |
+				     (DesignatorListRec_Arr) DesignatorListRec LBRACK Expr RBRACK
+				     |
+				   	 (DesignatorListRec_Epsilon)/*epsilon*/
+				   	 ;
+
+AddOp ::= (AddOp_Plus) PLUS | (AddOp_Minus) MINUS;
+
+MullOp ::= (MullOp_Times) TIMES | (MullOp_Divide) DIVIDE | (MullOp_Percent) PERCENT;
+
+RelOp ::= (RelOp_Eq) EQ | (RelOp_NotEq) NOT_EQ | (RelOp_Gr) GR | (RelOp_GrEq) GR_EQ 
+		  | (RelOp_Ls) LS | (RelOp_LsEq) LS_EQ;
+
+AssignOp ::= (AssignOp) EQUAL;
+
+
+
+
+
+
+
+
+

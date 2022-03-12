@@ -1,0 +1,205 @@
+INFO  22:28:01,548 - Compiling source file: C:\Users\ji180550d\Desktop\PP1\PROJECT\Labs\lab1_code\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  22:28:01,583 - #2 program
+INFO  22:28:01,584 - #44 TestKeske
+INFO  22:28:01,584 - #44 int
+INFO  22:28:01,584 - #44 x
+INFO  22:28:01,585 - #7 ,
+INFO  22:28:01,586 - #44 y
+INFO  22:28:01,587 - #8 ;
+INFO  22:28:01,587 - #11 record
+INFO  22:28:01,588 - #44 rec
+INFO  22:28:01,588 - #3 {
+INFO  22:28:01,588 - #44 int
+INFO  22:28:01,589 - #44 a
+INFO  22:28:01,589 - #7 ,
+INFO  22:28:01,589 - #44 b
+INFO  22:28:01,589 - #9 [
+INFO  22:28:01,589 - #10 ]
+INFO  22:28:01,589 - #8 ;
+INFO  22:28:01,590 - #44 char
+INFO  22:28:01,590 - #44 carr
+INFO  22:28:01,590 - #9 [
+INFO  22:28:01,590 - #10 ]
+INFO  22:28:01,590 - #8 ;
+INFO  22:28:01,590 - #4 }
+INFO  22:28:01,590 - #5 const
+INFO  22:28:01,591 - #44 int
+INFO  22:28:01,591 - #44 pi
+INFO  22:28:01,591 - #6 =
+INFO  22:28:01,591 - #45 7
+INFO  22:28:01,591 - #7 ,
+INFO  22:28:01,591 - #44 w
+INFO  22:28:01,592 - #6 =
+INFO  22:28:01,592 - #46 1
+INFO  22:28:01,592 - #8 ;
+INFO  22:28:01,592 - #3 {
+INFO  22:28:01,593 - #14 void
+INFO  22:28:01,593 - #44 main
+INFO  22:28:01,593 - #12 (
+INFO  22:28:01,593 - #13 )
+INFO  22:28:01,594 - #44 int
+INFO  22:28:01,594 - #44 t
+INFO  22:28:01,594 - #8 ;
+INFO  22:28:01,594 - #3 {
+INFO  22:28:01,594 - #44 t
+INFO  22:28:01,594 - #6 =
+INFO  22:28:01,595 - #45 0
+INFO  22:28:01,596 - #8 ;
+INFO  22:28:01,597 - #4 }
+INFO  22:28:01,597 - #4 }
+INFO  22:28:01,602 - Program(
+  ProgramName(
+   TestKeske
+  ) [ProgramName]
+  ConVarRecDeclListCon(
+    ConVarRecDeclListRec(
+      ConVarRecDeclListVar(
+        ConVarRecDeclListEpsilon(
+        ) [ConVarRecDeclListEpsilon]
+        VarDeclList(
+          Type(
+           int
+          ) [Type]
+          VarDec(
+           x
+            Array_No(
+            ) [Array_No]
+          ) [VarDec]
+          MoreVarDeclaration(
+            VarDec(
+             y
+              Array_No(
+              ) [Array_No]
+            ) [VarDec]
+            MoreVarDec_Epsilon(
+            ) [MoreVarDec_Epsilon]
+          ) [MoreVarDeclaration]
+        ) [VarDeclList]
+      ) [ConVarRecDeclListVar]
+      RecDecl(
+        RecDeclName(
+         rec
+        ) [RecDeclName]
+        VarDeclListRec_Yes(
+          VarDeclListRec_Yes(
+            VarDeclListRec_Epsilon(
+            ) [VarDeclListRec_Epsilon]
+            VarDeclList(
+              Type(
+               int
+              ) [Type]
+              VarDec(
+               a
+                Array_No(
+                ) [Array_No]
+              ) [VarDec]
+              MoreVarDeclaration(
+                VarDec(
+                 b
+                  Array_Yes(
+                  ) [Array_Yes]
+                ) [VarDec]
+                MoreVarDec_Epsilon(
+                ) [MoreVarDec_Epsilon]
+              ) [MoreVarDeclaration]
+            ) [VarDeclList]
+          ) [VarDeclListRec_Yes]
+          VarDeclList(
+            Type(
+             char
+            ) [Type]
+            VarDec(
+             carr
+              Array_Yes(
+              ) [Array_Yes]
+            ) [VarDec]
+            MoreVarDec_Epsilon(
+            ) [MoreVarDec_Epsilon]
+          ) [VarDeclList]
+        ) [VarDeclListRec_Yes]
+      ) [RecDecl]
+    ) [ConVarRecDeclListRec]
+    ConstDeclList(
+      Type(
+       int
+      ) [Type]
+      ConstDec(
+       pi
+        NumConst(
+         7
+        ) [NumConst]
+      ) [ConstDec]
+      MoreConstDeclaration(
+        ConstDec(
+         w
+          BoolConst(
+           1
+          ) [BoolConst]
+        ) [ConstDec]
+        MoreConstDeclEpsilon(
+        ) [MoreConstDeclEpsilon]
+      ) [MoreConstDeclaration]
+    ) [ConstDeclList]
+  ) [ConVarRecDeclListCon]
+  MethodList_Yes(
+    MethodList_Epsilon(
+    ) [MethodList_Epsilon]
+    MethodDecl(
+      TypeOrVoidName_Void(
+       main
+      ) [TypeOrVoidName_Void]
+      FormPars_No(
+      ) [FormPars_No]
+      VarDeclListRec_Yes(
+        VarDeclListRec_Epsilon(
+        ) [VarDeclListRec_Epsilon]
+        VarDeclList(
+          Type(
+           int
+          ) [Type]
+          VarDec(
+           t
+            Array_No(
+            ) [Array_No]
+          ) [VarDec]
+          MoreVarDec_Epsilon(
+          ) [MoreVarDec_Epsilon]
+        ) [VarDeclList]
+      ) [VarDeclListRec_Yes]
+      StatementListRec_Yes(
+        StatementListRec_Epsilon(
+        ) [StatementListRec_Epsilon]
+        StatementSingle(
+          SingleStatement_Designator(
+            DesignatorStat_AssignExpr(
+              Designator_Var(
+               t
+              ) [Designator_Var]
+              AssignOp(
+              ) [AssignOp]
+              Expr(
+                AddOpTermListRec_Firt(
+                  Term(
+                    FactorMulopListRec_First(
+                      Factor(
+                        MayMinus_No(
+                        ) [MayMinus_No]
+                        Factor_Num(
+                         0
+                        ) [Factor_Num]
+                      ) [Factor]
+                    ) [FactorMulopListRec_First]
+                  ) [Term]
+                ) [AddOpTermListRec_Firt]
+              ) [Expr]
+            ) [DesignatorStat_AssignExpr]
+          ) [SingleStatement_Designator]
+        ) [StatementSingle]
+      ) [StatementListRec_Yes]
+    ) [MethodDecl]
+  ) [MethodList_Yes]
+) [Program]
+INFO  22:28:01,603 - ===================================
+ERROR 22:28:01,604 - ... na liniji 4
+INFO  22:28:01,604 - ===================================
+ERROR 22:28:01,605 - Parsiranje NIJE uspesno zavrseno!

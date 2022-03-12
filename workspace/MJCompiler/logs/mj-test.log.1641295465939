@@ -1,0 +1,42 @@
+INFO  12:24:19,737 - Compiling source file: C:\Users\ji180550d\Desktop\PP1\PROJECT\Labs\lab1_code\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  12:24:19,779 - #2 program
+INFO  12:24:19,779 - #44 Keske
+INFO  12:24:19,779 - #5 const
+INFO  12:24:19,780 - #44 int
+INFO  12:24:19,780 - #44 pi
+INFO  12:24:19,781 - #6 =
+INFO  12:24:19,781 - #45 3
+INFO  12:24:19,781 - #7 ,
+INFO  12:24:19,782 - #44 g
+INFO  12:24:19,782 - #6 =
+INFO  12:24:19,782 - #45 11
+INFO  12:24:19,782 - #8 ;
+INFO  12:24:19,783 - #44 int
+INFO  12:24:19,783 - #44 x
+INFO  12:24:19,783 - #7 ,
+INFO  12:24:19,785 - #44 y
+INFO  12:24:19,785 - #9 [
+INFO  12:24:19,785 - #10 ]
+INFO  12:24:19,785 - #7 ,
+INFO  12:24:19,786 - #44 z
+INFO  12:24:19,786 - #8 ;
+INFO  12:24:19,787 - #5 const
+INFO  12:24:19,788 - #44 bool
+INFO  12:24:19,788 - #44 tacno
+INFO  12:24:19,788 - #6 =
+INFO  12:24:19,788 - #46 1
+INFO  12:24:19,788 - #8 ;
+INFO  12:24:19,788 - #44 bool
+INFO  12:24:19,788 - #44 b
+INFO  12:24:19,788 - #8 ;
+INFO  12:24:19,788 - #3 {
+INFO  12:24:19,789 - #14 void
+INFO  12:24:19,789 - #44 main
+INFO  12:24:19,789 - #12 (
+INFO  12:24:19,790 - #13 )
+INFO  12:24:19,790 - #44 int
+INFO  12:24:19,791 - #44 x
+INFO  12:24:19,791 - #38 .
+ERROR 12:24:19,791 - 
+Sintaksna greska na liniji 10
+ERROR 12:24:19,791 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 10

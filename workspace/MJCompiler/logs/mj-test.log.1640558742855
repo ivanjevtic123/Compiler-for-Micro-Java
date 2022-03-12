@@ -1,0 +1,42 @@
+INFO  23:45:08,730 - Compiling source file: C:\Users\ji180550d\Desktop\PP1\PROJECT\Labs\lab1_code\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  23:45:08,758 - #2 program
+INFO  23:45:08,758 - #44 TestKeske
+INFO  23:45:08,758 - #44 int
+INFO  23:45:08,759 - #44 x
+INFO  23:45:08,759 - #7 ,
+INFO  23:45:08,761 - #44 y
+INFO  23:45:08,761 - #8 ;
+INFO  23:45:08,761 - #11 record
+INFO  23:45:08,762 - #44 rec
+INFO  23:45:08,762 - #3 {
+INFO  23:45:08,762 - #44 int
+INFO  23:45:08,763 - #44 a
+INFO  23:45:08,763 - #7 ,
+INFO  23:45:08,763 - #44 b
+INFO  23:45:08,763 - #9 [
+INFO  23:45:08,763 - #10 ]
+INFO  23:45:08,763 - #8 ;
+INFO  23:45:08,763 - #44 char
+INFO  23:45:08,764 - #44 carr
+INFO  23:45:08,764 - #9 [
+INFO  23:45:08,768 - #10 ]
+INFO  23:45:08,768 - #8 ;
+INFO  23:45:08,768 - #4 }
+INFO  23:45:08,768 - #5 const
+INFO  23:45:08,769 - #44 int
+INFO  23:45:08,769 - #44 pi
+INFO  23:45:08,769 - #6 =
+INFO  23:45:08,769 - #45 7
+INFO  23:45:08,769 - #8 ;
+INFO  23:45:08,770 - #5 const
+INFO  23:45:08,770 - #44 bool
+INFO  23:45:08,771 - #44 w
+INFO  23:45:08,771 - #6 =
+INFO  23:45:08,771 - #46 1
+INFO  23:45:08,771 - #8 ;
+INFO  23:45:08,771 - #44 bool
+INFO  23:45:08,771 - #44 flag
+INFO  23:45:08,771 - #6 =
+ERROR 23:45:08,771 - 
+Sintaksna greska na liniji 6
+ERROR 23:45:08,771 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 6

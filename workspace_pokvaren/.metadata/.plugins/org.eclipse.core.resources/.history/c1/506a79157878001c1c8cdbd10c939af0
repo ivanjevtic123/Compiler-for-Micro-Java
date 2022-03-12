@@ -1,0 +1,23 @@
+program Modif
+
+int arr[], x;
+char c_arr[];
+
+{
+
+
+void main() {
+
+	arr = new int [2];
+	
+	arr[0] = 11;
+	arr[1] = 103;
+	arr[2] = 27;
+	
+	
+	print(arr[1]);
+	
+
+}
+
+}

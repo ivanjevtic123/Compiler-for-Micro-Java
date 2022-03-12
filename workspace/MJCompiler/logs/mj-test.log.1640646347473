@@ -1,0 +1,2828 @@
+INFO  23:07:50,854 - Compiling source file: C:\Users\ji180550d\Desktop\PP1\PROJECT\Labs\lab1_code\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  23:07:50,883 - #2 program
+INFO  23:07:50,883 - #44 test301
+INFO  23:07:50,883 - #5 const
+INFO  23:07:50,884 - #44 bool
+INFO  23:07:50,884 - #44 fleg1
+INFO  23:07:50,885 - #6 =
+INFO  23:07:50,885 - #46 1
+INFO  23:07:50,885 - #8 ;
+INFO  23:07:50,886 - #5 const
+INFO  23:07:50,886 - #44 bool
+INFO  23:07:50,886 - #44 fleg2
+INFO  23:07:50,886 - #6 =
+INFO  23:07:50,886 - #46 0
+INFO  23:07:50,886 - #8 ;
+INFO  23:07:50,887 - #5 const
+INFO  23:07:50,887 - #44 bool
+INFO  23:07:50,887 - #44 fleg3
+INFO  23:07:50,887 - #6 =
+INFO  23:07:50,887 - #45 0
+INFO  23:07:50,887 - #8 ;
+INFO  23:07:50,891 - #5 const
+INFO  23:07:50,891 - #44 bool
+INFO  23:07:50,892 - #44 fleg4
+INFO  23:07:50,892 - #6 =
+INFO  23:07:50,892 - #45 1
+INFO  23:07:50,892 - #8 ;
+INFO  23:07:50,892 - #5 const
+INFO  23:07:50,892 - #44 bool
+INFO  23:07:50,892 - #44 fleg5
+INFO  23:07:50,892 - #6 =
+INFO  23:07:50,892 - #45 2
+INFO  23:07:50,892 - #8 ;
+INFO  23:07:50,892 - #5 const
+INFO  23:07:50,892 - #44 bool
+INFO  23:07:50,892 - #44 fleg6
+INFO  23:07:50,892 - #6 =
+INFO  23:07:50,892 - #47 a
+INFO  23:07:50,892 - #8 ;
+INFO  23:07:50,892 - #5 const
+INFO  23:07:50,893 - #44 int
+INFO  23:07:50,893 - #44 broj1
+INFO  23:07:50,893 - #6 =
+INFO  23:07:50,893 - #46 1
+INFO  23:07:50,893 - #8 ;
+INFO  23:07:50,893 - #5 const
+INFO  23:07:50,893 - #44 int
+INFO  23:07:50,893 - #44 broj2
+INFO  23:07:50,893 - #6 =
+INFO  23:07:50,893 - #46 0
+INFO  23:07:50,893 - #8 ;
+INFO  23:07:50,893 - #5 const
+INFO  23:07:50,893 - #44 int
+INFO  23:07:50,893 - #44 broj3
+INFO  23:07:50,893 - #6 =
+INFO  23:07:50,893 - #45 0
+INFO  23:07:50,893 - #8 ;
+INFO  23:07:50,894 - #5 const
+INFO  23:07:50,894 - #44 int
+INFO  23:07:50,894 - #44 broj4
+INFO  23:07:50,894 - #6 =
+INFO  23:07:50,894 - #45 1
+INFO  23:07:50,894 - #8 ;
+INFO  23:07:50,894 - #5 const
+INFO  23:07:50,894 - #44 int
+INFO  23:07:50,894 - #44 broj5
+INFO  23:07:50,894 - #6 =
+INFO  23:07:50,894 - #45 2
+INFO  23:07:50,894 - #8 ;
+INFO  23:07:50,894 - #5 const
+INFO  23:07:50,894 - #44 int
+INFO  23:07:50,894 - #44 broj7
+INFO  23:07:50,894 - #6 =
+INFO  23:07:50,894 - #47 a
+INFO  23:07:50,894 - #8 ;
+INFO  23:07:50,895 - #5 const
+INFO  23:07:50,895 - #44 int
+INFO  23:07:50,895 - #44 broj4
+INFO  23:07:50,895 - #6 =
+INFO  23:07:50,895 - #45 4
+INFO  23:07:50,895 - #8 ;
+INFO  23:07:50,895 - #5 const
+INFO  23:07:50,895 - #44 int
+INFO  23:07:50,895 - #44 fleg2
+INFO  23:07:50,895 - #6 =
+INFO  23:07:50,895 - #45 1
+INFO  23:07:50,895 - #8 ;
+INFO  23:07:50,895 - #5 const
+INFO  23:07:50,895 - #44 char
+INFO  23:07:50,895 - #44 char1
+INFO  23:07:50,895 - #6 =
+INFO  23:07:50,895 - #46 1
+INFO  23:07:50,895 - #8 ;
+INFO  23:07:50,895 - #5 const
+INFO  23:07:50,895 - #44 char
+INFO  23:07:50,895 - #44 char2
+INFO  23:07:50,896 - #6 =
+INFO  23:07:50,896 - #46 0
+INFO  23:07:50,896 - #8 ;
+INFO  23:07:50,896 - #5 const
+INFO  23:07:50,896 - #44 char
+INFO  23:07:50,896 - #44 char3
+INFO  23:07:50,896 - #6 =
+INFO  23:07:50,896 - #45 0
+INFO  23:07:50,896 - #8 ;
+INFO  23:07:50,896 - #5 const
+INFO  23:07:50,896 - #44 char
+INFO  23:07:50,896 - #44 char4
+INFO  23:07:50,896 - #6 =
+INFO  23:07:50,896 - #45 1
+INFO  23:07:50,896 - #8 ;
+INFO  23:07:50,896 - #5 const
+INFO  23:07:50,896 - #44 char
+INFO  23:07:50,896 - #44 char5
+INFO  23:07:50,896 - #6 =
+INFO  23:07:50,896 - #45 2
+INFO  23:07:50,896 - #8 ;
+INFO  23:07:50,897 - #5 const
+INFO  23:07:50,897 - #44 char
+INFO  23:07:50,897 - #44 char7
+INFO  23:07:50,897 - #6 =
+INFO  23:07:50,897 - #47 a
+INFO  23:07:50,897 - #8 ;
+INFO  23:07:50,897 - #5 const
+INFO  23:07:50,897 - #44 char
+INFO  23:07:50,897 - #44 char8
+INFO  23:07:50,897 - #6 =
+INFO  23:07:50,897 - #45 4
+INFO  23:07:50,897 - #8 ;
+INFO  23:07:50,897 - #5 const
+INFO  23:07:50,897 - #44 char
+INFO  23:07:50,897 - #44 char9
+INFO  23:07:50,897 - #6 =
+INFO  23:07:50,897 - #47 b
+INFO  23:07:50,897 - #8 ;
+INFO  23:07:50,897 - #5 const
+INFO  23:07:50,897 - #44 char
+INFO  23:07:50,898 - #44 broj4
+INFO  23:07:50,898 - #6 =
+INFO  23:07:50,898 - #45 4
+INFO  23:07:50,898 - #8 ;
+INFO  23:07:50,898 - #5 const
+INFO  23:07:50,898 - #44 char
+INFO  23:07:50,898 - #44 fleg1
+INFO  23:07:50,898 - #6 =
+INFO  23:07:50,898 - #45 1
+INFO  23:07:50,898 - #8 ;
+INFO  23:07:50,898 - #5 const
+INFO  23:07:50,898 - #44 int
+INFO  23:07:50,898 - #44 char7
+INFO  23:07:50,898 - #6 =
+INFO  23:07:50,898 - #45 1
+INFO  23:07:50,898 - #8 ;
+INFO  23:07:50,898 - #5 const
+INFO  23:07:50,898 - #44 bool
+INFO  23:07:50,898 - #44 char9
+INFO  23:07:50,898 - #6 =
+INFO  23:07:50,898 - #46 0
+INFO  23:07:50,898 - #8 ;
+INFO  23:07:50,898 - #44 bool
+INFO  23:07:50,898 - #44 f1
+INFO  23:07:50,899 - #7 ,
+INFO  23:07:50,900 - #44 f2
+INFO  23:07:50,900 - #7 ,
+INFO  23:07:50,900 - #44 f3
+INFO  23:07:50,902 - #7 ,
+INFO  23:07:50,902 - #44 f4
+INFO  23:07:50,902 - #8 ;
+INFO  23:07:50,903 - #44 bool
+INFO  23:07:50,903 - #44 fniz1
+INFO  23:07:50,903 - #9 [
+INFO  23:07:50,903 - #10 ]
+INFO  23:07:50,903 - #7 ,
+INFO  23:07:50,904 - #44 fniz2
+INFO  23:07:50,904 - #9 [
+INFO  23:07:50,904 - #10 ]
+INFO  23:07:50,904 - #7 ,
+INFO  23:07:50,904 - #44 fniz3
+INFO  23:07:50,904 - #9 [
+INFO  23:07:50,904 - #10 ]
+INFO  23:07:50,904 - #7 ,
+INFO  23:07:50,904 - #44 fniz4
+INFO  23:07:50,904 - #9 [
+INFO  23:07:50,904 - #10 ]
+INFO  23:07:50,904 - #8 ;
+INFO  23:07:50,904 - #44 bool
+INFO  23:07:50,904 - #44 fg1
+INFO  23:07:50,905 - #7 ,
+INFO  23:07:50,905 - #44 fg2
+INFO  23:07:50,905 - #9 [
+INFO  23:07:50,905 - #10 ]
+INFO  23:07:50,905 - #8 ;
+INFO  23:07:50,905 - #44 bool
+INFO  23:07:50,905 - #44 fg3
+INFO  23:07:50,905 - #7 ,
+INFO  23:07:50,905 - #44 fg4
+INFO  23:07:50,905 - #9 [
+INFO  23:07:50,905 - #10 ]
+INFO  23:07:50,905 - #7 ,
+INFO  23:07:50,905 - #44 fg5
+INFO  23:07:50,905 - #8 ;
+INFO  23:07:50,905 - #44 bool
+INFO  23:07:50,905 - #44 f1
+INFO  23:07:50,905 - #8 ;
+INFO  23:07:50,905 - #44 bool
+INFO  23:07:50,905 - #44 fniz1
+INFO  23:07:50,905 - #9 [
+INFO  23:07:50,905 - #10 ]
+INFO  23:07:50,905 - #8 ;
+INFO  23:07:50,906 - #44 int
+INFO  23:07:50,906 - #44 i1
+INFO  23:07:50,906 - #7 ,
+INFO  23:07:50,906 - #44 i2
+INFO  23:07:50,906 - #7 ,
+INFO  23:07:50,906 - #44 i3
+INFO  23:07:50,906 - #7 ,
+INFO  23:07:50,906 - #44 i4
+INFO  23:07:50,906 - #8 ;
+INFO  23:07:50,906 - #44 int
+INFO  23:07:50,906 - #44 iniz1
+INFO  23:07:50,906 - #9 [
+INFO  23:07:50,906 - #10 ]
+INFO  23:07:50,906 - #7 ,
+INFO  23:07:50,906 - #44 iniz2
+INFO  23:07:50,906 - #9 [
+INFO  23:07:50,906 - #10 ]
+INFO  23:07:50,906 - #7 ,
+INFO  23:07:50,906 - #44 iniz3
+INFO  23:07:50,906 - #9 [
+INFO  23:07:50,906 - #10 ]
+INFO  23:07:50,906 - #7 ,
+INFO  23:07:50,906 - #44 iniz4
+INFO  23:07:50,906 - #9 [
+INFO  23:07:50,906 - #10 ]
+INFO  23:07:50,906 - #8 ;
+INFO  23:07:50,906 - #44 int
+INFO  23:07:50,907 - #44 ig1
+INFO  23:07:50,907 - #7 ,
+INFO  23:07:50,907 - #44 ig2
+INFO  23:07:50,907 - #9 [
+INFO  23:07:50,907 - #10 ]
+INFO  23:07:50,907 - #8 ;
+INFO  23:07:50,907 - #44 int
+INFO  23:07:50,907 - #44 ig3
+INFO  23:07:50,907 - #7 ,
+INFO  23:07:50,907 - #44 ig4
+INFO  23:07:50,907 - #9 [
+INFO  23:07:50,907 - #10 ]
+INFO  23:07:50,907 - #7 ,
+INFO  23:07:50,907 - #44 ig5
+INFO  23:07:50,907 - #8 ;
+INFO  23:07:50,907 - #44 int
+INFO  23:07:50,907 - #44 i1
+INFO  23:07:50,907 - #8 ;
+INFO  23:07:50,908 - #44 int
+INFO  23:07:50,908 - #44 iniz1
+INFO  23:07:50,908 - #9 [
+INFO  23:07:50,908 - #10 ]
+INFO  23:07:50,908 - #8 ;
+INFO  23:07:50,908 - #44 int
+INFO  23:07:50,908 - #44 f1
+INFO  23:07:50,908 - #8 ;
+INFO  23:07:50,908 - #44 int
+INFO  23:07:50,908 - #44 fniz1
+INFO  23:07:50,908 - #9 [
+INFO  23:07:50,908 - #10 ]
+INFO  23:07:50,908 - #8 ;
+INFO  23:07:50,909 - #44 char
+INFO  23:07:50,909 - #44 c1
+INFO  23:07:50,909 - #7 ,
+INFO  23:07:50,909 - #44 c2
+INFO  23:07:50,909 - #7 ,
+INFO  23:07:50,909 - #44 c3
+INFO  23:07:50,909 - #7 ,
+INFO  23:07:50,909 - #44 c4
+INFO  23:07:50,909 - #8 ;
+INFO  23:07:50,909 - #44 char
+INFO  23:07:50,909 - #44 cniz1
+INFO  23:07:50,909 - #9 [
+INFO  23:07:50,909 - #10 ]
+INFO  23:07:50,909 - #7 ,
+INFO  23:07:50,909 - #44 cniz2
+INFO  23:07:50,909 - #9 [
+INFO  23:07:50,909 - #10 ]
+INFO  23:07:50,909 - #7 ,
+INFO  23:07:50,909 - #44 cniz3
+INFO  23:07:50,909 - #9 [
+INFO  23:07:50,909 - #10 ]
+INFO  23:07:50,909 - #7 ,
+INFO  23:07:50,909 - #44 cniz4
+INFO  23:07:50,909 - #9 [
+INFO  23:07:50,909 - #10 ]
+INFO  23:07:50,909 - #8 ;
+INFO  23:07:50,910 - #44 char
+INFO  23:07:50,910 - #44 cg1
+INFO  23:07:50,910 - #7 ,
+INFO  23:07:50,910 - #44 cg2
+INFO  23:07:50,910 - #9 [
+INFO  23:07:50,910 - #10 ]
+INFO  23:07:50,910 - #8 ;
+INFO  23:07:50,910 - #44 char
+INFO  23:07:50,910 - #44 cg3
+INFO  23:07:50,910 - #7 ,
+INFO  23:07:50,910 - #44 cg4
+INFO  23:07:50,910 - #9 [
+INFO  23:07:50,910 - #10 ]
+INFO  23:07:50,910 - #7 ,
+INFO  23:07:50,910 - #44 cg5
+INFO  23:07:50,910 - #8 ;
+INFO  23:07:50,910 - #44 char
+INFO  23:07:50,910 - #44 c1
+INFO  23:07:50,910 - #8 ;
+INFO  23:07:50,910 - #44 char
+INFO  23:07:50,910 - #44 cniz1
+INFO  23:07:50,910 - #9 [
+INFO  23:07:50,910 - #10 ]
+INFO  23:07:50,910 - #8 ;
+INFO  23:07:50,910 - #44 char
+INFO  23:07:50,910 - #44 f1
+INFO  23:07:50,911 - #8 ;
+INFO  23:07:50,911 - #44 char
+INFO  23:07:50,911 - #44 fniz1
+INFO  23:07:50,911 - #9 [
+INFO  23:07:50,911 - #10 ]
+INFO  23:07:50,911 - #8 ;
+INFO  23:07:50,911 - #44 char
+INFO  23:07:50,911 - #44 i1
+INFO  23:07:50,911 - #8 ;
+INFO  23:07:50,911 - #3 {
+INFO  23:07:50,911 - #44 int
+INFO  23:07:50,911 - #44 main
+INFO  23:07:50,911 - #12 (
+INFO  23:07:50,912 - #13 )
+INFO  23:07:50,912 - #3 {
+INFO  23:07:50,913 - #4 }
+INFO  23:07:50,913 - #44 char
+INFO  23:07:50,914 - #44 main
+INFO  23:07:50,914 - #12 (
+INFO  23:07:50,914 - #13 )
+INFO  23:07:50,914 - #3 {
+INFO  23:07:50,914 - #4 }
+INFO  23:07:50,914 - #44 bool
+INFO  23:07:50,914 - #44 main
+INFO  23:07:50,914 - #12 (
+INFO  23:07:50,914 - #13 )
+INFO  23:07:50,914 - #3 {
+INFO  23:07:50,914 - #4 }
+INFO  23:07:50,914 - #14 void
+INFO  23:07:50,914 - #44 main
+INFO  23:07:50,915 - #12 (
+INFO  23:07:50,915 - #13 )
+INFO  23:07:50,915 - #3 {
+INFO  23:07:50,915 - #4 }
+INFO  23:07:50,915 - #14 void
+INFO  23:07:50,915 - #44 f_void
+INFO  23:07:50,915 - #12 (
+INFO  23:07:50,915 - #13 )
+INFO  23:07:50,915 - #3 {
+INFO  23:07:50,915 - #4 }
+INFO  23:07:50,915 - #14 void
+INFO  23:07:50,915 - #44 f_void2
+INFO  23:07:50,915 - #12 (
+INFO  23:07:50,915 - #13 )
+INFO  23:07:50,915 - #3 {
+INFO  23:07:50,915 - #21 return
+INFO  23:07:50,915 - #45 1
+INFO  23:07:50,916 - #8 ;
+INFO  23:07:50,917 - #4 }
+INFO  23:07:50,917 - #14 void
+INFO  23:07:50,917 - #44 f_void2
+INFO  23:07:50,917 - #12 (
+INFO  23:07:50,917 - #13 )
+INFO  23:07:50,917 - #3 {
+INFO  23:07:50,918 - #21 return
+INFO  23:07:50,918 - #8 ;
+INFO  23:07:50,918 - #4 }
+INFO  23:07:50,918 - #44 int
+INFO  23:07:50,918 - #44 f_int
+INFO  23:07:50,918 - #12 (
+INFO  23:07:50,918 - #13 )
+INFO  23:07:50,918 - #3 {
+INFO  23:07:50,918 - #21 return
+INFO  23:07:50,918 - #45 0
+INFO  23:07:50,918 - #8 ;
+INFO  23:07:50,918 - #4 }
+INFO  23:07:50,918 - #44 int
+INFO  23:07:50,918 - #44 f_int2
+INFO  23:07:50,918 - #12 (
+INFO  23:07:50,918 - #13 )
+INFO  23:07:50,918 - #3 {
+INFO  23:07:50,918 - #21 return
+INFO  23:07:50,918 - #8 ;
+INFO  23:07:50,918 - #4 }
+INFO  23:07:50,918 - #44 int
+INFO  23:07:50,918 - #44 f_int3
+INFO  23:07:50,918 - #12 (
+INFO  23:07:50,919 - #13 )
+INFO  23:07:50,919 - #3 {
+INFO  23:07:50,919 - #4 }
+INFO  23:07:50,919 - #44 int
+INFO  23:07:50,919 - #44 f_int3
+INFO  23:07:50,919 - #12 (
+INFO  23:07:50,919 - #13 )
+INFO  23:07:50,919 - #3 {
+INFO  23:07:50,919 - #21 return
+INFO  23:07:50,919 - #47 a
+INFO  23:07:50,919 - #8 ;
+INFO  23:07:50,919 - #4 }
+INFO  23:07:50,919 - #44 int
+INFO  23:07:50,919 - #44 f_int4
+INFO  23:07:50,919 - #12 (
+INFO  23:07:50,919 - #13 )
+INFO  23:07:50,919 - #3 {
+INFO  23:07:50,919 - #21 return
+INFO  23:07:50,919 - #46 0
+INFO  23:07:50,919 - #8 ;
+INFO  23:07:50,919 - #4 }
+INFO  23:07:50,919 - #44 char
+INFO  23:07:50,919 - #44 f_char
+INFO  23:07:50,919 - #12 (
+INFO  23:07:50,919 - #13 )
+INFO  23:07:50,919 - #3 {
+INFO  23:07:50,919 - #21 return
+INFO  23:07:50,919 - #45 0
+INFO  23:07:50,919 - #8 ;
+INFO  23:07:50,919 - #4 }
+INFO  23:07:50,919 - #44 char
+INFO  23:07:50,919 - #44 f_char2
+INFO  23:07:50,920 - #12 (
+INFO  23:07:50,920 - #13 )
+INFO  23:07:50,920 - #3 {
+INFO  23:07:50,920 - #21 return
+INFO  23:07:50,920 - #47 a
+INFO  23:07:50,920 - #8 ;
+INFO  23:07:50,920 - #4 }
+INFO  23:07:50,920 - #44 char
+INFO  23:07:50,920 - #44 f_char3
+INFO  23:07:50,920 - #12 (
+INFO  23:07:50,920 - #13 )
+INFO  23:07:50,920 - #3 {
+INFO  23:07:50,920 - #21 return
+INFO  23:07:50,920 - #46 0
+INFO  23:07:50,920 - #8 ;
+INFO  23:07:50,920 - #4 }
+INFO  23:07:50,920 - #44 char
+INFO  23:07:50,920 - #44 f_char4
+INFO  23:07:50,920 - #12 (
+INFO  23:07:50,920 - #13 )
+INFO  23:07:50,920 - #3 {
+INFO  23:07:50,920 - #21 return
+INFO  23:07:50,920 - #8 ;
+INFO  23:07:50,920 - #4 }
+INFO  23:07:50,920 - #44 char
+INFO  23:07:50,920 - #44 f_char4
+INFO  23:07:50,920 - #12 (
+INFO  23:07:50,920 - #13 )
+INFO  23:07:50,921 - #3 {
+INFO  23:07:50,921 - #4 }
+INFO  23:07:50,921 - #44 char
+INFO  23:07:50,921 - #44 f_param
+INFO  23:07:50,921 - #12 (
+INFO  23:07:50,921 - #44 int
+INFO  23:07:50,921 - #44 a
+INFO  23:07:50,921 - #7 ,
+INFO  23:07:50,921 - #44 int
+INFO  23:07:50,921 - #44 b
+INFO  23:07:50,921 - #7 ,
+INFO  23:07:50,921 - #44 char
+INFO  23:07:50,921 - #44 c
+INFO  23:07:50,921 - #7 ,
+INFO  23:07:50,921 - #44 char
+INFO  23:07:50,921 - #44 d
+INFO  23:07:50,921 - #7 ,
+INFO  23:07:50,921 - #44 bool
+INFO  23:07:50,921 - #44 e
+INFO  23:07:50,921 - #7 ,
+INFO  23:07:50,922 - #44 bool
+INFO  23:07:50,922 - #44 f
+INFO  23:07:50,922 - #7 ,
+INFO  23:07:50,922 - #44 int
+INFO  23:07:50,922 - #44 niz
+INFO  23:07:50,922 - #9 [
+INFO  23:07:50,922 - #10 ]
+INFO  23:07:50,922 - #7 ,
+INFO  23:07:50,922 - #44 char
+INFO  23:07:50,922 - #44 niz2
+INFO  23:07:50,922 - #9 [
+INFO  23:07:50,922 - #10 ]
+INFO  23:07:50,922 - #7 ,
+INFO  23:07:50,922 - #44 bool
+INFO  23:07:50,922 - #44 niz3
+INFO  23:07:50,922 - #9 [
+INFO  23:07:50,922 - #10 ]
+INFO  23:07:50,922 - #7 ,
+INFO  23:07:50,922 - #44 int
+INFO  23:07:50,922 - #44 g
+INFO  23:07:50,922 - #13 )
+INFO  23:07:50,923 - #3 {
+INFO  23:07:50,923 - #21 return
+INFO  23:07:50,923 - #47 a
+INFO  23:07:50,923 - #8 ;
+INFO  23:07:50,923 - #4 }
+INFO  23:07:50,923 - #44 char
+INFO  23:07:50,923 - #44 f_param1
+INFO  23:07:50,923 - #12 (
+INFO  23:07:50,923 - #44 int
+INFO  23:07:50,923 - #44 a
+INFO  23:07:50,923 - #7 ,
+INFO  23:07:50,923 - #44 int
+INFO  23:07:50,923 - #44 b
+INFO  23:07:50,923 - #7 ,
+INFO  23:07:50,923 - #44 char
+INFO  23:07:50,923 - #44 c
+INFO  23:07:50,924 - #7 ,
+INFO  23:07:50,924 - #44 char
+INFO  23:07:50,924 - #44 d
+INFO  23:07:50,924 - #7 ,
+INFO  23:07:50,924 - #44 bool
+INFO  23:07:50,924 - #44 e
+INFO  23:07:50,924 - #7 ,
+INFO  23:07:50,924 - #44 bool
+INFO  23:07:50,924 - #44 f
+INFO  23:07:50,924 - #7 ,
+INFO  23:07:50,924 - #44 int
+INFO  23:07:50,924 - #44 niz
+INFO  23:07:50,924 - #9 [
+INFO  23:07:50,924 - #10 ]
+INFO  23:07:50,924 - #7 ,
+INFO  23:07:50,924 - #44 char
+INFO  23:07:50,924 - #44 niz2
+INFO  23:07:50,924 - #9 [
+INFO  23:07:50,924 - #10 ]
+INFO  23:07:50,924 - #7 ,
+INFO  23:07:50,924 - #44 bool
+INFO  23:07:50,924 - #44 niz3
+INFO  23:07:50,924 - #9 [
+INFO  23:07:50,924 - #10 ]
+INFO  23:07:50,924 - #7 ,
+INFO  23:07:50,924 - #44 int
+INFO  23:07:50,924 - #44 g
+INFO  23:07:50,924 - #13 )
+INFO  23:07:50,924 - #44 int
+INFO  23:07:50,924 - #44 i
+INFO  23:07:50,924 - #8 ;
+INFO  23:07:50,924 - #44 int
+INFO  23:07:50,924 - #44 j
+INFO  23:07:50,924 - #7 ,
+INFO  23:07:50,924 - #44 z
+INFO  23:07:50,924 - #7 ,
+INFO  23:07:50,924 - #44 p
+INFO  23:07:50,924 - #9 [
+INFO  23:07:50,924 - #10 ]
+INFO  23:07:50,924 - #8 ;
+INFO  23:07:50,925 - #44 char
+INFO  23:07:50,925 - #44 nizc
+INFO  23:07:50,925 - #9 [
+INFO  23:07:50,925 - #10 ]
+INFO  23:07:50,925 - #8 ;
+INFO  23:07:50,925 - #3 {
+INFO  23:07:50,925 - #21 return
+INFO  23:07:50,925 - #47 a
+INFO  23:07:50,925 - #8 ;
+INFO  23:07:50,925 - #4 }
+INFO  23:07:50,925 - #44 char
+INFO  23:07:50,925 - #44 f_param2
+INFO  23:07:50,925 - #12 (
+INFO  23:07:50,925 - #44 int
+INFO  23:07:50,925 - #44 a
+INFO  23:07:50,925 - #7 ,
+INFO  23:07:50,925 - #44 int
+INFO  23:07:50,925 - #44 b
+INFO  23:07:50,925 - #7 ,
+INFO  23:07:50,925 - #44 char
+INFO  23:07:50,925 - #44 c
+INFO  23:07:50,925 - #7 ,
+INFO  23:07:50,925 - #44 char
+INFO  23:07:50,925 - #44 d
+INFO  23:07:50,925 - #7 ,
+INFO  23:07:50,925 - #44 bool
+INFO  23:07:50,925 - #44 e
+INFO  23:07:50,925 - #7 ,
+INFO  23:07:50,925 - #44 bool
+INFO  23:07:50,925 - #44 f
+INFO  23:07:50,925 - #7 ,
+INFO  23:07:50,925 - #44 int
+INFO  23:07:50,925 - #44 niz
+INFO  23:07:50,925 - #9 [
+INFO  23:07:50,925 - #10 ]
+INFO  23:07:50,925 - #7 ,
+INFO  23:07:50,925 - #44 char
+INFO  23:07:50,925 - #44 niz2
+INFO  23:07:50,925 - #9 [
+INFO  23:07:50,925 - #10 ]
+INFO  23:07:50,925 - #7 ,
+INFO  23:07:50,925 - #44 bool
+INFO  23:07:50,925 - #44 niz3
+INFO  23:07:50,925 - #9 [
+INFO  23:07:50,925 - #10 ]
+INFO  23:07:50,925 - #7 ,
+INFO  23:07:50,925 - #44 int
+INFO  23:07:50,925 - #44 g
+INFO  23:07:50,925 - #13 )
+INFO  23:07:50,925 - #44 int
+INFO  23:07:50,925 - #44 i
+INFO  23:07:50,926 - #8 ;
+INFO  23:07:50,926 - #44 int
+INFO  23:07:50,926 - #44 j
+INFO  23:07:50,926 - #7 ,
+INFO  23:07:50,926 - #44 z
+INFO  23:07:50,926 - #7 ,
+INFO  23:07:50,926 - #44 p
+INFO  23:07:50,926 - #9 [
+INFO  23:07:50,926 - #10 ]
+INFO  23:07:50,926 - #8 ;
+INFO  23:07:50,926 - #44 char
+INFO  23:07:50,926 - #44 nizc
+INFO  23:07:50,926 - #9 [
+INFO  23:07:50,926 - #10 ]
+INFO  23:07:50,926 - #8 ;
+INFO  23:07:50,926 - #3 {
+INFO  23:07:50,926 - #21 return
+INFO  23:07:50,926 - #47 a
+INFO  23:07:50,926 - #8 ;
+INFO  23:07:50,926 - #4 }
+INFO  23:07:50,926 - #4 }
+INFO  23:07:50,935 - Program(
+  ProgramName(
+   test301
+  ) [ProgramName]
+  ConVarRecDeclListVar(
+    ConVarRecDeclListVar(
+      ConVarRecDeclListVar(
+        ConVarRecDeclListVar(
+          ConVarRecDeclListVar(
+            ConVarRecDeclListVar(
+              ConVarRecDeclListVar(
+                ConVarRecDeclListVar(
+                  ConVarRecDeclListVar(
+                    ConVarRecDeclListVar(
+                      ConVarRecDeclListVar(
+                        ConVarRecDeclListVar(
+                          ConVarRecDeclListVar(
+                            ConVarRecDeclListVar(
+                              ConVarRecDeclListVar(
+                                ConVarRecDeclListVar(
+                                  ConVarRecDeclListVar(
+                                    ConVarRecDeclListVar(
+                                      ConVarRecDeclListVar(
+                                        ConVarRecDeclListVar(
+                                          ConVarRecDeclListVar(
+                                            ConVarRecDeclListVar(
+                                              ConVarRecDeclListVar(
+                                                ConVarRecDeclListCon(
+                                                  ConVarRecDeclListCon(
+                                                    ConVarRecDeclListCon(
+                                                      ConVarRecDeclListCon(
+                                                        ConVarRecDeclListCon(
+                                                          ConVarRecDeclListCon(
+                                                            ConVarRecDeclListCon(
+                                                              ConVarRecDeclListCon(
+                                                                ConVarRecDeclListCon(
+                                                                  ConVarRecDeclListCon(
+                                                                    ConVarRecDeclListCon(
+                                                                      ConVarRecDeclListCon(
+                                                                        ConVarRecDeclListCon(
+                                                                          ConVarRecDeclListCon(
+                                                                            ConVarRecDeclListCon(
+                                                                              ConVarRecDeclListCon(
+                                                                                ConVarRecDeclListCon(
+                                                                                  ConVarRecDeclListCon(
+                                                                                    ConVarRecDeclListCon(
+                                                                                      ConVarRecDeclListCon(
+                                                                                        ConVarRecDeclListCon(
+                                                                                          ConVarRecDeclListCon(
+                                                                                            ConVarRecDeclListCon(
+                                                                                              ConVarRecDeclListCon(
+                                                                                                ConVarRecDeclListCon(
+                                                                                                  ConVarRecDeclListCon(
+                                                                                                    ConVarRecDeclListEpsilon(
+                                                                                                    ) [ConVarRecDeclListEpsilon]
+                                                                                                    ConstDeclList(
+                                                                                                      Type(
+                                                                                                       bool
+                                                                                                      ) [Type]
+                                                                                                      ConstDec(
+                                                                                                       fleg1
+                                                                                                        BoolConst(
+                                                                                                         1
+                                                                                                        ) [BoolConst]
+                                                                                                      ) [ConstDec]
+                                                                                                      MoreConstDeclEpsilon(
+                                                                                                      ) [MoreConstDeclEpsilon]
+                                                                                                    ) [ConstDeclList]
+                                                                                                  ) [ConVarRecDeclListCon]
+                                                                                                  ConstDeclList(
+                                                                                                    Type(
+                                                                                                     bool
+                                                                                                    ) [Type]
+                                                                                                    ConstDec(
+                                                                                                     fleg2
+                                                                                                      BoolConst(
+                                                                                                       0
+                                                                                                      ) [BoolConst]
+                                                                                                    ) [ConstDec]
+                                                                                                    MoreConstDeclEpsilon(
+                                                                                                    ) [MoreConstDeclEpsilon]
+                                                                                                  ) [ConstDeclList]
+                                                                                                ) [ConVarRecDeclListCon]
+                                                                                                ConstDeclList(
+                                                                                                  Type(
+                                                                                                   bool
+                                                                                                  ) [Type]
+                                                                                                  ConstDec(
+                                                                                                   fleg3
+                                                                                                    NumConst(
+                                                                                                     0
+                                                                                                    ) [NumConst]
+                                                                                                  ) [ConstDec]
+                                                                                                  MoreConstDeclEpsilon(
+                                                                                                  ) [MoreConstDeclEpsilon]
+                                                                                                ) [ConstDeclList]
+                                                                                              ) [ConVarRecDeclListCon]
+                                                                                              ConstDeclList(
+                                                                                                Type(
+                                                                                                 bool
+                                                                                                ) [Type]
+                                                                                                ConstDec(
+                                                                                                 fleg4
+                                                                                                  NumConst(
+                                                                                                   1
+                                                                                                  ) [NumConst]
+                                                                                                ) [ConstDec]
+                                                                                                MoreConstDeclEpsilon(
+                                                                                                ) [MoreConstDeclEpsilon]
+                                                                                              ) [ConstDeclList]
+                                                                                            ) [ConVarRecDeclListCon]
+                                                                                            ConstDeclList(
+                                                                                              Type(
+                                                                                               bool
+                                                                                              ) [Type]
+                                                                                              ConstDec(
+                                                                                               fleg5
+                                                                                                NumConst(
+                                                                                                 2
+                                                                                                ) [NumConst]
+                                                                                              ) [ConstDec]
+                                                                                              MoreConstDeclEpsilon(
+                                                                                              ) [MoreConstDeclEpsilon]
+                                                                                            ) [ConstDeclList]
+                                                                                          ) [ConVarRecDeclListCon]
+                                                                                          ConstDeclList(
+                                                                                            Type(
+                                                                                             bool
+                                                                                            ) [Type]
+                                                                                            ConstDec(
+                                                                                             fleg6
+                                                                                              CharConst(
+                                                                                               a
+                                                                                              ) [CharConst]
+                                                                                            ) [ConstDec]
+                                                                                            MoreConstDeclEpsilon(
+                                                                                            ) [MoreConstDeclEpsilon]
+                                                                                          ) [ConstDeclList]
+                                                                                        ) [ConVarRecDeclListCon]
+                                                                                        ConstDeclList(
+                                                                                          Type(
+                                                                                           int
+                                                                                          ) [Type]
+                                                                                          ConstDec(
+                                                                                           broj1
+                                                                                            BoolConst(
+                                                                                             1
+                                                                                            ) [BoolConst]
+                                                                                          ) [ConstDec]
+                                                                                          MoreConstDeclEpsilon(
+                                                                                          ) [MoreConstDeclEpsilon]
+                                                                                        ) [ConstDeclList]
+                                                                                      ) [ConVarRecDeclListCon]
+                                                                                      ConstDeclList(
+                                                                                        Type(
+                                                                                         int
+                                                                                        ) [Type]
+                                                                                        ConstDec(
+                                                                                         broj2
+                                                                                          BoolConst(
+                                                                                           0
+                                                                                          ) [BoolConst]
+                                                                                        ) [ConstDec]
+                                                                                        MoreConstDeclEpsilon(
+                                                                                        ) [MoreConstDeclEpsilon]
+                                                                                      ) [ConstDeclList]
+                                                                                    ) [ConVarRecDeclListCon]
+                                                                                    ConstDeclList(
+                                                                                      Type(
+                                                                                       int
+                                                                                      ) [Type]
+                                                                                      ConstDec(
+                                                                                       broj3
+                                                                                        NumConst(
+                                                                                         0
+                                                                                        ) [NumConst]
+                                                                                      ) [ConstDec]
+                                                                                      MoreConstDeclEpsilon(
+                                                                                      ) [MoreConstDeclEpsilon]
+                                                                                    ) [ConstDeclList]
+                                                                                  ) [ConVarRecDeclListCon]
+                                                                                  ConstDeclList(
+                                                                                    Type(
+                                                                                     int
+                                                                                    ) [Type]
+                                                                                    ConstDec(
+                                                                                     broj4
+                                                                                      NumConst(
+                                                                                       1
+                                                                                      ) [NumConst]
+                                                                                    ) [ConstDec]
+                                                                                    MoreConstDeclEpsilon(
+                                                                                    ) [MoreConstDeclEpsilon]
+                                                                                  ) [ConstDeclList]
+                                                                                ) [ConVarRecDeclListCon]
+                                                                                ConstDeclList(
+                                                                                  Type(
+                                                                                   int
+                                                                                  ) [Type]
+                                                                                  ConstDec(
+                                                                                   broj5
+                                                                                    NumConst(
+                                                                                     2
+                                                                                    ) [NumConst]
+                                                                                  ) [ConstDec]
+                                                                                  MoreConstDeclEpsilon(
+                                                                                  ) [MoreConstDeclEpsilon]
+                                                                                ) [ConstDeclList]
+                                                                              ) [ConVarRecDeclListCon]
+                                                                              ConstDeclList(
+                                                                                Type(
+                                                                                 int
+                                                                                ) [Type]
+                                                                                ConstDec(
+                                                                                 broj7
+                                                                                  CharConst(
+                                                                                   a
+                                                                                  ) [CharConst]
+                                                                                ) [ConstDec]
+                                                                                MoreConstDeclEpsilon(
+                                                                                ) [MoreConstDeclEpsilon]
+                                                                              ) [ConstDeclList]
+                                                                            ) [ConVarRecDeclListCon]
+                                                                            ConstDeclList(
+                                                                              Type(
+                                                                               int
+                                                                              ) [Type]
+                                                                              ConstDec(
+                                                                               broj4
+                                                                                NumConst(
+                                                                                 4
+                                                                                ) [NumConst]
+                                                                              ) [ConstDec]
+                                                                              MoreConstDeclEpsilon(
+                                                                              ) [MoreConstDeclEpsilon]
+                                                                            ) [ConstDeclList]
+                                                                          ) [ConVarRecDeclListCon]
+                                                                          ConstDeclList(
+                                                                            Type(
+                                                                             int
+                                                                            ) [Type]
+                                                                            ConstDec(
+                                                                             fleg2
+                                                                              NumConst(
+                                                                               1
+                                                                              ) [NumConst]
+                                                                            ) [ConstDec]
+                                                                            MoreConstDeclEpsilon(
+                                                                            ) [MoreConstDeclEpsilon]
+                                                                          ) [ConstDeclList]
+                                                                        ) [ConVarRecDeclListCon]
+                                                                        ConstDeclList(
+                                                                          Type(
+                                                                           char
+                                                                          ) [Type]
+                                                                          ConstDec(
+                                                                           char1
+                                                                            BoolConst(
+                                                                             1
+                                                                            ) [BoolConst]
+                                                                          ) [ConstDec]
+                                                                          MoreConstDeclEpsilon(
+                                                                          ) [MoreConstDeclEpsilon]
+                                                                        ) [ConstDeclList]
+                                                                      ) [ConVarRecDeclListCon]
+                                                                      ConstDeclList(
+                                                                        Type(
+                                                                         char
+                                                                        ) [Type]
+                                                                        ConstDec(
+                                                                         char2
+                                                                          BoolConst(
+                                                                           0
+                                                                          ) [BoolConst]
+                                                                        ) [ConstDec]
+                                                                        MoreConstDeclEpsilon(
+                                                                        ) [MoreConstDeclEpsilon]
+                                                                      ) [ConstDeclList]
+                                                                    ) [ConVarRecDeclListCon]
+                                                                    ConstDeclList(
+                                                                      Type(
+                                                                       char
+                                                                      ) [Type]
+                                                                      ConstDec(
+                                                                       char3
+                                                                        NumConst(
+                                                                         0
+                                                                        ) [NumConst]
+                                                                      ) [ConstDec]
+                                                                      MoreConstDeclEpsilon(
+                                                                      ) [MoreConstDeclEpsilon]
+                                                                    ) [ConstDeclList]
+                                                                  ) [ConVarRecDeclListCon]
+                                                                  ConstDeclList(
+                                                                    Type(
+                                                                     char
+                                                                    ) [Type]
+                                                                    ConstDec(
+                                                                     char4
+                                                                      NumConst(
+                                                                       1
+                                                                      ) [NumConst]
+                                                                    ) [ConstDec]
+                                                                    MoreConstDeclEpsilon(
+                                                                    ) [MoreConstDeclEpsilon]
+                                                                  ) [ConstDeclList]
+                                                                ) [ConVarRecDeclListCon]
+                                                                ConstDeclList(
+                                                                  Type(
+                                                                   char
+                                                                  ) [Type]
+                                                                  ConstDec(
+                                                                   char5
+                                                                    NumConst(
+                                                                     2
+                                                                    ) [NumConst]
+                                                                  ) [ConstDec]
+                                                                  MoreConstDeclEpsilon(
+                                                                  ) [MoreConstDeclEpsilon]
+                                                                ) [ConstDeclList]
+                                                              ) [ConVarRecDeclListCon]
+                                                              ConstDeclList(
+                                                                Type(
+                                                                 char
+                                                                ) [Type]
+                                                                ConstDec(
+                                                                 char7
+                                                                  CharConst(
+                                                                   a
+                                                                  ) [CharConst]
+                                                                ) [ConstDec]
+                                                                MoreConstDeclEpsilon(
+                                                                ) [MoreConstDeclEpsilon]
+                                                              ) [ConstDeclList]
+                                                            ) [ConVarRecDeclListCon]
+                                                            ConstDeclList(
+                                                              Type(
+                                                               char
+                                                              ) [Type]
+                                                              ConstDec(
+                                                               char8
+                                                                NumConst(
+                                                                 4
+                                                                ) [NumConst]
+                                                              ) [ConstDec]
+                                                              MoreConstDeclEpsilon(
+                                                              ) [MoreConstDeclEpsilon]
+                                                            ) [ConstDeclList]
+                                                          ) [ConVarRecDeclListCon]
+                                                          ConstDeclList(
+                                                            Type(
+                                                             char
+                                                            ) [Type]
+                                                            ConstDec(
+                                                             char9
+                                                              CharConst(
+                                                               b
+                                                              ) [CharConst]
+                                                            ) [ConstDec]
+                                                            MoreConstDeclEpsilon(
+                                                            ) [MoreConstDeclEpsilon]
+                                                          ) [ConstDeclList]
+                                                        ) [ConVarRecDeclListCon]
+                                                        ConstDeclList(
+                                                          Type(
+                                                           char
+                                                          ) [Type]
+                                                          ConstDec(
+                                                           broj4
+                                                            NumConst(
+                                                             4
+                                                            ) [NumConst]
+                                                          ) [ConstDec]
+                                                          MoreConstDeclEpsilon(
+                                                          ) [MoreConstDeclEpsilon]
+                                                        ) [ConstDeclList]
+                                                      ) [ConVarRecDeclListCon]
+                                                      ConstDeclList(
+                                                        Type(
+                                                         char
+                                                        ) [Type]
+                                                        ConstDec(
+                                                         fleg1
+                                                          NumConst(
+                                                           1
+                                                          ) [NumConst]
+                                                        ) [ConstDec]
+                                                        MoreConstDeclEpsilon(
+                                                        ) [MoreConstDeclEpsilon]
+                                                      ) [ConstDeclList]
+                                                    ) [ConVarRecDeclListCon]
+                                                    ConstDeclList(
+                                                      Type(
+                                                       int
+                                                      ) [Type]
+                                                      ConstDec(
+                                                       char7
+                                                        NumConst(
+                                                         1
+                                                        ) [NumConst]
+                                                      ) [ConstDec]
+                                                      MoreConstDeclEpsilon(
+                                                      ) [MoreConstDeclEpsilon]
+                                                    ) [ConstDeclList]
+                                                  ) [ConVarRecDeclListCon]
+                                                  ConstDeclList(
+                                                    Type(
+                                                     bool
+                                                    ) [Type]
+                                                    ConstDec(
+                                                     char9
+                                                      BoolConst(
+                                                       0
+                                                      ) [BoolConst]
+                                                    ) [ConstDec]
+                                                    MoreConstDeclEpsilon(
+                                                    ) [MoreConstDeclEpsilon]
+                                                  ) [ConstDeclList]
+                                                ) [ConVarRecDeclListCon]
+                                                VarDeclList(
+                                                  Type(
+                                                   bool
+                                                  ) [Type]
+                                                  VarDec(
+                                                    VarName(
+                                                     f1
+                                                    ) [VarName]
+                                                    Array_No(
+                                                    ) [Array_No]
+                                                  ) [VarDec]
+                                                  MoreVarDeclaration(
+                                                    VarDec(
+                                                      VarName(
+                                                       f2
+                                                      ) [VarName]
+                                                      Array_No(
+                                                      ) [Array_No]
+                                                    ) [VarDec]
+                                                    MoreVarDeclaration(
+                                                      VarDec(
+                                                        VarName(
+                                                         f3
+                                                        ) [VarName]
+                                                        Array_No(
+                                                        ) [Array_No]
+                                                      ) [VarDec]
+                                                      MoreVarDeclaration(
+                                                        VarDec(
+                                                          VarName(
+                                                           f4
+                                                          ) [VarName]
+                                                          Array_No(
+                                                          ) [Array_No]
+                                                        ) [VarDec]
+                                                        MoreVarDec_Epsilon(
+                                                        ) [MoreVarDec_Epsilon]
+                                                      ) [MoreVarDeclaration]
+                                                    ) [MoreVarDeclaration]
+                                                  ) [MoreVarDeclaration]
+                                                ) [VarDeclList]
+                                              ) [ConVarRecDeclListVar]
+                                              VarDeclList(
+                                                Type(
+                                                 bool
+                                                ) [Type]
+                                                VarDec(
+                                                  VarName(
+                                                   fniz1
+                                                  ) [VarName]
+                                                  Array_Yes(
+                                                  ) [Array_Yes]
+                                                ) [VarDec]
+                                                MoreVarDeclaration(
+                                                  VarDec(
+                                                    VarName(
+                                                     fniz2
+                                                    ) [VarName]
+                                                    Array_Yes(
+                                                    ) [Array_Yes]
+                                                  ) [VarDec]
+                                                  MoreVarDeclaration(
+                                                    VarDec(
+                                                      VarName(
+                                                       fniz3
+                                                      ) [VarName]
+                                                      Array_Yes(
+                                                      ) [Array_Yes]
+                                                    ) [VarDec]
+                                                    MoreVarDeclaration(
+                                                      VarDec(
+                                                        VarName(
+                                                         fniz4
+                                                        ) [VarName]
+                                                        Array_Yes(
+                                                        ) [Array_Yes]
+                                                      ) [VarDec]
+                                                      MoreVarDec_Epsilon(
+                                                      ) [MoreVarDec_Epsilon]
+                                                    ) [MoreVarDeclaration]
+                                                  ) [MoreVarDeclaration]
+                                                ) [MoreVarDeclaration]
+                                              ) [VarDeclList]
+                                            ) [ConVarRecDeclListVar]
+                                            VarDeclList(
+                                              Type(
+                                               bool
+                                              ) [Type]
+                                              VarDec(
+                                                VarName(
+                                                 fg1
+                                                ) [VarName]
+                                                Array_No(
+                                                ) [Array_No]
+                                              ) [VarDec]
+                                              MoreVarDeclaration(
+                                                VarDec(
+                                                  VarName(
+                                                   fg2
+                                                  ) [VarName]
+                                                  Array_Yes(
+                                                  ) [Array_Yes]
+                                                ) [VarDec]
+                                                MoreVarDec_Epsilon(
+                                                ) [MoreVarDec_Epsilon]
+                                              ) [MoreVarDeclaration]
+                                            ) [VarDeclList]
+                                          ) [ConVarRecDeclListVar]
+                                          VarDeclList(
+                                            Type(
+                                             bool
+                                            ) [Type]
+                                            VarDec(
+                                              VarName(
+                                               fg3
+                                              ) [VarName]
+                                              Array_No(
+                                              ) [Array_No]
+                                            ) [VarDec]
+                                            MoreVarDeclaration(
+                                              VarDec(
+                                                VarName(
+                                                 fg4
+                                                ) [VarName]
+                                                Array_Yes(
+                                                ) [Array_Yes]
+                                              ) [VarDec]
+                                              MoreVarDeclaration(
+                                                VarDec(
+                                                  VarName(
+                                                   fg5
+                                                  ) [VarName]
+                                                  Array_No(
+                                                  ) [Array_No]
+                                                ) [VarDec]
+                                                MoreVarDec_Epsilon(
+                                                ) [MoreVarDec_Epsilon]
+                                              ) [MoreVarDeclaration]
+                                            ) [MoreVarDeclaration]
+                                          ) [VarDeclList]
+                                        ) [ConVarRecDeclListVar]
+                                        VarDeclList(
+                                          Type(
+                                           bool
+                                          ) [Type]
+                                          VarDec(
+                                            VarName(
+                                             f1
+                                            ) [VarName]
+                                            Array_No(
+                                            ) [Array_No]
+                                          ) [VarDec]
+                                          MoreVarDec_Epsilon(
+                                          ) [MoreVarDec_Epsilon]
+                                        ) [VarDeclList]
+                                      ) [ConVarRecDeclListVar]
+                                      VarDeclList(
+                                        Type(
+                                         bool
+                                        ) [Type]
+                                        VarDec(
+                                          VarName(
+                                           fniz1
+                                          ) [VarName]
+                                          Array_Yes(
+                                          ) [Array_Yes]
+                                        ) [VarDec]
+                                        MoreVarDec_Epsilon(
+                                        ) [MoreVarDec_Epsilon]
+                                      ) [VarDeclList]
+                                    ) [ConVarRecDeclListVar]
+                                    VarDeclList(
+                                      Type(
+                                       int
+                                      ) [Type]
+                                      VarDec(
+                                        VarName(
+                                         i1
+                                        ) [VarName]
+                                        Array_No(
+                                        ) [Array_No]
+                                      ) [VarDec]
+                                      MoreVarDeclaration(
+                                        VarDec(
+                                          VarName(
+                                           i2
+                                          ) [VarName]
+                                          Array_No(
+                                          ) [Array_No]
+                                        ) [VarDec]
+                                        MoreVarDeclaration(
+                                          VarDec(
+                                            VarName(
+                                             i3
+                                            ) [VarName]
+                                            Array_No(
+                                            ) [Array_No]
+                                          ) [VarDec]
+                                          MoreVarDeclaration(
+                                            VarDec(
+                                              VarName(
+                                               i4
+                                              ) [VarName]
+                                              Array_No(
+                                              ) [Array_No]
+                                            ) [VarDec]
+                                            MoreVarDec_Epsilon(
+                                            ) [MoreVarDec_Epsilon]
+                                          ) [MoreVarDeclaration]
+                                        ) [MoreVarDeclaration]
+                                      ) [MoreVarDeclaration]
+                                    ) [VarDeclList]
+                                  ) [ConVarRecDeclListVar]
+                                  VarDeclList(
+                                    Type(
+                                     int
+                                    ) [Type]
+                                    VarDec(
+                                      VarName(
+                                       iniz1
+                                      ) [VarName]
+                                      Array_Yes(
+                                      ) [Array_Yes]
+                                    ) [VarDec]
+                                    MoreVarDeclaration(
+                                      VarDec(
+                                        VarName(
+                                         iniz2
+                                        ) [VarName]
+                                        Array_Yes(
+                                        ) [Array_Yes]
+                                      ) [VarDec]
+                                      MoreVarDeclaration(
+                                        VarDec(
+                                          VarName(
+                                           iniz3
+                                          ) [VarName]
+                                          Array_Yes(
+                                          ) [Array_Yes]
+                                        ) [VarDec]
+                                        MoreVarDeclaration(
+                                          VarDec(
+                                            VarName(
+                                             iniz4
+                                            ) [VarName]
+                                            Array_Yes(
+                                            ) [Array_Yes]
+                                          ) [VarDec]
+                                          MoreVarDec_Epsilon(
+                                          ) [MoreVarDec_Epsilon]
+                                        ) [MoreVarDeclaration]
+                                      ) [MoreVarDeclaration]
+                                    ) [MoreVarDeclaration]
+                                  ) [VarDeclList]
+                                ) [ConVarRecDeclListVar]
+                                VarDeclList(
+                                  Type(
+                                   int
+                                  ) [Type]
+                                  VarDec(
+                                    VarName(
+                                     ig1
+                                    ) [VarName]
+                                    Array_No(
+                                    ) [Array_No]
+                                  ) [VarDec]
+                                  MoreVarDeclaration(
+                                    VarDec(
+                                      VarName(
+                                       ig2
+                                      ) [VarName]
+                                      Array_Yes(
+                                      ) [Array_Yes]
+                                    ) [VarDec]
+                                    MoreVarDec_Epsilon(
+                                    ) [MoreVarDec_Epsilon]
+                                  ) [MoreVarDeclaration]
+                                ) [VarDeclList]
+                              ) [ConVarRecDeclListVar]
+                              VarDeclList(
+                                Type(
+                                 int
+                                ) [Type]
+                                VarDec(
+                                  VarName(
+                                   ig3
+                                  ) [VarName]
+                                  Array_No(
+                                  ) [Array_No]
+                                ) [VarDec]
+                                MoreVarDeclaration(
+                                  VarDec(
+                                    VarName(
+                                     ig4
+                                    ) [VarName]
+                                    Array_Yes(
+                                    ) [Array_Yes]
+                                  ) [VarDec]
+                                  MoreVarDeclaration(
+                                    VarDec(
+                                      VarName(
+                                       ig5
+                                      ) [VarName]
+                                      Array_No(
+                                      ) [Array_No]
+                                    ) [VarDec]
+                                    MoreVarDec_Epsilon(
+                                    ) [MoreVarDec_Epsilon]
+                                  ) [MoreVarDeclaration]
+                                ) [MoreVarDeclaration]
+                              ) [VarDeclList]
+                            ) [ConVarRecDeclListVar]
+                            VarDeclList(
+                              Type(
+                               int
+                              ) [Type]
+                              VarDec(
+                                VarName(
+                                 i1
+                                ) [VarName]
+                                Array_No(
+                                ) [Array_No]
+                              ) [VarDec]
+                              MoreVarDec_Epsilon(
+                              ) [MoreVarDec_Epsilon]
+                            ) [VarDeclList]
+                          ) [ConVarRecDeclListVar]
+                          VarDeclList(
+                            Type(
+                             int
+                            ) [Type]
+                            VarDec(
+                              VarName(
+                               iniz1
+                              ) [VarName]
+                              Array_Yes(
+                              ) [Array_Yes]
+                            ) [VarDec]
+                            MoreVarDec_Epsilon(
+                            ) [MoreVarDec_Epsilon]
+                          ) [VarDeclList]
+                        ) [ConVarRecDeclListVar]
+                        VarDeclList(
+                          Type(
+                           int
+                          ) [Type]
+                          VarDec(
+                            VarName(
+                             f1
+                            ) [VarName]
+                            Array_No(
+                            ) [Array_No]
+                          ) [VarDec]
+                          MoreVarDec_Epsilon(
+                          ) [MoreVarDec_Epsilon]
+                        ) [VarDeclList]
+                      ) [ConVarRecDeclListVar]
+                      VarDeclList(
+                        Type(
+                         int
+                        ) [Type]
+                        VarDec(
+                          VarName(
+                           fniz1
+                          ) [VarName]
+                          Array_Yes(
+                          ) [Array_Yes]
+                        ) [VarDec]
+                        MoreVarDec_Epsilon(
+                        ) [MoreVarDec_Epsilon]
+                      ) [VarDeclList]
+                    ) [ConVarRecDeclListVar]
+                    VarDeclList(
+                      Type(
+                       char
+                      ) [Type]
+                      VarDec(
+                        VarName(
+                         c1
+                        ) [VarName]
+                        Array_No(
+                        ) [Array_No]
+                      ) [VarDec]
+                      MoreVarDeclaration(
+                        VarDec(
+                          VarName(
+                           c2
+                          ) [VarName]
+                          Array_No(
+                          ) [Array_No]
+                        ) [VarDec]
+                        MoreVarDeclaration(
+                          VarDec(
+                            VarName(
+                             c3
+                            ) [VarName]
+                            Array_No(
+                            ) [Array_No]
+                          ) [VarDec]
+                          MoreVarDeclaration(
+                            VarDec(
+                              VarName(
+                               c4
+                              ) [VarName]
+                              Array_No(
+                              ) [Array_No]
+                            ) [VarDec]
+                            MoreVarDec_Epsilon(
+                            ) [MoreVarDec_Epsilon]
+                          ) [MoreVarDeclaration]
+                        ) [MoreVarDeclaration]
+                      ) [MoreVarDeclaration]
+                    ) [VarDeclList]
+                  ) [ConVarRecDeclListVar]
+                  VarDeclList(
+                    Type(
+                     char
+                    ) [Type]
+                    VarDec(
+                      VarName(
+                       cniz1
+                      ) [VarName]
+                      Array_Yes(
+                      ) [Array_Yes]
+                    ) [VarDec]
+                    MoreVarDeclaration(
+                      VarDec(
+                        VarName(
+                         cniz2
+                        ) [VarName]
+                        Array_Yes(
+                        ) [Array_Yes]
+                      ) [VarDec]
+                      MoreVarDeclaration(
+                        VarDec(
+                          VarName(
+                           cniz3
+                          ) [VarName]
+                          Array_Yes(
+                          ) [Array_Yes]
+                        ) [VarDec]
+                        MoreVarDeclaration(
+                          VarDec(
+                            VarName(
+                             cniz4
+                            ) [VarName]
+                            Array_Yes(
+                            ) [Array_Yes]
+                          ) [VarDec]
+                          MoreVarDec_Epsilon(
+                          ) [MoreVarDec_Epsilon]
+                        ) [MoreVarDeclaration]
+                      ) [MoreVarDeclaration]
+                    ) [MoreVarDeclaration]
+                  ) [VarDeclList]
+                ) [ConVarRecDeclListVar]
+                VarDeclList(
+                  Type(
+                   char
+                  ) [Type]
+                  VarDec(
+                    VarName(
+                     cg1
+                    ) [VarName]
+                    Array_No(
+                    ) [Array_No]
+                  ) [VarDec]
+                  MoreVarDeclaration(
+                    VarDec(
+                      VarName(
+                       cg2
+                      ) [VarName]
+                      Array_Yes(
+                      ) [Array_Yes]
+                    ) [VarDec]
+                    MoreVarDec_Epsilon(
+                    ) [MoreVarDec_Epsilon]
+                  ) [MoreVarDeclaration]
+                ) [VarDeclList]
+              ) [ConVarRecDeclListVar]
+              VarDeclList(
+                Type(
+                 char
+                ) [Type]
+                VarDec(
+                  VarName(
+                   cg3
+                  ) [VarName]
+                  Array_No(
+                  ) [Array_No]
+                ) [VarDec]
+                MoreVarDeclaration(
+                  VarDec(
+                    VarName(
+                     cg4
+                    ) [VarName]
+                    Array_Yes(
+                    ) [Array_Yes]
+                  ) [VarDec]
+                  MoreVarDeclaration(
+                    VarDec(
+                      VarName(
+                       cg5
+                      ) [VarName]
+                      Array_No(
+                      ) [Array_No]
+                    ) [VarDec]
+                    MoreVarDec_Epsilon(
+                    ) [MoreVarDec_Epsilon]
+                  ) [MoreVarDeclaration]
+                ) [MoreVarDeclaration]
+              ) [VarDeclList]
+            ) [ConVarRecDeclListVar]
+            VarDeclList(
+              Type(
+               char
+              ) [Type]
+              VarDec(
+                VarName(
+                 c1
+                ) [VarName]
+                Array_No(
+                ) [Array_No]
+              ) [VarDec]
+              MoreVarDec_Epsilon(
+              ) [MoreVarDec_Epsilon]
+            ) [VarDeclList]
+          ) [ConVarRecDeclListVar]
+          VarDeclList(
+            Type(
+             char
+            ) [Type]
+            VarDec(
+              VarName(
+               cniz1
+              ) [VarName]
+              Array_Yes(
+              ) [Array_Yes]
+            ) [VarDec]
+            MoreVarDec_Epsilon(
+            ) [MoreVarDec_Epsilon]
+          ) [VarDeclList]
+        ) [ConVarRecDeclListVar]
+        VarDeclList(
+          Type(
+           char
+          ) [Type]
+          VarDec(
+            VarName(
+             f1
+            ) [VarName]
+            Array_No(
+            ) [Array_No]
+          ) [VarDec]
+          MoreVarDec_Epsilon(
+          ) [MoreVarDec_Epsilon]
+        ) [VarDeclList]
+      ) [ConVarRecDeclListVar]
+      VarDeclList(
+        Type(
+         char
+        ) [Type]
+        VarDec(
+          VarName(
+           fniz1
+          ) [VarName]
+          Array_Yes(
+          ) [Array_Yes]
+        ) [VarDec]
+        MoreVarDec_Epsilon(
+        ) [MoreVarDec_Epsilon]
+      ) [VarDeclList]
+    ) [ConVarRecDeclListVar]
+    VarDeclList(
+      Type(
+       char
+      ) [Type]
+      VarDec(
+        VarName(
+         i1
+        ) [VarName]
+        Array_No(
+        ) [Array_No]
+      ) [VarDec]
+      MoreVarDec_Epsilon(
+      ) [MoreVarDec_Epsilon]
+    ) [VarDeclList]
+  ) [ConVarRecDeclListVar]
+  MethodList_Yes(
+    MethodList_Yes(
+      MethodList_Yes(
+        MethodList_Yes(
+          MethodList_Yes(
+            MethodList_Yes(
+              MethodList_Yes(
+                MethodList_Yes(
+                  MethodList_Yes(
+                    MethodList_Yes(
+                      MethodList_Yes(
+                        MethodList_Yes(
+                          MethodList_Yes(
+                            MethodList_Yes(
+                              MethodList_Yes(
+                                MethodList_Yes(
+                                  MethodList_Yes(
+                                    MethodList_Yes(
+                                      MethodList_Yes(
+                                        MethodList_Yes(
+                                          MethodList_Epsilon(
+                                          ) [MethodList_Epsilon]
+                                          MethodDecl(
+                                            TypeOrVoidName_Type(
+                                              Type(
+                                               int
+                                              ) [Type]
+                                            ) [TypeOrVoidName_Type]
+                                            MethName(
+                                             main
+                                            ) [MethName]
+                                            FormPars_No(
+                                            ) [FormPars_No]
+                                            VarDeclListRec_Epsilon(
+                                            ) [VarDeclListRec_Epsilon]
+                                            StatementListRec_Epsilon(
+                                            ) [StatementListRec_Epsilon]
+                                          ) [MethodDecl]
+                                        ) [MethodList_Yes]
+                                        MethodDecl(
+                                          TypeOrVoidName_Type(
+                                            Type(
+                                             char
+                                            ) [Type]
+                                          ) [TypeOrVoidName_Type]
+                                          MethName(
+                                           main
+                                          ) [MethName]
+                                          FormPars_No(
+                                          ) [FormPars_No]
+                                          VarDeclListRec_Epsilon(
+                                          ) [VarDeclListRec_Epsilon]
+                                          StatementListRec_Epsilon(
+                                          ) [StatementListRec_Epsilon]
+                                        ) [MethodDecl]
+                                      ) [MethodList_Yes]
+                                      MethodDecl(
+                                        TypeOrVoidName_Type(
+                                          Type(
+                                           bool
+                                          ) [Type]
+                                        ) [TypeOrVoidName_Type]
+                                        MethName(
+                                         main
+                                        ) [MethName]
+                                        FormPars_No(
+                                        ) [FormPars_No]
+                                        VarDeclListRec_Epsilon(
+                                        ) [VarDeclListRec_Epsilon]
+                                        StatementListRec_Epsilon(
+                                        ) [StatementListRec_Epsilon]
+                                      ) [MethodDecl]
+                                    ) [MethodList_Yes]
+                                    MethodDecl(
+                                      TypeOrVoidName_Void(
+                                      ) [TypeOrVoidName_Void]
+                                      MethName(
+                                       main
+                                      ) [MethName]
+                                      FormPars_No(
+                                      ) [FormPars_No]
+                                      VarDeclListRec_Epsilon(
+                                      ) [VarDeclListRec_Epsilon]
+                                      StatementListRec_Epsilon(
+                                      ) [StatementListRec_Epsilon]
+                                    ) [MethodDecl]
+                                  ) [MethodList_Yes]
+                                  MethodDecl(
+                                    TypeOrVoidName_Void(
+                                    ) [TypeOrVoidName_Void]
+                                    MethName(
+                                     f_void
+                                    ) [MethName]
+                                    FormPars_No(
+                                    ) [FormPars_No]
+                                    VarDeclListRec_Epsilon(
+                                    ) [VarDeclListRec_Epsilon]
+                                    StatementListRec_Epsilon(
+                                    ) [StatementListRec_Epsilon]
+                                  ) [MethodDecl]
+                                ) [MethodList_Yes]
+                                MethodDecl(
+                                  TypeOrVoidName_Void(
+                                  ) [TypeOrVoidName_Void]
+                                  MethName(
+                                   f_void2
+                                  ) [MethName]
+                                  FormPars_No(
+                                  ) [FormPars_No]
+                                  VarDeclListRec_Epsilon(
+                                  ) [VarDeclListRec_Epsilon]
+                                  StatementListRec_Yes(
+                                    StatementListRec_Epsilon(
+                                    ) [StatementListRec_Epsilon]
+                                    StatementSingle(
+                                      SingleStatement_ReturnExpr(
+                                        Expr(
+                                          AddOpTermListRec_Firt(
+                                            Term(
+                                              FactorMulopListRec_First(
+                                                Factor(
+                                                  MayMinus_No(
+                                                  ) [MayMinus_No]
+                                                  Factor_Num(
+                                                   1
+                                                  ) [Factor_Num]
+                                                ) [Factor]
+                                              ) [FactorMulopListRec_First]
+                                            ) [Term]
+                                          ) [AddOpTermListRec_Firt]
+                                        ) [Expr]
+                                      ) [SingleStatement_ReturnExpr]
+                                    ) [StatementSingle]
+                                  ) [StatementListRec_Yes]
+                                ) [MethodDecl]
+                              ) [MethodList_Yes]
+                              MethodDecl(
+                                TypeOrVoidName_Void(
+                                ) [TypeOrVoidName_Void]
+                                MethName(
+                                 f_void2
+                                ) [MethName]
+                                FormPars_No(
+                                ) [FormPars_No]
+                                VarDeclListRec_Epsilon(
+                                ) [VarDeclListRec_Epsilon]
+                                StatementListRec_Yes(
+                                  StatementListRec_Epsilon(
+                                  ) [StatementListRec_Epsilon]
+                                  StatementSingle(
+                                    SingleStatement_Return(
+                                    ) [SingleStatement_Return]
+                                  ) [StatementSingle]
+                                ) [StatementListRec_Yes]
+                              ) [MethodDecl]
+                            ) [MethodList_Yes]
+                            MethodDecl(
+                              TypeOrVoidName_Type(
+                                Type(
+                                 int
+                                ) [Type]
+                              ) [TypeOrVoidName_Type]
+                              MethName(
+                               f_int
+                              ) [MethName]
+                              FormPars_No(
+                              ) [FormPars_No]
+                              VarDeclListRec_Epsilon(
+                              ) [VarDeclListRec_Epsilon]
+                              StatementListRec_Yes(
+                                StatementListRec_Epsilon(
+                                ) [StatementListRec_Epsilon]
+                                StatementSingle(
+                                  SingleStatement_ReturnExpr(
+                                    Expr(
+                                      AddOpTermListRec_Firt(
+                                        Term(
+                                          FactorMulopListRec_First(
+                                            Factor(
+                                              MayMinus_No(
+                                              ) [MayMinus_No]
+                                              Factor_Num(
+                                               0
+                                              ) [Factor_Num]
+                                            ) [Factor]
+                                          ) [FactorMulopListRec_First]
+                                        ) [Term]
+                                      ) [AddOpTermListRec_Firt]
+                                    ) [Expr]
+                                  ) [SingleStatement_ReturnExpr]
+                                ) [StatementSingle]
+                              ) [StatementListRec_Yes]
+                            ) [MethodDecl]
+                          ) [MethodList_Yes]
+                          MethodDecl(
+                            TypeOrVoidName_Type(
+                              Type(
+                               int
+                              ) [Type]
+                            ) [TypeOrVoidName_Type]
+                            MethName(
+                             f_int2
+                            ) [MethName]
+                            FormPars_No(
+                            ) [FormPars_No]
+                            VarDeclListRec_Epsilon(
+                            ) [VarDeclListRec_Epsilon]
+                            StatementListRec_Yes(
+                              StatementListRec_Epsilon(
+                              ) [StatementListRec_Epsilon]
+                              StatementSingle(
+                                SingleStatement_Return(
+                                ) [SingleStatement_Return]
+                              ) [StatementSingle]
+                            ) [StatementListRec_Yes]
+                          ) [MethodDecl]
+                        ) [MethodList_Yes]
+                        MethodDecl(
+                          TypeOrVoidName_Type(
+                            Type(
+                             int
+                            ) [Type]
+                          ) [TypeOrVoidName_Type]
+                          MethName(
+                           f_int3
+                          ) [MethName]
+                          FormPars_No(
+                          ) [FormPars_No]
+                          VarDeclListRec_Epsilon(
+                          ) [VarDeclListRec_Epsilon]
+                          StatementListRec_Epsilon(
+                          ) [StatementListRec_Epsilon]
+                        ) [MethodDecl]
+                      ) [MethodList_Yes]
+                      MethodDecl(
+                        TypeOrVoidName_Type(
+                          Type(
+                           int
+                          ) [Type]
+                        ) [TypeOrVoidName_Type]
+                        MethName(
+                         f_int3
+                        ) [MethName]
+                        FormPars_No(
+                        ) [FormPars_No]
+                        VarDeclListRec_Epsilon(
+                        ) [VarDeclListRec_Epsilon]
+                        StatementListRec_Yes(
+                          StatementListRec_Epsilon(
+                          ) [StatementListRec_Epsilon]
+                          StatementSingle(
+                            SingleStatement_ReturnExpr(
+                              Expr(
+                                AddOpTermListRec_Firt(
+                                  Term(
+                                    FactorMulopListRec_First(
+                                      Factor(
+                                        MayMinus_No(
+                                        ) [MayMinus_No]
+                                        Factor_Char(
+                                         a
+                                        ) [Factor_Char]
+                                      ) [Factor]
+                                    ) [FactorMulopListRec_First]
+                                  ) [Term]
+                                ) [AddOpTermListRec_Firt]
+                              ) [Expr]
+                            ) [SingleStatement_ReturnExpr]
+                          ) [StatementSingle]
+                        ) [StatementListRec_Yes]
+                      ) [MethodDecl]
+                    ) [MethodList_Yes]
+                    MethodDecl(
+                      TypeOrVoidName_Type(
+                        Type(
+                         int
+                        ) [Type]
+                      ) [TypeOrVoidName_Type]
+                      MethName(
+                       f_int4
+                      ) [MethName]
+                      FormPars_No(
+                      ) [FormPars_No]
+                      VarDeclListRec_Epsilon(
+                      ) [VarDeclListRec_Epsilon]
+                      StatementListRec_Yes(
+                        StatementListRec_Epsilon(
+                        ) [StatementListRec_Epsilon]
+                        StatementSingle(
+                          SingleStatement_ReturnExpr(
+                            Expr(
+                              AddOpTermListRec_Firt(
+                                Term(
+                                  FactorMulopListRec_First(
+                                    Factor(
+                                      MayMinus_No(
+                                      ) [MayMinus_No]
+                                      Factor_Bool(
+                                       0
+                                      ) [Factor_Bool]
+                                    ) [Factor]
+                                  ) [FactorMulopListRec_First]
+                                ) [Term]
+                              ) [AddOpTermListRec_Firt]
+                            ) [Expr]
+                          ) [SingleStatement_ReturnExpr]
+                        ) [StatementSingle]
+                      ) [StatementListRec_Yes]
+                    ) [MethodDecl]
+                  ) [MethodList_Yes]
+                  MethodDecl(
+                    TypeOrVoidName_Type(
+                      Type(
+                       char
+                      ) [Type]
+                    ) [TypeOrVoidName_Type]
+                    MethName(
+                     f_char
+                    ) [MethName]
+                    FormPars_No(
+                    ) [FormPars_No]
+                    VarDeclListRec_Epsilon(
+                    ) [VarDeclListRec_Epsilon]
+                    StatementListRec_Yes(
+                      StatementListRec_Epsilon(
+                      ) [StatementListRec_Epsilon]
+                      StatementSingle(
+                        SingleStatement_ReturnExpr(
+                          Expr(
+                            AddOpTermListRec_Firt(
+                              Term(
+                                FactorMulopListRec_First(
+                                  Factor(
+                                    MayMinus_No(
+                                    ) [MayMinus_No]
+                                    Factor_Num(
+                                     0
+                                    ) [Factor_Num]
+                                  ) [Factor]
+                                ) [FactorMulopListRec_First]
+                              ) [Term]
+                            ) [AddOpTermListRec_Firt]
+                          ) [Expr]
+                        ) [SingleStatement_ReturnExpr]
+                      ) [StatementSingle]
+                    ) [StatementListRec_Yes]
+                  ) [MethodDecl]
+                ) [MethodList_Yes]
+                MethodDecl(
+                  TypeOrVoidName_Type(
+                    Type(
+                     char
+                    ) [Type]
+                  ) [TypeOrVoidName_Type]
+                  MethName(
+                   f_char2
+                  ) [MethName]
+                  FormPars_No(
+                  ) [FormPars_No]
+                  VarDeclListRec_Epsilon(
+                  ) [VarDeclListRec_Epsilon]
+                  StatementListRec_Yes(
+                    StatementListRec_Epsilon(
+                    ) [StatementListRec_Epsilon]
+                    StatementSingle(
+                      SingleStatement_ReturnExpr(
+                        Expr(
+                          AddOpTermListRec_Firt(
+                            Term(
+                              FactorMulopListRec_First(
+                                Factor(
+                                  MayMinus_No(
+                                  ) [MayMinus_No]
+                                  Factor_Char(
+                                   a
+                                  ) [Factor_Char]
+                                ) [Factor]
+                              ) [FactorMulopListRec_First]
+                            ) [Term]
+                          ) [AddOpTermListRec_Firt]
+                        ) [Expr]
+                      ) [SingleStatement_ReturnExpr]
+                    ) [StatementSingle]
+                  ) [StatementListRec_Yes]
+                ) [MethodDecl]
+              ) [MethodList_Yes]
+              MethodDecl(
+                TypeOrVoidName_Type(
+                  Type(
+                   char
+                  ) [Type]
+                ) [TypeOrVoidName_Type]
+                MethName(
+                 f_char3
+                ) [MethName]
+                FormPars_No(
+                ) [FormPars_No]
+                VarDeclListRec_Epsilon(
+                ) [VarDeclListRec_Epsilon]
+                StatementListRec_Yes(
+                  StatementListRec_Epsilon(
+                  ) [StatementListRec_Epsilon]
+                  StatementSingle(
+                    SingleStatement_ReturnExpr(
+                      Expr(
+                        AddOpTermListRec_Firt(
+                          Term(
+                            FactorMulopListRec_First(
+                              Factor(
+                                MayMinus_No(
+                                ) [MayMinus_No]
+                                Factor_Bool(
+                                 0
+                                ) [Factor_Bool]
+                              ) [Factor]
+                            ) [FactorMulopListRec_First]
+                          ) [Term]
+                        ) [AddOpTermListRec_Firt]
+                      ) [Expr]
+                    ) [SingleStatement_ReturnExpr]
+                  ) [StatementSingle]
+                ) [StatementListRec_Yes]
+              ) [MethodDecl]
+            ) [MethodList_Yes]
+            MethodDecl(
+              TypeOrVoidName_Type(
+                Type(
+                 char
+                ) [Type]
+              ) [TypeOrVoidName_Type]
+              MethName(
+               f_char4
+              ) [MethName]
+              FormPars_No(
+              ) [FormPars_No]
+              VarDeclListRec_Epsilon(
+              ) [VarDeclListRec_Epsilon]
+              StatementListRec_Yes(
+                StatementListRec_Epsilon(
+                ) [StatementListRec_Epsilon]
+                StatementSingle(
+                  SingleStatement_Return(
+                  ) [SingleStatement_Return]
+                ) [StatementSingle]
+              ) [StatementListRec_Yes]
+            ) [MethodDecl]
+          ) [MethodList_Yes]
+          MethodDecl(
+            TypeOrVoidName_Type(
+              Type(
+               char
+              ) [Type]
+            ) [TypeOrVoidName_Type]
+            MethName(
+             f_char4
+            ) [MethName]
+            FormPars_No(
+            ) [FormPars_No]
+            VarDeclListRec_Epsilon(
+            ) [VarDeclListRec_Epsilon]
+            StatementListRec_Epsilon(
+            ) [StatementListRec_Epsilon]
+          ) [MethodDecl]
+        ) [MethodList_Yes]
+        MethodDecl(
+          TypeOrVoidName_Type(
+            Type(
+             char
+            ) [Type]
+          ) [TypeOrVoidName_Type]
+          MethName(
+           f_param
+          ) [MethName]
+          MayFormPars_Yes(
+            FormPars(
+              Type(
+               int
+              ) [Type]
+              FormPar(
+                VarDec(
+                  VarName(
+                   a
+                  ) [VarName]
+                  Array_No(
+                  ) [Array_No]
+                ) [VarDec]
+              ) [FormPar]
+              MoreFormPars_Yes(
+                Type(
+                 int
+                ) [Type]
+                FormPar(
+                  VarDec(
+                    VarName(
+                     b
+                    ) [VarName]
+                    Array_No(
+                    ) [Array_No]
+                  ) [VarDec]
+                ) [FormPar]
+                MoreFormPars_Yes(
+                  Type(
+                   char
+                  ) [Type]
+                  FormPar(
+                    VarDec(
+                      VarName(
+                       c
+                      ) [VarName]
+                      Array_No(
+                      ) [Array_No]
+                    ) [VarDec]
+                  ) [FormPar]
+                  MoreFormPars_Yes(
+                    Type(
+                     char
+                    ) [Type]
+                    FormPar(
+                      VarDec(
+                        VarName(
+                         d
+                        ) [VarName]
+                        Array_No(
+                        ) [Array_No]
+                      ) [VarDec]
+                    ) [FormPar]
+                    MoreFormPars_Yes(
+                      Type(
+                       bool
+                      ) [Type]
+                      FormPar(
+                        VarDec(
+                          VarName(
+                           e
+                          ) [VarName]
+                          Array_No(
+                          ) [Array_No]
+                        ) [VarDec]
+                      ) [FormPar]
+                      MoreFormPars_Yes(
+                        Type(
+                         bool
+                        ) [Type]
+                        FormPar(
+                          VarDec(
+                            VarName(
+                             f
+                            ) [VarName]
+                            Array_No(
+                            ) [Array_No]
+                          ) [VarDec]
+                        ) [FormPar]
+                        MoreFormPars_Yes(
+                          Type(
+                           int
+                          ) [Type]
+                          FormPar(
+                            VarDec(
+                              VarName(
+                               niz
+                              ) [VarName]
+                              Array_Yes(
+                              ) [Array_Yes]
+                            ) [VarDec]
+                          ) [FormPar]
+                          MoreFormPars_Yes(
+                            Type(
+                             char
+                            ) [Type]
+                            FormPar(
+                              VarDec(
+                                VarName(
+                                 niz2
+                                ) [VarName]
+                                Array_Yes(
+                                ) [Array_Yes]
+                              ) [VarDec]
+                            ) [FormPar]
+                            MoreFormPars_Yes(
+                              Type(
+                               bool
+                              ) [Type]
+                              FormPar(
+                                VarDec(
+                                  VarName(
+                                   niz3
+                                  ) [VarName]
+                                  Array_Yes(
+                                  ) [Array_Yes]
+                                ) [VarDec]
+                              ) [FormPar]
+                              MoreFormPars_Yes(
+                                Type(
+                                 int
+                                ) [Type]
+                                FormPar(
+                                  VarDec(
+                                    VarName(
+                                     g
+                                    ) [VarName]
+                                    Array_No(
+                                    ) [Array_No]
+                                  ) [VarDec]
+                                ) [FormPar]
+                                MoreFormPars_Epsilon(
+                                ) [MoreFormPars_Epsilon]
+                              ) [MoreFormPars_Yes]
+                            ) [MoreFormPars_Yes]
+                          ) [MoreFormPars_Yes]
+                        ) [MoreFormPars_Yes]
+                      ) [MoreFormPars_Yes]
+                    ) [MoreFormPars_Yes]
+                  ) [MoreFormPars_Yes]
+                ) [MoreFormPars_Yes]
+              ) [MoreFormPars_Yes]
+            ) [FormPars]
+          ) [MayFormPars_Yes]
+          VarDeclListRec_Epsilon(
+          ) [VarDeclListRec_Epsilon]
+          StatementListRec_Yes(
+            StatementListRec_Epsilon(
+            ) [StatementListRec_Epsilon]
+            StatementSingle(
+              SingleStatement_ReturnExpr(
+                Expr(
+                  AddOpTermListRec_Firt(
+                    Term(
+                      FactorMulopListRec_First(
+                        Factor(
+                          MayMinus_No(
+                          ) [MayMinus_No]
+                          Factor_Char(
+                           a
+                          ) [Factor_Char]
+                        ) [Factor]
+                      ) [FactorMulopListRec_First]
+                    ) [Term]
+                  ) [AddOpTermListRec_Firt]
+                ) [Expr]
+              ) [SingleStatement_ReturnExpr]
+            ) [StatementSingle]
+          ) [StatementListRec_Yes]
+        ) [MethodDecl]
+      ) [MethodList_Yes]
+      MethodDecl(
+        TypeOrVoidName_Type(
+          Type(
+           char
+          ) [Type]
+        ) [TypeOrVoidName_Type]
+        MethName(
+         f_param1
+        ) [MethName]
+        MayFormPars_Yes(
+          FormPars(
+            Type(
+             int
+            ) [Type]
+            FormPar(
+              VarDec(
+                VarName(
+                 a
+                ) [VarName]
+                Array_No(
+                ) [Array_No]
+              ) [VarDec]
+            ) [FormPar]
+            MoreFormPars_Yes(
+              Type(
+               int
+              ) [Type]
+              FormPar(
+                VarDec(
+                  VarName(
+                   b
+                  ) [VarName]
+                  Array_No(
+                  ) [Array_No]
+                ) [VarDec]
+              ) [FormPar]
+              MoreFormPars_Yes(
+                Type(
+                 char
+                ) [Type]
+                FormPar(
+                  VarDec(
+                    VarName(
+                     c
+                    ) [VarName]
+                    Array_No(
+                    ) [Array_No]
+                  ) [VarDec]
+                ) [FormPar]
+                MoreFormPars_Yes(
+                  Type(
+                   char
+                  ) [Type]
+                  FormPar(
+                    VarDec(
+                      VarName(
+                       d
+                      ) [VarName]
+                      Array_No(
+                      ) [Array_No]
+                    ) [VarDec]
+                  ) [FormPar]
+                  MoreFormPars_Yes(
+                    Type(
+                     bool
+                    ) [Type]
+                    FormPar(
+                      VarDec(
+                        VarName(
+                         e
+                        ) [VarName]
+                        Array_No(
+                        ) [Array_No]
+                      ) [VarDec]
+                    ) [FormPar]
+                    MoreFormPars_Yes(
+                      Type(
+                       bool
+                      ) [Type]
+                      FormPar(
+                        VarDec(
+                          VarName(
+                           f
+                          ) [VarName]
+                          Array_No(
+                          ) [Array_No]
+                        ) [VarDec]
+                      ) [FormPar]
+                      MoreFormPars_Yes(
+                        Type(
+                         int
+                        ) [Type]
+                        FormPar(
+                          VarDec(
+                            VarName(
+                             niz
+                            ) [VarName]
+                            Array_Yes(
+                            ) [Array_Yes]
+                          ) [VarDec]
+                        ) [FormPar]
+                        MoreFormPars_Yes(
+                          Type(
+                           char
+                          ) [Type]
+                          FormPar(
+                            VarDec(
+                              VarName(
+                               niz2
+                              ) [VarName]
+                              Array_Yes(
+                              ) [Array_Yes]
+                            ) [VarDec]
+                          ) [FormPar]
+                          MoreFormPars_Yes(
+                            Type(
+                             bool
+                            ) [Type]
+                            FormPar(
+                              VarDec(
+                                VarName(
+                                 niz3
+                                ) [VarName]
+                                Array_Yes(
+                                ) [Array_Yes]
+                              ) [VarDec]
+                            ) [FormPar]
+                            MoreFormPars_Yes(
+                              Type(
+                               int
+                              ) [Type]
+                              FormPar(
+                                VarDec(
+                                  VarName(
+                                   g
+                                  ) [VarName]
+                                  Array_No(
+                                  ) [Array_No]
+                                ) [VarDec]
+                              ) [FormPar]
+                              MoreFormPars_Epsilon(
+                              ) [MoreFormPars_Epsilon]
+                            ) [MoreFormPars_Yes]
+                          ) [MoreFormPars_Yes]
+                        ) [MoreFormPars_Yes]
+                      ) [MoreFormPars_Yes]
+                    ) [MoreFormPars_Yes]
+                  ) [MoreFormPars_Yes]
+                ) [MoreFormPars_Yes]
+              ) [MoreFormPars_Yes]
+            ) [MoreFormPars_Yes]
+          ) [FormPars]
+        ) [MayFormPars_Yes]
+        VarDeclListRec_Yes(
+          VarDeclListRec_Yes(
+            VarDeclListRec_Yes(
+              VarDeclListRec_Epsilon(
+              ) [VarDeclListRec_Epsilon]
+              VarDeclList(
+                Type(
+                 int
+                ) [Type]
+                VarDec(
+                  VarName(
+                   i
+                  ) [VarName]
+                  Array_No(
+                  ) [Array_No]
+                ) [VarDec]
+                MoreVarDec_Epsilon(
+                ) [MoreVarDec_Epsilon]
+              ) [VarDeclList]
+            ) [VarDeclListRec_Yes]
+            VarDeclList(
+              Type(
+               int
+              ) [Type]
+              VarDec(
+                VarName(
+                 j
+                ) [VarName]
+                Array_No(
+                ) [Array_No]
+              ) [VarDec]
+              MoreVarDeclaration(
+                VarDec(
+                  VarName(
+                   z
+                  ) [VarName]
+                  Array_No(
+                  ) [Array_No]
+                ) [VarDec]
+                MoreVarDeclaration(
+                  VarDec(
+                    VarName(
+                     p
+                    ) [VarName]
+                    Array_Yes(
+                    ) [Array_Yes]
+                  ) [VarDec]
+                  MoreVarDec_Epsilon(
+                  ) [MoreVarDec_Epsilon]
+                ) [MoreVarDeclaration]
+              ) [MoreVarDeclaration]
+            ) [VarDeclList]
+          ) [VarDeclListRec_Yes]
+          VarDeclList(
+            Type(
+             char
+            ) [Type]
+            VarDec(
+              VarName(
+               nizc
+              ) [VarName]
+              Array_Yes(
+              ) [Array_Yes]
+            ) [VarDec]
+            MoreVarDec_Epsilon(
+            ) [MoreVarDec_Epsilon]
+          ) [VarDeclList]
+        ) [VarDeclListRec_Yes]
+        StatementListRec_Yes(
+          StatementListRec_Epsilon(
+          ) [StatementListRec_Epsilon]
+          StatementSingle(
+            SingleStatement_ReturnExpr(
+              Expr(
+                AddOpTermListRec_Firt(
+                  Term(
+                    FactorMulopListRec_First(
+                      Factor(
+                        MayMinus_No(
+                        ) [MayMinus_No]
+                        Factor_Char(
+                         a
+                        ) [Factor_Char]
+                      ) [Factor]
+                    ) [FactorMulopListRec_First]
+                  ) [Term]
+                ) [AddOpTermListRec_Firt]
+              ) [Expr]
+            ) [SingleStatement_ReturnExpr]
+          ) [StatementSingle]
+        ) [StatementListRec_Yes]
+      ) [MethodDecl]
+    ) [MethodList_Yes]
+    MethodDecl(
+      TypeOrVoidName_Type(
+        Type(
+         char
+        ) [Type]
+      ) [TypeOrVoidName_Type]
+      MethName(
+       f_param2
+      ) [MethName]
+      MayFormPars_Yes(
+        FormPars(
+          Type(
+           int
+          ) [Type]
+          FormPar(
+            VarDec(
+              VarName(
+               a
+              ) [VarName]
+              Array_No(
+              ) [Array_No]
+            ) [VarDec]
+          ) [FormPar]
+          MoreFormPars_Yes(
+            Type(
+             int
+            ) [Type]
+            FormPar(
+              VarDec(
+                VarName(
+                 b
+                ) [VarName]
+                Array_No(
+                ) [Array_No]
+              ) [VarDec]
+            ) [FormPar]
+            MoreFormPars_Yes(
+              Type(
+               char
+              ) [Type]
+              FormPar(
+                VarDec(
+                  VarName(
+                   c
+                  ) [VarName]
+                  Array_No(
+                  ) [Array_No]
+                ) [VarDec]
+              ) [FormPar]
+              MoreFormPars_Yes(
+                Type(
+                 char
+                ) [Type]
+                FormPar(
+                  VarDec(
+                    VarName(
+                     d
+                    ) [VarName]
+                    Array_No(
+                    ) [Array_No]
+                  ) [VarDec]
+                ) [FormPar]
+                MoreFormPars_Yes(
+                  Type(
+                   bool
+                  ) [Type]
+                  FormPar(
+                    VarDec(
+                      VarName(
+                       e
+                      ) [VarName]
+                      Array_No(
+                      ) [Array_No]
+                    ) [VarDec]
+                  ) [FormPar]
+                  MoreFormPars_Yes(
+                    Type(
+                     bool
+                    ) [Type]
+                    FormPar(
+                      VarDec(
+                        VarName(
+                         f
+                        ) [VarName]
+                        Array_No(
+                        ) [Array_No]
+                      ) [VarDec]
+                    ) [FormPar]
+                    MoreFormPars_Yes(
+                      Type(
+                       int
+                      ) [Type]
+                      FormPar(
+                        VarDec(
+                          VarName(
+                           niz
+                          ) [VarName]
+                          Array_Yes(
+                          ) [Array_Yes]
+                        ) [VarDec]
+                      ) [FormPar]
+                      MoreFormPars_Yes(
+                        Type(
+                         char
+                        ) [Type]
+                        FormPar(
+                          VarDec(
+                            VarName(
+                             niz2
+                            ) [VarName]
+                            Array_Yes(
+                            ) [Array_Yes]
+                          ) [VarDec]
+                        ) [FormPar]
+                        MoreFormPars_Yes(
+                          Type(
+                           bool
+                          ) [Type]
+                          FormPar(
+                            VarDec(
+                              VarName(
+                               niz3
+                              ) [VarName]
+                              Array_Yes(
+                              ) [Array_Yes]
+                            ) [VarDec]
+                          ) [FormPar]
+                          MoreFormPars_Yes(
+                            Type(
+                             int
+                            ) [Type]
+                            FormPar(
+                              VarDec(
+                                VarName(
+                                 g
+                                ) [VarName]
+                                Array_No(
+                                ) [Array_No]
+                              ) [VarDec]
+                            ) [FormPar]
+                            MoreFormPars_Epsilon(
+                            ) [MoreFormPars_Epsilon]
+                          ) [MoreFormPars_Yes]
+                        ) [MoreFormPars_Yes]
+                      ) [MoreFormPars_Yes]
+                    ) [MoreFormPars_Yes]
+                  ) [MoreFormPars_Yes]
+                ) [MoreFormPars_Yes]
+              ) [MoreFormPars_Yes]
+            ) [MoreFormPars_Yes]
+          ) [MoreFormPars_Yes]
+        ) [FormPars]
+      ) [MayFormPars_Yes]
+      VarDeclListRec_Yes(
+        VarDeclListRec_Yes(
+          VarDeclListRec_Yes(
+            VarDeclListRec_Epsilon(
+            ) [VarDeclListRec_Epsilon]
+            VarDeclList(
+              Type(
+               int
+              ) [Type]
+              VarDec(
+                VarName(
+                 i
+                ) [VarName]
+                Array_No(
+                ) [Array_No]
+              ) [VarDec]
+              MoreVarDec_Epsilon(
+              ) [MoreVarDec_Epsilon]
+            ) [VarDeclList]
+          ) [VarDeclListRec_Yes]
+          VarDeclList(
+            Type(
+             int
+            ) [Type]
+            VarDec(
+              VarName(
+               j
+              ) [VarName]
+              Array_No(
+              ) [Array_No]
+            ) [VarDec]
+            MoreVarDeclaration(
+              VarDec(
+                VarName(
+                 z
+                ) [VarName]
+                Array_No(
+                ) [Array_No]
+              ) [VarDec]
+              MoreVarDeclaration(
+                VarDec(
+                  VarName(
+                   p
+                  ) [VarName]
+                  Array_Yes(
+                  ) [Array_Yes]
+                ) [VarDec]
+                MoreVarDec_Epsilon(
+                ) [MoreVarDec_Epsilon]
+              ) [MoreVarDeclaration]
+            ) [MoreVarDeclaration]
+          ) [VarDeclList]
+        ) [VarDeclListRec_Yes]
+        VarDeclList(
+          Type(
+           char
+          ) [Type]
+          VarDec(
+            VarName(
+             nizc
+            ) [VarName]
+            Array_Yes(
+            ) [Array_Yes]
+          ) [VarDec]
+          MoreVarDec_Epsilon(
+          ) [MoreVarDec_Epsilon]
+        ) [VarDeclList]
+      ) [VarDeclListRec_Yes]
+      StatementListRec_Yes(
+        StatementListRec_Epsilon(
+        ) [StatementListRec_Epsilon]
+        StatementSingle(
+          SingleStatement_ReturnExpr(
+            Expr(
+              AddOpTermListRec_Firt(
+                Term(
+                  FactorMulopListRec_First(
+                    Factor(
+                      MayMinus_No(
+                      ) [MayMinus_No]
+                      Factor_Char(
+                       a
+                      ) [Factor_Char]
+                    ) [Factor]
+                  ) [FactorMulopListRec_First]
+                ) [Term]
+              ) [AddOpTermListRec_Firt]
+            ) [Expr]
+          ) [SingleStatement_ReturnExpr]
+        ) [StatementSingle]
+      ) [StatementListRec_Yes]
+    ) [MethodDecl]
+  ) [MethodList_Yes]
+) [Program]
+INFO  23:07:50,939 - ===================================
+ERROR 23:07:50,941 - Los tip na liniji 10
+ERROR 23:07:50,941 - Los tip na liniji 11
+ERROR 23:07:50,941 - Los tip na liniji 12
+ERROR 23:07:50,941 - Los tip na liniji 13
+ERROR 23:07:50,941 - Los tip na liniji 15
+ERROR 23:07:50,941 - Los tip na liniji 16
+ERROR 23:07:50,941 - Los tip na liniji 21
+ERROR 23:07:50,941 - Konstanta vec postoji na liniji 22
+ERROR 23:07:50,941 - Konstanta vec postoji na liniji 24
+ERROR 23:07:50,941 - Los tip na liniji 26
+ERROR 23:07:50,941 - Los tip na liniji 27
+ERROR 23:07:50,941 - Los tip na liniji 28
+ERROR 23:07:50,941 - Los tip na liniji 29
+ERROR 23:07:50,941 - Los tip na liniji 30
+ERROR 23:07:50,941 - Los tip na liniji 33
+ERROR 23:07:50,941 - Los tip na liniji 35
+ERROR 23:07:50,941 - Los tip na liniji 36
+ERROR 23:07:50,941 - Konstanta vec postoji na liniji 37
+ERROR 23:07:50,942 - Konstanta vec postoji na liniji 38
+ERROR 23:07:50,942 - Simbol vec postoji f1 na liniji 44
+ERROR 23:07:50,942 - Simbol vec postoji fniz1 na liniji 45
+ERROR 23:07:50,942 - Simbol vec postoji i1 na liniji 51
+ERROR 23:07:50,942 - Simbol vec postoji iniz1 na liniji 52
+ERROR 23:07:50,942 - Simbol vec postoji f1 na liniji 53
+ERROR 23:07:50,942 - Simbol vec postoji fniz1 na liniji 54
+ERROR 23:07:50,942 - Simbol vec postoji c1 na liniji 60
+ERROR 23:07:50,942 - Simbol vec postoji cniz1 na liniji 61
+ERROR 23:07:50,942 - Simbol vec postoji f1 na liniji 62
+ERROR 23:07:50,942 - Simbol vec postoji fniz1 na liniji 63
+ERROR 23:07:50,942 - Simbol vec postoji i1 na liniji 64
+ERROR 23:07:50,942 - Main mora biti tipa VOIDint na liniji 68
+ERROR 23:07:50,942 - Return metode nije pronadjen na liniji 68
+ERROR 23:07:50,942 - Metod vec postoji main na liniji 75
+ERROR 23:07:50,942 - Main mora biti tipa VOIDchar na liniji 75
+ERROR 23:07:50,942 - Return metode nije pronadjen na liniji 75
+ERROR 23:07:50,942 - Metod vec postoji main na liniji 81
+ERROR 23:07:50,942 - Main mora biti tipa VOIDbool na liniji 81
+ERROR 23:07:50,942 - Return metode nije pronadjen na liniji 81
+ERROR 23:07:50,942 - Metod vec postoji main na liniji 87
+ERROR 23:07:50,942 - Return metode nije pronadjen na liniji 87
+ERROR 23:07:50,942 - Metod vec postoji f_void2 na liniji 105
+ERROR 23:07:50,942 - Return metode nije pronadjen na liniji 111
+ERROR 23:07:50,942 - Return metode nije pronadjen na liniji 117
+ERROR 23:07:50,942 - Return metode nije pronadjen na liniji 123
+ERROR 23:07:50,942 - Metod vec postoji f_int3 na liniji 128
+ERROR 23:07:50,942 - Return metode nije pronadjen na liniji 128
+ERROR 23:07:50,942 - Return metode nije pronadjen na liniji 133
+ERROR 23:07:50,942 - Return metode nije pronadjen na liniji 139
+ERROR 23:07:50,942 - Return metode nije pronadjen na liniji 145
+ERROR 23:07:50,942 - Return metode nije pronadjen na liniji 151
+ERROR 23:07:50,942 - Return metode nije pronadjen na liniji 156
+ERROR 23:07:50,942 - Metod vec postoji f_char4 na liniji 162
+ERROR 23:07:50,942 - Return metode nije pronadjen na liniji 162
+ERROR 23:07:50,942 - Return metode nije pronadjen na liniji 168
+ERROR 23:07:50,943 - Return metode nije pronadjen na liniji 174
+ERROR 23:07:50,943 - Return metode nije pronadjen na liniji 180
+INFO  23:07:50,943 - ===================================
+ERROR 23:07:50,943 - Parsiranje NIJE uspesno zavrseno!

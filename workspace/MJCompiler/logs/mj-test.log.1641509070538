@@ -1,0 +1,716 @@
+INFO  23:44:06,514 - Compiling source file: C:\Users\ji180550d\Desktop\PP1\PROJECT\Labs\lab1_code\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  23:44:06,543 - #2 program
+INFO  23:44:06,543 - #44 Keske
+INFO  23:44:06,544 - #5 const
+INFO  23:44:06,544 - #44 int
+INFO  23:44:06,544 - #44 pi
+INFO  23:44:06,545 - #6 =
+INFO  23:44:06,545 - #45 3
+INFO  23:44:06,545 - #8 ;
+INFO  23:44:06,546 - #44 int
+INFO  23:44:06,547 - #44 x
+INFO  23:44:06,547 - #7 ,
+INFO  23:44:06,548 - #44 y
+INFO  23:44:06,548 - #9 [
+INFO  23:44:06,548 - #10 ]
+INFO  23:44:06,548 - #8 ;
+INFO  23:44:06,550 - #44 bool
+INFO  23:44:06,550 - #44 flag
+INFO  23:44:06,551 - #8 ;
+INFO  23:44:06,551 - #44 char
+INFO  23:44:06,551 - #44 chr
+INFO  23:44:06,551 - #8 ;
+INFO  23:44:06,551 - #3 {
+INFO  23:44:06,551 - #14 void
+INFO  23:44:06,552 - #44 main
+INFO  23:44:06,552 - #12 (
+INFO  23:44:06,553 - #13 )
+INFO  23:44:06,554 - #44 int
+INFO  23:44:06,554 - #44 a
+INFO  23:44:06,554 - #7 ,
+INFO  23:44:06,554 - #44 b
+INFO  23:44:06,554 - #9 [
+INFO  23:44:06,554 - #10 ]
+INFO  23:44:06,554 - #8 ;
+INFO  23:44:06,554 - #3 {
+INFO  23:44:06,555 - #44 x
+INFO  23:44:06,555 - #6 =
+INFO  23:44:06,555 - #28 -
+INFO  23:44:06,556 - #12 (
+INFO  23:44:06,556 - #12 (
+INFO  23:44:06,557 - #12 (
+INFO  23:44:06,557 - #45 3
+INFO  23:44:06,557 - #28 -
+INFO  23:44:06,558 - #45 1
+INFO  23:44:06,559 - #13 )
+INFO  23:44:06,559 - #29 *
+INFO  23:44:06,559 - #12 (
+INFO  23:44:06,560 - #45 2
+INFO  23:44:06,560 - #27 +
+INFO  23:44:06,560 - #12 (
+INFO  23:44:06,561 - #45 4
+INFO  23:44:06,561 - #29 *
+INFO  23:44:06,561 - #45 3
+INFO  23:44:06,561 - #27 +
+INFO  23:44:06,561 - #45 5
+INFO  23:44:06,561 - #29 *
+INFO  23:44:06,561 - #45 2
+INFO  23:44:06,561 - #13 )
+INFO  23:44:06,561 - #29 *
+INFO  23:44:06,561 - #12 (
+INFO  23:44:06,561 - #45 1
+INFO  23:44:06,561 - #27 +
+INFO  23:44:06,561 - #45 2
+INFO  23:44:06,562 - #13 )
+INFO  23:44:06,562 - #28 -
+INFO  23:44:06,562 - #12 (
+INFO  23:44:06,562 - #45 1
+INFO  23:44:06,562 - #29 *
+INFO  23:44:06,562 - #45 2
+INFO  23:44:06,562 - #13 )
+INFO  23:44:06,562 - #27 +
+INFO  23:44:06,562 - #45 4
+INFO  23:44:06,562 - #28 -
+INFO  23:44:06,562 - #45 3
+INFO  23:44:06,562 - #29 *
+INFO  23:44:06,562 - #45 10
+INFO  23:44:06,562 - #13 )
+INFO  23:44:06,562 - #13 )
+INFO  23:44:06,562 - #28 -
+INFO  23:44:06,562 - #12 (
+INFO  23:44:06,563 - #45 3
+INFO  23:44:06,563 - #29 *
+INFO  23:44:06,563 - #45 4
+INFO  23:44:06,563 - #29 *
+INFO  23:44:06,563 - #12 (
+INFO  23:44:06,563 - #28 -
+INFO  23:44:06,563 - #12 (
+INFO  23:44:06,563 - #45 2
+INFO  23:44:06,563 - #13 )
+INFO  23:44:06,563 - #13 )
+INFO  23:44:06,563 - #13 )
+INFO  23:44:06,563 - #28 -
+INFO  23:44:06,563 - #45 4
+INFO  23:44:06,563 - #13 )
+INFO  23:44:06,563 - #27 +
+INFO  23:44:06,563 - #12 (
+INFO  23:44:06,563 - #28 -
+INFO  23:44:06,563 - #45 4
+INFO  23:44:06,563 - #29 *
+INFO  23:44:06,563 - #12 (
+INFO  23:44:06,563 - #28 -
+INFO  23:44:06,564 - #45 1
+INFO  23:44:06,564 - #13 )
+INFO  23:44:06,564 - #13 )
+INFO  23:44:06,564 - #8 ;
+INFO  23:44:06,564 - #23 print
+INFO  23:44:06,564 - #12 (
+INFO  23:44:06,564 - #44 x
+INFO  23:44:06,564 - #13 )
+INFO  23:44:06,565 - #8 ;
+INFO  23:44:06,565 - #4 }
+INFO  23:44:06,565 - #4 }
+INFO  23:44:06,572 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConVarRecDeclListVar(
+    ConVarRecDeclListVar(
+      ConVarRecDeclListVar(
+        ConVarRecDeclListCon(
+          ConVarRecDeclListEpsilon(
+          ) [ConVarRecDeclListEpsilon]
+          ConstDeclList(
+            Type(
+             int
+            ) [Type]
+            ConstDec(
+             pi
+              NumConst(
+               3
+              ) [NumConst]
+            ) [ConstDec]
+            MoreConstDeclEpsilon(
+            ) [MoreConstDeclEpsilon]
+          ) [ConstDeclList]
+        ) [ConVarRecDeclListCon]
+        VarDeclList(
+          Type(
+           int
+          ) [Type]
+          VarDec(
+            VarName(
+             x
+            ) [VarName]
+            Array_No(
+            ) [Array_No]
+          ) [VarDec]
+          MoreVarDeclaration(
+            VarDec(
+              VarName(
+               y
+              ) [VarName]
+              Array_Yes(
+              ) [Array_Yes]
+            ) [VarDec]
+            MoreVarDec_Epsilon(
+            ) [MoreVarDec_Epsilon]
+          ) [MoreVarDeclaration]
+        ) [VarDeclList]
+      ) [ConVarRecDeclListVar]
+      VarDeclList(
+        Type(
+         bool
+        ) [Type]
+        VarDec(
+          VarName(
+           flag
+          ) [VarName]
+          Array_No(
+          ) [Array_No]
+        ) [VarDec]
+        MoreVarDec_Epsilon(
+        ) [MoreVarDec_Epsilon]
+      ) [VarDeclList]
+    ) [ConVarRecDeclListVar]
+    VarDeclList(
+      Type(
+       char
+      ) [Type]
+      VarDec(
+        VarName(
+         chr
+        ) [VarName]
+        Array_No(
+        ) [Array_No]
+      ) [VarDec]
+      MoreVarDec_Epsilon(
+      ) [MoreVarDec_Epsilon]
+    ) [VarDeclList]
+  ) [ConVarRecDeclListVar]
+  MethodList_Yes(
+    MethodList_Epsilon(
+    ) [MethodList_Epsilon]
+    MethodDecl(
+      TypeOrVoidName_Void(
+      ) [TypeOrVoidName_Void]
+      MethName(
+       main
+      ) [MethName]
+      FormPars_No(
+      ) [FormPars_No]
+      VarDeclListRec_Yes(
+        VarDeclListRec_Epsilon(
+        ) [VarDeclListRec_Epsilon]
+        VarDeclList(
+          Type(
+           int
+          ) [Type]
+          VarDec(
+            VarName(
+             a
+            ) [VarName]
+            Array_No(
+            ) [Array_No]
+          ) [VarDec]
+          MoreVarDeclaration(
+            VarDec(
+              VarName(
+               b
+              ) [VarName]
+              Array_Yes(
+              ) [Array_Yes]
+            ) [VarDec]
+            MoreVarDec_Epsilon(
+            ) [MoreVarDec_Epsilon]
+          ) [MoreVarDeclaration]
+        ) [VarDeclList]
+      ) [VarDeclListRec_Yes]
+      StatementListRec_Yes(
+        StatementListRec_Yes(
+          StatementListRec_Epsilon(
+          ) [StatementListRec_Epsilon]
+          StatementSingle(
+            SingleStatement_Designator(
+              DesignatorStat_AssignExpr(
+                DesignatorName1(
+                 x
+                ) [DesignatorName1]
+                AssignOp(
+                ) [AssignOp]
+                Expr(
+                  AddOpTermListRec_Yes(
+                    AddOpTermListRec_Firt(
+                      Term(
+                        FactorMulopListRec_First(
+                          Factor(
+                            MayMinus_Yes(
+                            ) [MayMinus_Yes]
+                            Factor_Expr(
+                              Expr(
+                                AddOpTermListRec_Yes(
+                                  AddOpTermListRec_Yes(
+                                    AddOpTermListRec_Firt(
+                                      Term(
+                                        FactorMulopListRec_First(
+                                          Factor(
+                                            MayMinus_No(
+                                            ) [MayMinus_No]
+                                            Factor_Expr(
+                                              Expr(
+                                                AddOpTermListRec_Firt(
+                                                  Term(
+                                                    FactorMulopListRec_Yes(
+                                                      FactorMulopListRec_First(
+                                                        Factor(
+                                                          MayMinus_No(
+                                                          ) [MayMinus_No]
+                                                          Factor_Expr(
+                                                            Expr(
+                                                              AddOpTermListRec_Yes(
+                                                                AddOpTermListRec_Firt(
+                                                                  Term(
+                                                                    FactorMulopListRec_First(
+                                                                      Factor(
+                                                                        MayMinus_No(
+                                                                        ) [MayMinus_No]
+                                                                        Factor_Num(
+                                                                         3
+                                                                        ) [Factor_Num]
+                                                                      ) [Factor]
+                                                                    ) [FactorMulopListRec_First]
+                                                                  ) [Term]
+                                                                ) [AddOpTermListRec_Firt]
+                                                                AddOp_Minus(
+                                                                ) [AddOp_Minus]
+                                                                Term(
+                                                                  FactorMulopListRec_First(
+                                                                    Factor(
+                                                                      MayMinus_No(
+                                                                      ) [MayMinus_No]
+                                                                      Factor_Num(
+                                                                       1
+                                                                      ) [Factor_Num]
+                                                                    ) [Factor]
+                                                                  ) [FactorMulopListRec_First]
+                                                                ) [Term]
+                                                              ) [AddOpTermListRec_Yes]
+                                                            ) [Expr]
+                                                          ) [Factor_Expr]
+                                                        ) [Factor]
+                                                      ) [FactorMulopListRec_First]
+                                                      MullOp_Times(
+                                                      ) [MullOp_Times]
+                                                      Factor(
+                                                        MayMinus_No(
+                                                        ) [MayMinus_No]
+                                                        Factor_Expr(
+                                                          Expr(
+                                                            AddOpTermListRec_Yes(
+                                                              AddOpTermListRec_Yes(
+                                                                AddOpTermListRec_Yes(
+                                                                  AddOpTermListRec_Yes(
+                                                                    AddOpTermListRec_Firt(
+                                                                      Term(
+                                                                        FactorMulopListRec_First(
+                                                                          Factor(
+                                                                            MayMinus_No(
+                                                                            ) [MayMinus_No]
+                                                                            Factor_Num(
+                                                                             2
+                                                                            ) [Factor_Num]
+                                                                          ) [Factor]
+                                                                        ) [FactorMulopListRec_First]
+                                                                      ) [Term]
+                                                                    ) [AddOpTermListRec_Firt]
+                                                                    AddOp_Plus(
+                                                                    ) [AddOp_Plus]
+                                                                    Term(
+                                                                      FactorMulopListRec_Yes(
+                                                                        FactorMulopListRec_First(
+                                                                          Factor(
+                                                                            MayMinus_No(
+                                                                            ) [MayMinus_No]
+                                                                            Factor_Expr(
+                                                                              Expr(
+                                                                                AddOpTermListRec_Yes(
+                                                                                  AddOpTermListRec_Firt(
+                                                                                    Term(
+                                                                                      FactorMulopListRec_Yes(
+                                                                                        FactorMulopListRec_First(
+                                                                                          Factor(
+                                                                                            MayMinus_No(
+                                                                                            ) [MayMinus_No]
+                                                                                            Factor_Num(
+                                                                                             4
+                                                                                            ) [Factor_Num]
+                                                                                          ) [Factor]
+                                                                                        ) [FactorMulopListRec_First]
+                                                                                        MullOp_Times(
+                                                                                        ) [MullOp_Times]
+                                                                                        Factor(
+                                                                                          MayMinus_No(
+                                                                                          ) [MayMinus_No]
+                                                                                          Factor_Num(
+                                                                                           3
+                                                                                          ) [Factor_Num]
+                                                                                        ) [Factor]
+                                                                                      ) [FactorMulopListRec_Yes]
+                                                                                    ) [Term]
+                                                                                  ) [AddOpTermListRec_Firt]
+                                                                                  AddOp_Plus(
+                                                                                  ) [AddOp_Plus]
+                                                                                  Term(
+                                                                                    FactorMulopListRec_Yes(
+                                                                                      FactorMulopListRec_First(
+                                                                                        Factor(
+                                                                                          MayMinus_No(
+                                                                                          ) [MayMinus_No]
+                                                                                          Factor_Num(
+                                                                                           5
+                                                                                          ) [Factor_Num]
+                                                                                        ) [Factor]
+                                                                                      ) [FactorMulopListRec_First]
+                                                                                      MullOp_Times(
+                                                                                      ) [MullOp_Times]
+                                                                                      Factor(
+                                                                                        MayMinus_No(
+                                                                                        ) [MayMinus_No]
+                                                                                        Factor_Num(
+                                                                                         2
+                                                                                        ) [Factor_Num]
+                                                                                      ) [Factor]
+                                                                                    ) [FactorMulopListRec_Yes]
+                                                                                  ) [Term]
+                                                                                ) [AddOpTermListRec_Yes]
+                                                                              ) [Expr]
+                                                                            ) [Factor_Expr]
+                                                                          ) [Factor]
+                                                                        ) [FactorMulopListRec_First]
+                                                                        MullOp_Times(
+                                                                        ) [MullOp_Times]
+                                                                        Factor(
+                                                                          MayMinus_No(
+                                                                          ) [MayMinus_No]
+                                                                          Factor_Expr(
+                                                                            Expr(
+                                                                              AddOpTermListRec_Yes(
+                                                                                AddOpTermListRec_Firt(
+                                                                                  Term(
+                                                                                    FactorMulopListRec_First(
+                                                                                      Factor(
+                                                                                        MayMinus_No(
+                                                                                        ) [MayMinus_No]
+                                                                                        Factor_Num(
+                                                                                         1
+                                                                                        ) [Factor_Num]
+                                                                                      ) [Factor]
+                                                                                    ) [FactorMulopListRec_First]
+                                                                                  ) [Term]
+                                                                                ) [AddOpTermListRec_Firt]
+                                                                                AddOp_Plus(
+                                                                                ) [AddOp_Plus]
+                                                                                Term(
+                                                                                  FactorMulopListRec_First(
+                                                                                    Factor(
+                                                                                      MayMinus_No(
+                                                                                      ) [MayMinus_No]
+                                                                                      Factor_Num(
+                                                                                       2
+                                                                                      ) [Factor_Num]
+                                                                                    ) [Factor]
+                                                                                  ) [FactorMulopListRec_First]
+                                                                                ) [Term]
+                                                                              ) [AddOpTermListRec_Yes]
+                                                                            ) [Expr]
+                                                                          ) [Factor_Expr]
+                                                                        ) [Factor]
+                                                                      ) [FactorMulopListRec_Yes]
+                                                                    ) [Term]
+                                                                  ) [AddOpTermListRec_Yes]
+                                                                  AddOp_Minus(
+                                                                  ) [AddOp_Minus]
+                                                                  Term(
+                                                                    FactorMulopListRec_First(
+                                                                      Factor(
+                                                                        MayMinus_No(
+                                                                        ) [MayMinus_No]
+                                                                        Factor_Expr(
+                                                                          Expr(
+                                                                            AddOpTermListRec_Firt(
+                                                                              Term(
+                                                                                FactorMulopListRec_Yes(
+                                                                                  FactorMulopListRec_First(
+                                                                                    Factor(
+                                                                                      MayMinus_No(
+                                                                                      ) [MayMinus_No]
+                                                                                      Factor_Num(
+                                                                                       1
+                                                                                      ) [Factor_Num]
+                                                                                    ) [Factor]
+                                                                                  ) [FactorMulopListRec_First]
+                                                                                  MullOp_Times(
+                                                                                  ) [MullOp_Times]
+                                                                                  Factor(
+                                                                                    MayMinus_No(
+                                                                                    ) [MayMinus_No]
+                                                                                    Factor_Num(
+                                                                                     2
+                                                                                    ) [Factor_Num]
+                                                                                  ) [Factor]
+                                                                                ) [FactorMulopListRec_Yes]
+                                                                              ) [Term]
+                                                                            ) [AddOpTermListRec_Firt]
+                                                                          ) [Expr]
+                                                                        ) [Factor_Expr]
+                                                                      ) [Factor]
+                                                                    ) [FactorMulopListRec_First]
+                                                                  ) [Term]
+                                                                ) [AddOpTermListRec_Yes]
+                                                                AddOp_Plus(
+                                                                ) [AddOp_Plus]
+                                                                Term(
+                                                                  FactorMulopListRec_First(
+                                                                    Factor(
+                                                                      MayMinus_No(
+                                                                      ) [MayMinus_No]
+                                                                      Factor_Num(
+                                                                       4
+                                                                      ) [Factor_Num]
+                                                                    ) [Factor]
+                                                                  ) [FactorMulopListRec_First]
+                                                                ) [Term]
+                                                              ) [AddOpTermListRec_Yes]
+                                                              AddOp_Minus(
+                                                              ) [AddOp_Minus]
+                                                              Term(
+                                                                FactorMulopListRec_Yes(
+                                                                  FactorMulopListRec_First(
+                                                                    Factor(
+                                                                      MayMinus_No(
+                                                                      ) [MayMinus_No]
+                                                                      Factor_Num(
+                                                                       3
+                                                                      ) [Factor_Num]
+                                                                    ) [Factor]
+                                                                  ) [FactorMulopListRec_First]
+                                                                  MullOp_Times(
+                                                                  ) [MullOp_Times]
+                                                                  Factor(
+                                                                    MayMinus_No(
+                                                                    ) [MayMinus_No]
+                                                                    Factor_Num(
+                                                                     10
+                                                                    ) [Factor_Num]
+                                                                  ) [Factor]
+                                                                ) [FactorMulopListRec_Yes]
+                                                              ) [Term]
+                                                            ) [AddOpTermListRec_Yes]
+                                                          ) [Expr]
+                                                        ) [Factor_Expr]
+                                                      ) [Factor]
+                                                    ) [FactorMulopListRec_Yes]
+                                                  ) [Term]
+                                                ) [AddOpTermListRec_Firt]
+                                              ) [Expr]
+                                            ) [Factor_Expr]
+                                          ) [Factor]
+                                        ) [FactorMulopListRec_First]
+                                      ) [Term]
+                                    ) [AddOpTermListRec_Firt]
+                                    AddOp_Minus(
+                                    ) [AddOp_Minus]
+                                    Term(
+                                      FactorMulopListRec_First(
+                                        Factor(
+                                          MayMinus_No(
+                                          ) [MayMinus_No]
+                                          Factor_Expr(
+                                            Expr(
+                                              AddOpTermListRec_Firt(
+                                                Term(
+                                                  FactorMulopListRec_Yes(
+                                                    FactorMulopListRec_Yes(
+                                                      FactorMulopListRec_First(
+                                                        Factor(
+                                                          MayMinus_No(
+                                                          ) [MayMinus_No]
+                                                          Factor_Num(
+                                                           3
+                                                          ) [Factor_Num]
+                                                        ) [Factor]
+                                                      ) [FactorMulopListRec_First]
+                                                      MullOp_Times(
+                                                      ) [MullOp_Times]
+                                                      Factor(
+                                                        MayMinus_No(
+                                                        ) [MayMinus_No]
+                                                        Factor_Num(
+                                                         4
+                                                        ) [Factor_Num]
+                                                      ) [Factor]
+                                                    ) [FactorMulopListRec_Yes]
+                                                    MullOp_Times(
+                                                    ) [MullOp_Times]
+                                                    Factor(
+                                                      MayMinus_No(
+                                                      ) [MayMinus_No]
+                                                      Factor_Expr(
+                                                        Expr(
+                                                          AddOpTermListRec_Firt(
+                                                            Term(
+                                                              FactorMulopListRec_First(
+                                                                Factor(
+                                                                  MayMinus_Yes(
+                                                                  ) [MayMinus_Yes]
+                                                                  Factor_Expr(
+                                                                    Expr(
+                                                                      AddOpTermListRec_Firt(
+                                                                        Term(
+                                                                          FactorMulopListRec_First(
+                                                                            Factor(
+                                                                              MayMinus_No(
+                                                                              ) [MayMinus_No]
+                                                                              Factor_Num(
+                                                                               2
+                                                                              ) [Factor_Num]
+                                                                            ) [Factor]
+                                                                          ) [FactorMulopListRec_First]
+                                                                        ) [Term]
+                                                                      ) [AddOpTermListRec_Firt]
+                                                                    ) [Expr]
+                                                                  ) [Factor_Expr]
+                                                                ) [Factor]
+                                                              ) [FactorMulopListRec_First]
+                                                            ) [Term]
+                                                          ) [AddOpTermListRec_Firt]
+                                                        ) [Expr]
+                                                      ) [Factor_Expr]
+                                                    ) [Factor]
+                                                  ) [FactorMulopListRec_Yes]
+                                                ) [Term]
+                                              ) [AddOpTermListRec_Firt]
+                                            ) [Expr]
+                                          ) [Factor_Expr]
+                                        ) [Factor]
+                                      ) [FactorMulopListRec_First]
+                                    ) [Term]
+                                  ) [AddOpTermListRec_Yes]
+                                  AddOp_Minus(
+                                  ) [AddOp_Minus]
+                                  Term(
+                                    FactorMulopListRec_First(
+                                      Factor(
+                                        MayMinus_No(
+                                        ) [MayMinus_No]
+                                        Factor_Num(
+                                         4
+                                        ) [Factor_Num]
+                                      ) [Factor]
+                                    ) [FactorMulopListRec_First]
+                                  ) [Term]
+                                ) [AddOpTermListRec_Yes]
+                              ) [Expr]
+                            ) [Factor_Expr]
+                          ) [Factor]
+                        ) [FactorMulopListRec_First]
+                      ) [Term]
+                    ) [AddOpTermListRec_Firt]
+                    AddOp_Plus(
+                    ) [AddOp_Plus]
+                    Term(
+                      FactorMulopListRec_First(
+                        Factor(
+                          MayMinus_No(
+                          ) [MayMinus_No]
+                          Factor_Expr(
+                            Expr(
+                              AddOpTermListRec_Firt(
+                                Term(
+                                  FactorMulopListRec_Yes(
+                                    FactorMulopListRec_First(
+                                      Factor(
+                                        MayMinus_Yes(
+                                        ) [MayMinus_Yes]
+                                        Factor_Num(
+                                         4
+                                        ) [Factor_Num]
+                                      ) [Factor]
+                                    ) [FactorMulopListRec_First]
+                                    MullOp_Times(
+                                    ) [MullOp_Times]
+                                    Factor(
+                                      MayMinus_No(
+                                      ) [MayMinus_No]
+                                      Factor_Expr(
+                                        Expr(
+                                          AddOpTermListRec_Firt(
+                                            Term(
+                                              FactorMulopListRec_First(
+                                                Factor(
+                                                  MayMinus_Yes(
+                                                  ) [MayMinus_Yes]
+                                                  Factor_Num(
+                                                   1
+                                                  ) [Factor_Num]
+                                                ) [Factor]
+                                              ) [FactorMulopListRec_First]
+                                            ) [Term]
+                                          ) [AddOpTermListRec_Firt]
+                                        ) [Expr]
+                                      ) [Factor_Expr]
+                                    ) [Factor]
+                                  ) [FactorMulopListRec_Yes]
+                                ) [Term]
+                              ) [AddOpTermListRec_Firt]
+                            ) [Expr]
+                          ) [Factor_Expr]
+                        ) [Factor]
+                      ) [FactorMulopListRec_First]
+                    ) [Term]
+                  ) [AddOpTermListRec_Yes]
+                ) [Expr]
+              ) [DesignatorStat_AssignExpr]
+            ) [SingleStatement_Designator]
+          ) [StatementSingle]
+        ) [StatementListRec_Yes]
+        StatementSingle(
+          SingleStatement_Print(
+            Expr(
+              AddOpTermListRec_Firt(
+                Term(
+                  FactorMulopListRec_First(
+                    Factor(
+                      MayMinus_No(
+                      ) [MayMinus_No]
+                      Factor_DesignatorVar(
+                        DesignatorName1(
+                         x
+                        ) [DesignatorName1]
+                      ) [Factor_DesignatorVar]
+                    ) [Factor]
+                  ) [FactorMulopListRec_First]
+                ) [Term]
+              ) [AddOpTermListRec_Firt]
+            ) [Expr]
+            MayNumConst_No(
+            ) [MayNumConst_No]
+          ) [SingleStatement_Print]
+        ) [StatementSingle]
+      ) [StatementListRec_Yes]
+    ) [MethodDecl]
+  ) [MethodList_Yes]
+) [Program]
+INFO  23:44:06,573 - ===================================
+INFO  23:44:06,575 - Deklarisana konstanta: pi na liniji 3
+INFO  23:44:06,575 - Deklarisana promenljiva: x na liniji 4
+INFO  23:44:06,575 - Deklarisan niz: y na liniji 4
+INFO  23:44:06,575 - Deklarisana promenljiva: flag na liniji 5
+INFO  23:44:06,575 - Deklarisana promenljiva: chr na liniji 7
+INFO  23:44:06,575 - Deklarisana promenljiva: a na liniji 11
+INFO  23:44:06,575 - Deklarisan niz: b na liniji 11
+INFO  23:44:06,575 - Koriscenje simbola: x na liniji 13
+INFO  23:44:06,575 - Adekvatna dodela na liniji 13
+INFO  23:44:06,575 - Koriscenje simbola: x na liniji 19
+INFO  23:44:06,576 - ===================================
+INFO  23:44:06,578 - Parsiranje uspesno zavrseno!

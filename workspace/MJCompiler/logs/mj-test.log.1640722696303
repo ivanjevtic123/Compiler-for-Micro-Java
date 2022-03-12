@@ -1,0 +1,100 @@
+INFO  21:17:05,339 - Compiling source file: C:\Users\ji180550d\Desktop\PP1\PROJECT\Labs\lab1_code\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  21:17:05,390 - #2 program
+INFO  21:17:05,390 - #44 Keske
+INFO  21:17:05,390 - #5 const
+INFO  21:17:05,391 - #44 int
+INFO  21:17:05,391 - #44 pi
+INFO  21:17:05,392 - #6 =
+INFO  21:17:05,392 - #45 3
+INFO  21:17:05,392 - #8 ;
+INFO  21:17:05,393 - #44 int
+INFO  21:17:05,394 - #44 x
+INFO  21:17:05,394 - #7 ,
+INFO  21:17:05,396 - #44 y
+INFO  21:17:05,396 - #7 ,
+INFO  21:17:05,396 - #44 z
+INFO  21:17:05,396 - #8 ;
+INFO  21:17:05,397 - #5 const
+INFO  21:17:05,398 - #44 char
+INFO  21:17:05,398 - #44 a
+INFO  21:17:05,398 - #6 =
+INFO  21:17:05,398 - #47 a
+INFO  21:17:05,398 - #8 ;
+INFO  21:17:05,403 - #3 {
+INFO  21:17:05,403 - #4 }
+INFO  21:17:05,409 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConVarRecDeclListCon(
+    ConVarRecDeclListVar(
+      ConVarRecDeclListCon(
+        ConVarRecDeclListEpsilon(
+        ) [ConVarRecDeclListEpsilon]
+        ConstDeclList(
+          Type(
+           int
+          ) [Type]
+          ConstDec(
+           pi
+            NumConst(
+             3
+            ) [NumConst]
+          ) [ConstDec]
+          MoreConstDeclEpsilon(
+          ) [MoreConstDeclEpsilon]
+        ) [ConstDeclList]
+      ) [ConVarRecDeclListCon]
+      VarDeclList(
+        Type(
+         int
+        ) [Type]
+        VarDec(
+          VarName(
+           x
+          ) [VarName]
+          Array_No(
+          ) [Array_No]
+        ) [VarDec]
+        MoreVarDeclaration(
+          VarDec(
+            VarName(
+             y
+            ) [VarName]
+            Array_No(
+            ) [Array_No]
+          ) [VarDec]
+          MoreVarDeclaration(
+            VarDec(
+              VarName(
+               z
+              ) [VarName]
+              Array_No(
+              ) [Array_No]
+            ) [VarDec]
+            MoreVarDec_Epsilon(
+            ) [MoreVarDec_Epsilon]
+          ) [MoreVarDeclaration]
+        ) [MoreVarDeclaration]
+      ) [VarDeclList]
+    ) [ConVarRecDeclListVar]
+    ConstDeclList(
+      Type(
+       char
+      ) [Type]
+      ConstDec(
+       a
+        CharConst(
+         a
+        ) [CharConst]
+      ) [ConstDec]
+      MoreConstDeclEpsilon(
+      ) [MoreConstDeclEpsilon]
+    ) [ConstDeclList]
+  ) [ConVarRecDeclListCon]
+  MethodList_Epsilon(
+  ) [MethodList_Epsilon]
+) [Program]
+INFO  21:17:05,409 - ===================================
+INFO  21:17:05,412 - ===================================
+INFO  21:17:05,412 - Parsiranje uspesno zavrseno!

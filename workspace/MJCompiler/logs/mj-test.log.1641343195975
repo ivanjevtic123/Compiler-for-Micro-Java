@@ -1,0 +1,141 @@
+INFO  01:39:29,687 - Compiling source file: C:\Users\ji180550d\Desktop\PP1\PROJECT\Labs\lab1_code\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  01:39:29,716 - #2 program
+INFO  01:39:29,716 - #44 Keske
+INFO  01:39:29,716 - #5 const
+INFO  01:39:29,717 - #44 int
+INFO  01:39:29,717 - #44 pi
+INFO  01:39:29,718 - #6 =
+INFO  01:39:29,718 - #45 3
+INFO  01:39:29,718 - #7 ,
+INFO  01:39:29,718 - #44 g
+INFO  01:39:29,718 - #6 =
+INFO  01:39:29,718 - #45 11
+INFO  01:39:29,719 - #8 ;
+INFO  01:39:29,719 - #44 int
+INFO  01:39:29,720 - #44 x
+INFO  01:39:29,720 - #7 ,
+INFO  01:39:29,721 - #44 arr
+INFO  01:39:29,721 - #9 [
+INFO  01:39:29,721 - #10 ]
+INFO  01:39:29,721 - #7 ,
+INFO  01:39:29,722 - #44 z
+INFO  01:39:29,722 - #8 ;
+INFO  01:39:29,723 - #5 const
+INFO  01:39:29,723 - #44 char
+INFO  01:39:29,723 - #44 c
+INFO  01:39:29,723 - #6 =
+INFO  01:39:29,723 - #47 a
+INFO  01:39:29,723 - #8 ;
+INFO  01:39:29,723 - #44 bool
+INFO  01:39:29,724 - #44 b
+INFO  01:39:29,724 - #8 ;
+INFO  01:39:29,724 - #3 {
+INFO  01:39:29,724 - #4 }
+INFO  01:39:29,728 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConVarRecDeclListVar(
+    ConVarRecDeclListCon(
+      ConVarRecDeclListVar(
+        ConVarRecDeclListCon(
+          ConVarRecDeclListEpsilon(
+          ) [ConVarRecDeclListEpsilon]
+          ConstDeclList(
+            Type(
+             int
+            ) [Type]
+            ConstDec(
+             pi
+              NumConst(
+               3
+              ) [NumConst]
+            ) [ConstDec]
+            MoreConstDeclaration(
+              ConstDec(
+               g
+                NumConst(
+                 11
+                ) [NumConst]
+              ) [ConstDec]
+              MoreConstDeclEpsilon(
+              ) [MoreConstDeclEpsilon]
+            ) [MoreConstDeclaration]
+          ) [ConstDeclList]
+        ) [ConVarRecDeclListCon]
+        VarDeclList(
+          Type(
+           int
+          ) [Type]
+          VarDec(
+            VarName(
+             x
+            ) [VarName]
+            Array_No(
+            ) [Array_No]
+          ) [VarDec]
+          MoreVarDeclaration(
+            VarDec(
+              VarName(
+               arr
+              ) [VarName]
+              Array_Yes(
+              ) [Array_Yes]
+            ) [VarDec]
+            MoreVarDeclaration(
+              VarDec(
+                VarName(
+                 z
+                ) [VarName]
+                Array_No(
+                ) [Array_No]
+              ) [VarDec]
+              MoreVarDec_Epsilon(
+              ) [MoreVarDec_Epsilon]
+            ) [MoreVarDeclaration]
+          ) [MoreVarDeclaration]
+        ) [VarDeclList]
+      ) [ConVarRecDeclListVar]
+      ConstDeclList(
+        Type(
+         char
+        ) [Type]
+        ConstDec(
+         c
+          CharConst(
+           a
+          ) [CharConst]
+        ) [ConstDec]
+        MoreConstDeclEpsilon(
+        ) [MoreConstDeclEpsilon]
+      ) [ConstDeclList]
+    ) [ConVarRecDeclListCon]
+    VarDeclList(
+      Type(
+       bool
+      ) [Type]
+      VarDec(
+        VarName(
+         b
+        ) [VarName]
+        Array_No(
+        ) [Array_No]
+      ) [VarDec]
+      MoreVarDec_Epsilon(
+      ) [MoreVarDec_Epsilon]
+    ) [VarDeclList]
+  ) [ConVarRecDeclListVar]
+  MethodList_Epsilon(
+  ) [MethodList_Epsilon]
+) [Program]
+INFO  01:39:29,728 - ===================================
+INFO  01:39:29,730 - Deklarisana konstanta: pi na liniji 3
+INFO  01:39:29,730 - Deklarisana konstanta: g na liniji 3
+INFO  01:39:29,730 - Deklarisana promenljiva: x na liniji 4
+INFO  01:39:29,730 - Deklarisan niz: arr na liniji 4
+INFO  01:39:29,730 - Deklarisana promenljiva: z na liniji 4
+INFO  01:39:29,730 - Deklarisana konstanta: c na liniji 5
+INFO  01:39:29,731 - Deklarisana promenljiva: b na liniji 6
+ERROR 01:39:29,731 - Niste definisali Main metodu na liniji 1
+INFO  01:39:29,731 - ===================================
+ERROR 01:39:29,731 - Parsiranje NIJE uspesno zavrseno!

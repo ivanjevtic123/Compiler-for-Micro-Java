@@ -1,0 +1,116 @@
+INFO  23:06:49,388 - Compiling source file: C:\Users\ji180550d\Desktop\PP1\PROJECT\Labs\lab1_code\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  23:06:49,415 - #2 program
+INFO  23:06:49,415 - #44 Keske
+INFO  23:06:49,415 - #44 int
+INFO  23:06:49,416 - #44 x
+INFO  23:06:49,416 - #7 ,
+INFO  23:06:49,418 - #44 y
+INFO  23:06:49,418 - #9 [
+INFO  23:06:49,418 - #10 ]
+INFO  23:06:49,418 - #7 ,
+INFO  23:06:49,418 - #44 c
+INFO  23:06:49,418 - #8 ;
+INFO  23:06:49,419 - #3 {
+INFO  23:06:49,419 - #14 void
+INFO  23:06:49,420 - #44 main
+INFO  23:06:49,420 - #12 (
+INFO  23:06:49,420 - #13 )
+INFO  23:06:49,421 - #44 int
+INFO  23:06:49,421 - #44 a
+INFO  23:06:49,421 - #7 ,
+INFO  23:06:49,421 - #44 b
+INFO  23:06:49,422 - #8 ;
+INFO  23:06:49,426 - #3 {
+INFO  23:06:49,426 - #4 }
+INFO  23:06:49,427 - #4 }
+INFO  23:06:49,431 - Program(
+  ProgramName(
+   Keske
+  ) [ProgramName]
+  ConVarRecDeclListVar(
+    ConVarRecDeclListEpsilon(
+    ) [ConVarRecDeclListEpsilon]
+    VarDeclList(
+      Type(
+       int
+      ) [Type]
+      VarDec(
+        VarName(
+         x
+        ) [VarName]
+        Array_No(
+        ) [Array_No]
+      ) [VarDec]
+      MoreVarDeclaration(
+        VarDec(
+          VarName(
+           y
+          ) [VarName]
+          Array_Yes(
+          ) [Array_Yes]
+        ) [VarDec]
+        MoreVarDeclaration(
+          VarDec(
+            VarName(
+             c
+            ) [VarName]
+            Array_No(
+            ) [Array_No]
+          ) [VarDec]
+          MoreVarDec_Epsilon(
+          ) [MoreVarDec_Epsilon]
+        ) [MoreVarDeclaration]
+      ) [MoreVarDeclaration]
+    ) [VarDeclList]
+  ) [ConVarRecDeclListVar]
+  MethodList_Yes(
+    MethodList_Epsilon(
+    ) [MethodList_Epsilon]
+    MethodDecl(
+      TypeOrVoidName_Void(
+      ) [TypeOrVoidName_Void]
+      MethName(
+       main
+      ) [MethName]
+      FormPars_No(
+      ) [FormPars_No]
+      VarDeclListRec_Yes(
+        VarDeclListRec_Epsilon(
+        ) [VarDeclListRec_Epsilon]
+        VarDeclList(
+          Type(
+           int
+          ) [Type]
+          VarDec(
+            VarName(
+             a
+            ) [VarName]
+            Array_No(
+            ) [Array_No]
+          ) [VarDec]
+          MoreVarDeclaration(
+            VarDec(
+              VarName(
+               b
+              ) [VarName]
+              Array_No(
+              ) [Array_No]
+            ) [VarDec]
+            MoreVarDec_Epsilon(
+            ) [MoreVarDec_Epsilon]
+          ) [MoreVarDeclaration]
+        ) [VarDeclList]
+      ) [VarDeclListRec_Yes]
+      StatementListRec_Epsilon(
+      ) [StatementListRec_Epsilon]
+    ) [MethodDecl]
+  ) [MethodList_Yes]
+) [Program]
+INFO  23:06:49,431 - ===================================
+INFO  23:06:49,433 - Deklarisana promenljiva: x na liniji 3
+INFO  23:06:49,433 - Deklarisan niz: y na liniji 3
+INFO  23:06:49,433 - Deklarisana promenljiva: c na liniji 3
+INFO  23:06:49,433 - Deklarisana promenljiva: a na liniji 7
+INFO  23:06:49,434 - Deklarisana promenljiva: b na liniji 7
+INFO  23:06:49,434 - ===================================
+INFO  23:06:49,436 - Parsiranje uspesno zavrseno!

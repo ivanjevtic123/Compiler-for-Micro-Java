@@ -1,0 +1,32 @@
+program Modif
+
+int arr[], x, max_val;
+char c_arr[];
+
+{
+
+
+void main() {
+
+	arr = new int [2];
+	
+	arr[0] = 11;
+	arr[1] = 103;
+	arr[2] = 27;
+	
+	//max_val = #arr;
+	
+	//print(eol);
+	//print(arr[1]);
+	//print(eol);
+	//print(arr[2]);
+	//print(eol);
+	//print(arr[3]);
+	
+	
+	print(eol);
+	//print(max_val);
+
+}
+
+}

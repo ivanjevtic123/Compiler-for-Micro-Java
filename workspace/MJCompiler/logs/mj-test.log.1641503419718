@@ -1,0 +1,25 @@
+INFO  22:09:32,015 - Compiling source file: C:\Users\ji180550d\Desktop\PP1\PROJECT\Labs\lab1_code\pp1domaci\workspace\MJCompiler\test\program.mj
+INFO  22:09:32,044 - #2 program
+INFO  22:09:32,044 - #44 Keske
+INFO  22:09:32,044 - #5 const
+INFO  22:09:32,045 - #44 int
+INFO  22:09:32,045 - #44 pi
+INFO  22:09:32,045 - #6 =
+INFO  22:09:32,045 - #45 3
+INFO  22:09:32,045 - #8 ;
+INFO  22:09:32,046 - #44 int
+INFO  22:09:32,047 - #44 x
+INFO  22:09:32,047 - #7 ,
+INFO  22:09:32,048 - #44 y
+INFO  22:09:32,048 - #9 [
+INFO  22:09:32,049 - #10 ]
+INFO  22:09:32,049 - #8 ;
+INFO  22:09:32,049 - #44 bool
+INFO  22:09:32,050 - #44 flag
+INFO  22:09:32,050 - #8 ;
+INFO  22:09:32,050 - #44 char
+INFO  22:09:32,050 - #44 c
+INFO  22:09:32,050 - #6 =
+ERROR 22:09:32,055 - 
+Sintaksna greska na liniji 6
+ERROR 22:09:32,055 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 6
